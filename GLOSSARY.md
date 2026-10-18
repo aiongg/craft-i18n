@@ -28,3 +28,6 @@ each locale has as many as its language's plural rules need.
 
 **Pseudo locale**: a fake locale that marks every translated string, used to find text that
 bypasses translation. Never shipped as a choice to users.
+
+**Offered locale**: a locale a Crafting App lets its users choose. A locale the app has catalogs
+for but doesn't offer (one its interface isn't ready for) still serves as a fallback.
