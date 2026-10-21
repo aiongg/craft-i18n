@@ -2283,7 +2283,6 @@
 	Search in:	Cari di:
 	Search presets	Cari preset
 	Search templates	Cari templat
-	Search:	Cari:
 	second(s)	detik
 	Seconds	Detik
 	seconds	detik
@@ -2821,7 +2820,6 @@
 	Uniform Spacing	Jarak Seragam
 	Universal Counting Leader…	Leader Hitung Mundur Universal…
 	Unlink	Lepas Tautan
-	Unreadable	Tidak terbaca
 	Unrendered: render to play back in real time	Belum dirender: render agar dapat diputar secara real time
 	Unrendered: should play back in real time	Belum dirender: seharusnya dapat diputar secara real time
 	Unstack	Lepas Tumpukan
@@ -3050,7 +3048,6 @@
 	{n} sessions have unsaved changes:	{n} sesi memiliki perubahan yang belum disimpan:
 	{n} Size	Ukuran {n}
 	{n}. (empty)	{n}. (kosong)
-	{panel} Panel	Panel {panel}
 	{panel} — coming in a later milestone	{panel} — hadir di milestone berikutnya
 	{rate} fps Drop-Frame Timecode	Kode Waktu Drop-Frame {rate} fps
 	{rate} fps Non Drop-Frame Timecode	Kode Waktu Non Drop-Frame {rate} fps

@@ -1154,3 +1154,152 @@ theme	Appearance	Vormgeving
 @plural	{n} Layer|{n} Layers	{n} laag|{n} lagen
 @plural	{n} step|{n} steps	{n} stap|{n} stappen
 	● Recording	● Opnemen
+
+# Keyboard Shortcuts dialog (craft-keymap)
+	Reset All…	Alles herstellen…
+	Restore every default shortcut in this set?	Alle standaardsneltoetsen in deze set herstellen?
+	Reset All	Alles herstellen
+	Filter:	Filter:
+	Search:	Zoeken:
+	Search by key	Zoeken op toets
+	All Commands	Alle opdrachten
+	{menu} Menu	Menu {menu}
+	{panel} Panel	Paneel {panel}
+	Fixed Keys	Vaste toetsen
+	With Shortcut	Met sneltoets
+	Changed	Gewijzigd
+	Conflicts	Conflicten
+	(cycles)	(wisselt door)
+	{label} (cycles)	{label} (wisselt door)
+	{label} (Changed)	{label} (gewijzigd)
+	Commands	Opdrachten
+	Detail pane size	Grootte van detailvenster
+	Select a command to see and change its shortcuts	Selecteer een opdracht om de sneltoetsen te bekijken en te wijzigen
+	{chord} (Default)	{chord} (standaard)
+	{chord} ({scope})	{chord} ({scope})
+	{label} ({scope})	{label} ({scope})
+	Application	Programma
+	Current shortcuts:	Huidige sneltoetsen:
+	New shortcut:	Nieuwe sneltoets:
+	New shortcut: {chord}	Nieuwe sneltoets: {chord}
+	press keys	druk op toetsen
+	{chord} (press again for a double press)	{chord} (druk nogmaals voor een dubbele druk)
+	Context:	Context:
+	Default: {chord}	Standaard: {chord}
+	Currently assigned to:	Momenteel toegewezen aan:
+	Not assigned	Niet toegewezen
+	{label} ({scope}, both work)	{label} ({scope}, beide werken)
+	Add a shortcut to {label}	Sneltoets toevoegen aan {label}
+	Remove {chord} from {label}	{chord} verwijderen van {label}
+	Restore the default for {label}	Standaard voor {label} herstellen
+	{label}: {chord}	{label}: {chord}
+	{label}: press keys	{label}: druk op toetsen
+	Now used by {label}	Wordt nu gebruikt door {label}
+	{label}: {chord} (Now used by {holder})	{label}: {chord} (wordt nu gebruikt door {holder})
+	the shortcut has no key	de sneltoets heeft geen toets
+	unknown modifier {key}	onbekende wijzigingstoets {key}
+	modifier {key} given twice	wijzigingstoets {key} twee keer opgegeven
+	key sequences are not supported	toetsenreeksen worden niet ondersteund
+	the scope name is not valid	de naam van het bereik is ongeldig
+	Keyboard	Toetsenbord
+	Keyboard: US	Toetsenbord: VS
+	Keyboard: US (macOS)	Toetsenbord: VS (macOS)
+	Control	Control
+	Option	Option
+	Caps Lock	Caps Lock
+	Win	Win
+	Super	Super
+	Panel or context	Paneel of context
+	Modifier on	Wijzigingstoets aan
+	{chord}: {label}	{chord}: {label}
+	Click a key to see its shortcuts	Klik op een toets om de sneltoetsen te zien
+	Key: {key}	Toets: {key}
+	Assign to Selected	Toewijzen aan selectie
+	Assign {chord} to {label}	{chord} toewijzen aan {label}
+	Select a command first	Selecteer eerst een opdracht
+	Nothing uses this key	Niets gebruikt deze toets
+	⚠ {chord} is used by {label}	⚠ {chord} wordt gebruikt door {label}
+	{chord} was removed from {label}	{chord} is verwijderd van {label}
+	Also used by {label}	Wordt ook gebruikt door {label}
+	{chord} is reserved by the system	{chord} is gereserveerd door het systeem
+	A command can have at most {n} shortcuts	Een opdracht kan maximaal {n} sneltoetsen hebben
+	The scope {scope} is unknown	Het bereik {scope} is onbekend
+	Too many shortcuts are assigned	Er zijn te veel sneltoetsen toegewezen
+	This command is unknown	Deze opdracht is onbekend
+	Take It	Overnemen
+	Take It and Go to Conflict	Overnemen en naar conflict gaan
+	Keep Both	Beide behouden
+	Go to Conflict	Naar conflict gaan
+	Cancel the new shortcut	Nieuwe sneltoets annuleren
+	{key}: no command has this name	{key}: geen opdracht heeft deze naam
+	{key}: “{text}” is not a shortcut ({error})	{key}: “{text}” is geen sneltoets ({error})
+	{key}: {text} is reserved by the system	{key}: {text} is gereserveerd door het systeem
+	{key}: the scope in “{text}” is unknown	{key}: het bereik in “{text}” is onbekend
+	{key}: listed more than once	{key}: meer dan eens vermeld
+	{key}: part of the entry was dropped	{key}: een deel van het item is weggelaten
+	(modified)	(gewijzigd)
+	New Set…	Nieuwe set…
+	Revert Set	Set terugzetten
+	Summarize…	Samenvatten…
+	{title}: {set}	{title}: {set}
+	Based on:	Gebaseerd op:
+	Current shortcuts	Huidige sneltoetsen
+	Save changes to “{set}”?	Wijzigingen in “{set}” opslaan?
+	Delete the set “{set}”?	De set “{set}” verwijderen?
+	Keyboard Shortcuts (JSON)	Sneltoetsen (JSON)
+	The name is empty, too long or has control characters	De naam is leeg, te lang of bevat besturingstekens
+	A set with this name exists	Er bestaat al een set met deze naam
+	The set was not found	De set is niet gevonden
+	Built-in sets cannot be changed	Ingebouwde sets kunnen niet worden gewijzigd
+	There are too many sets	Er zijn te veel sets
+	This is not a shortcut set file	Dit is geen sneltoetsenset-bestand
+	This is not a craft-keymap file	Dit is geen craft-keymap-bestand
+	This file is from a newer version (format {n})	Dit bestand is afkomstig van een nieuwere versie (indeling {n})
+	The file is too large	Het bestand is te groot
+	Import “{set}”	“{set}” importeren
+	Set name:	Naam van set:
+	Cancel Import	Importeren annuleren
+	line {n}	regel {n}
+	Will change	Wordt gewijzigd
+	Not matched	Niet gekoppeld
+	Unreadable	Onleesbaar
+	Approximated	Bij benadering
+	{title} ({n})	{title} ({n})
+	Suggestions ({n})	Suggesties ({n})
+	numeric keypad key read as main key	toets van het numerieke toetsenblok gelezen als hoofdtoets
+	Matched without change	Gekoppeld zonder wijziging
+	Command for {item}	Opdracht voor {item}
+	Choose a command…	Kies een opdracht…
+	no command has this name	geen opdracht heeft deze naam
+	more than one command fits	meer dan één opdracht komt in aanmerking
+	in a context that is not imported	in een context die niet wordt geïmporteerd
+	only a command of the other kind fits (tool or menu command)	alleen een opdracht van het andere type past (gereedschaps- of menuopdracht)
+	empty shortcut	lege sneltoets
+	the shortcut is too long	de sneltoets is te lang
+	unknown key {key}	onbekende toets {key}
+	unsupported modifier {key}	niet-ondersteunde wijzigingstoets {key}
+	{label} keeps its shortcuts (matched by a panel menu name)	{label} behoudt de sneltoetsen (gekoppeld via een paneelmenunaam)
+	Import as New Set	Importeren als nieuwe set
+	Imported	Geïmporteerd
+	Imported as “{set}”	Geïmporteerd als “{set}”
+	Skipped	Overgeslagen
+	Taken from other commands	Overgenomen van andere opdrachten
+	Not changed	Niet gewijzigd
+	taken by {label}	in gebruik door {label}
+	taken by a later entry	in gebruik door een later item
+	reserved by the system	gereserveerd door het systeem
+	the scope is unknown	het bereik is onbekend
+	the set's shortcuts could not be added	de sneltoetsen van de set konden niet worden toegevoegd
+	the shortcuts could not be removed	de sneltoetsen konden niet worden verwijderd
+	Copy Report	Rapport kopiëren
+@plural	{n} shortcut is assigned more than once|{n} shortcuts are assigned more than once	{n} sneltoets is meer dan eens toegewezen|{n} sneltoetsen zijn meer dan eens toegewezen
+@plural	{n} saved shortcut could not be used|{n} saved shortcuts could not be used	{n} opgeslagen sneltoets kon niet worden gebruikt|{n} opgeslagen sneltoetsen konden niet worden gebruikt
+@plural	{n} command will change|{n} commands will change	{n} opdracht wordt gewijzigd|{n} opdrachten worden gewijzigd
+@plural	{n} item without a shortcut|{n} items without a shortcut	{n} item zonder sneltoets|{n} items zonder sneltoets
+@plural	{n} item not matched|{n} items not matched	{n} item niet gekoppeld|{n} items niet gekoppeld
+@plural	{n} item could not be read|{n} items could not be read	{n} item kon niet worden gelezen|{n} items konden niet worden gelezen
+@plural	{n} key read approximately|{n} keys read approximately	{n} toets bij benadering gelezen|{n} toetsen bij benadering gelezen
+@plural	{n} entry cut at a limit|{n} entries cut at a limit	{n} item afgekapt bij een limiet|{n} items afgekapt bij een limiet
+@plural	{n} command changed|{n} commands changed	{n} opdracht gewijzigd|{n} opdrachten gewijzigd
+@plural	{n} shortcut also works in another scope|{n} shortcuts also work in another scope	{n} sneltoets werkt ook in een ander bereik|{n} sneltoetsen werken ook in een ander bereik
+@plural	{n} entry was ignored: too many commands|{n} entries were ignored: too many commands	{n} item is genegeerd: te veel opdrachten|{n} items zijn genegeerd: te veel opdrachten

@@ -1262,3 +1262,151 @@ theme	Appearance	Giao diện
 @plural	{n} step|{n} steps	{n} bước
 	−Bin	−Bin
 	● Recording	● Đang ghi
+
+# Keyboard Shortcuts dialog (craft-keymap)
+	Reset All…	Đặt lại tất cả…
+	Restore every default shortcut in this set?	Khôi phục tất cả phím tắt mặc định trong bộ này?
+	Reset All	Đặt lại tất cả
+	Filter:	Bộ lọc:
+	Search:	Tìm kiếm:
+	Search by key	Tìm theo phím
+	All Commands	Tất cả lệnh
+	{menu} Menu	Trình đơn {menu}
+	{panel} Panel	Bảng {panel}
+	Fixed Keys	Phím cố định
+	With Shortcut	Có phím tắt
+	Changed	Đã thay đổi
+	Conflicts	Xung đột
+	(cycles)	(luân phiên)
+	{label} (cycles)	{label} (luân phiên)
+	{label} (Changed)	{label} (đã thay đổi)
+	Commands	Lệnh
+	Detail pane size	Kích thước ngăn chi tiết
+	Select a command to see and change its shortcuts	Chọn một lệnh để xem và thay đổi phím tắt của lệnh đó
+	{chord} (Default)	{chord} (mặc định)
+	{chord} ({scope})	{chord} ({scope})
+	{label} ({scope})	{label} ({scope})
+	Current shortcuts:	Phím tắt hiện tại:
+	New shortcut:	Phím tắt mới:
+	New shortcut: {chord}	Phím tắt mới: {chord}
+	press keys	nhấn phím
+	{chord} (press again for a double press)	{chord} (nhấn lại để nhấn đúp)
+	Context:	Ngữ cảnh:
+	Default: {chord}	Mặc định: {chord}
+	Currently assigned to:	Hiện được gán cho:
+	Not assigned	Chưa gán
+	{label} ({scope}, both work)	{label} ({scope}, cả hai đều dùng được)
+	Add a shortcut to {label}	Thêm phím tắt cho {label}
+	Remove {chord} from {label}	Xóa {chord} khỏi {label}
+	Restore the default for {label}	Khôi phục mặc định cho {label}
+	{label}: {chord}	{label}: {chord}
+	{label}: press keys	{label}: nhấn phím
+	Now used by {label}	Hiện được {label} sử dụng
+	{label}: {chord} (Now used by {holder})	{label}: {chord} (hiện được {holder} sử dụng)
+	the shortcut has no key	phím tắt không có phím nào
+	unknown modifier {key}	phím bổ trợ không rõ {key}
+	modifier {key} given twice	phím bổ trợ {key} xuất hiện hai lần
+	key sequences are not supported	không hỗ trợ chuỗi phím
+	the scope name is not valid	tên ngữ cảnh không hợp lệ
+	Keyboard	Bàn phím
+	Keyboard: US	Bàn phím: Mỹ
+	Keyboard: US (macOS)	Bàn phím: Mỹ (macOS)
+	Control	Điều khiển
+	Option	Option
+	Caps Lock	Caps Lock
+	Win	Win
+	Super	Super
+	Panel or context	Bảng hoặc ngữ cảnh
+	Modifier on	Phím bổ trợ đang bật
+	{chord}: {label}	{chord}: {label}
+	Click a key to see its shortcuts	Nhấp vào một phím để xem phím tắt của phím đó
+	Key: {key}	Phím: {key}
+	Assign to Selected	Gán cho mục đã chọn
+	Assign {chord} to {label}	Gán {chord} cho {label}
+	Select a command first	Hãy chọn một lệnh trước
+	Nothing uses this key	Không có lệnh nào dùng phím này
+	⚠ {chord} is used by {label}	⚠ {chord} đang được {label} sử dụng
+	{chord} was removed from {label}	Đã xóa {chord} khỏi {label}
+	Also used by {label}	Cũng được {label} sử dụng
+	{chord} is reserved by the system	{chord} được hệ thống dành riêng
+	A command can have at most {n} shortcuts	Một lệnh có tối đa {n} phím tắt
+	The scope {scope} is unknown	Không rõ ngữ cảnh {scope}
+	Too many shortcuts are assigned	Đã gán quá nhiều phím tắt
+	This command is unknown	Không rõ lệnh này
+	Take It	Chuyển sang lệnh này
+	Take It and Go to Conflict	Chuyển và đến xung đột
+	Keep Both	Giữ cả hai
+	Go to Conflict	Đến xung đột
+	Cancel the new shortcut	Hủy phím tắt mới
+	{key}: no command has this name	{key}: không có lệnh nào mang tên này
+	{key}: “{text}” is not a shortcut ({error})	{key}: “{text}” không phải là phím tắt ({error})
+	{key}: {text} is reserved by the system	{key}: {text} được hệ thống dành riêng
+	{key}: the scope in “{text}” is unknown	{key}: không rõ ngữ cảnh trong “{text}”
+	{key}: listed more than once	{key}: xuất hiện nhiều lần
+	{key}: part of the entry was dropped	{key}: một phần của mục đã bị bỏ
+	(modified)	(đã sửa đổi)
+	New Set…	Bộ mới…
+	Revert Set	Hoàn nguyên bộ
+	Summarize…	Tóm tắt…
+	{title}: {set}	{title}: {set}
+	Based on:	Dựa trên:
+	Current shortcuts	Phím tắt hiện tại
+	Save changes to “{set}”?	Lưu các thay đổi của “{set}”?
+	Delete the set “{set}”?	Xóa bộ “{set}”?
+	Keyboard Shortcuts (JSON)	Phím tắt (JSON)
+	The name is empty, too long or has control characters	Tên trống, quá dài hoặc chứa ký tự điều khiển
+	A set with this name exists	Đã có bộ với tên này
+	The set was not found	Không tìm thấy bộ
+	Built-in sets cannot be changed	Không thể thay đổi các bộ tích hợp sẵn
+	There are too many sets	Có quá nhiều bộ
+	This is not a shortcut set file	Đây không phải là tệp bộ phím tắt
+	This is not a craft-keymap file	Đây không phải là tệp craft-keymap
+	This file is from a newer version (format {n})	Tệp này thuộc phiên bản mới hơn (định dạng {n})
+	The file is too large	Tệp quá lớn
+	Import “{set}”	Nhập “{set}”
+	Set name:	Tên bộ:
+	Cancel Import	Hủy nhập
+	line {n}	dòng {n}
+	Will change	Sẽ thay đổi
+	Not matched	Không khớp
+	Unreadable	Không đọc được
+	Approximated	Gần đúng
+	{title} ({n})	{title} ({n})
+	Suggestions ({n})	Gợi ý ({n})
+	numeric keypad key read as main key	phím trên bàn phím số được đọc như phím chính
+	Matched without change	Khớp, không thay đổi
+	Command for {item}	Lệnh cho {item}
+	Choose a command…	Chọn lệnh…
+	no command has this name	không có lệnh nào mang tên này
+	more than one command fits	có nhiều hơn một lệnh phù hợp
+	in a context that is not imported	trong ngữ cảnh không được nhập
+	only a command of the other kind fits (tool or menu command)	chỉ có lệnh loại kia phù hợp (công cụ hoặc lệnh trình đơn)
+	empty shortcut	phím tắt trống
+	the shortcut is too long	phím tắt quá dài
+	unknown key {key}	phím không rõ {key}
+	unsupported modifier {key}	phím bổ trợ không được hỗ trợ {key}
+	{label} keeps its shortcuts (matched by a panel menu name)	{label} giữ nguyên phím tắt (khớp theo tên trình đơn của bảng)
+	Import as New Set	Nhập thành bộ mới
+	Imported	Đã nhập
+	Imported as “{set}”	Đã nhập thành “{set}”
+	Skipped	Đã bỏ qua
+	Taken from other commands	Chuyển từ các lệnh khác
+	Not changed	Không thay đổi
+	taken by {label}	đã gán cho {label}
+	taken by a later entry	đã gán cho một mục sau
+	reserved by the system	được hệ thống dành riêng
+	the scope is unknown	không rõ ngữ cảnh
+	the set's shortcuts could not be added	không thể thêm phím tắt của bộ
+	the shortcuts could not be removed	không thể xóa các phím tắt
+	Copy Report	Sao chép báo cáo
+@plural	{n} shortcut is assigned more than once|{n} shortcuts are assigned more than once	{n} phím tắt được gán nhiều lần
+@plural	{n} saved shortcut could not be used|{n} saved shortcuts could not be used	Không thể dùng {n} phím tắt đã lưu
+@plural	{n} command will change|{n} commands will change	{n} lệnh sẽ thay đổi
+@plural	{n} item without a shortcut|{n} items without a shortcut	{n} mục không có phím tắt
+@plural	{n} item not matched|{n} items not matched	{n} mục không khớp
+@plural	{n} item could not be read|{n} items could not be read	Không thể đọc {n} mục
+@plural	{n} key read approximately|{n} keys read approximately	{n} phím được đọc gần đúng
+@plural	{n} entry cut at a limit|{n} entries cut at a limit	{n} mục bị cắt ở giới hạn
+@plural	{n} command changed|{n} commands changed	{n} lệnh đã thay đổi
+@plural	{n} shortcut also works in another scope|{n} shortcuts also work in another scope	{n} phím tắt cũng dùng được trong ngữ cảnh khác
+@plural	{n} entry was ignored: too many commands|{n} entries were ignored: too many commands	Đã bỏ qua {n} mục: quá nhiều lệnh

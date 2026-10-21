@@ -1011,7 +1011,6 @@ cameraData	F-Stop	Bukaan
 	Filter for smart objects	Filter untuk smart object
 	Filter for type layers	Filter untuk layer teks
 	Filter Gallery…	Galeri Filter…
-	Filter:	Filter:
 	Find and Replace Text…	Cari dan Ganti Teks…
 	Find Edges	Cari Tepi
 	Find Layers	Cari Layer
@@ -1236,7 +1235,6 @@ cameraData	Focal Length (35 mm)	Panjang Fokal (35 mm)
 	Import Presets	Impor Preset
 	Import Shortcuts…	Impor Pintasan…
 	Import Swatches…	Impor Swatch…
-	Imported	Diimpor
 	Imported {n} shortcuts from {file}. Click OK to keep them.	{n} pintasan diimpor dari {file}. Klik OK untuk menyimpannya.
 	Impressionist	Impresionis
 	In	In
@@ -2370,7 +2368,6 @@ curves	Smooth	Haluskan
 	Subtract Front Shape	Kurangi Bentuk Depan
 	Subtract Mask from Selection	Kurangi Mask dari Seleksi
 	Suggestions:	Saran:
-	Summarize…	Ringkas…
 	Summation	Penjumlahan
 	Supplemental Categories	Kategori Tambahan
 	Surface Blur…	Surface Blur…

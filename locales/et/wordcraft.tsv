@@ -99,7 +99,6 @@
 	Aligned at:	Joondatud kohal:
 	All Borders	Kõik äärised
 	All caps	Suurtähed
-	All Commands	Kõik käsud
 	All Levels	Kõik tasemed
 	All Markup	Kõik märgistused
 	All pages in the range	Kõik vahemiku leheküljed
@@ -330,7 +329,6 @@
 	Column:	Veerg:
 	Combine Documents	Ühenda dokumendid
 	Combo Box Content Control	Liitboksi sisujuhtelement
-	Commands	Käsud
 	Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text.	Kommentaarid iga lehe kõrval ja jälitatud muudatused PDF-ides, väljatrükkides ja piltides; kommentaaride loend veebilehtede, Markdowni ja teksti lõpus.
 	Comments Pane	Kommentaaripaan
 	Communication	Suhtlus
@@ -974,7 +972,6 @@
 	New Label	Uus silt
 	New Label…	Uus silt…
 	New Paragraph	Uus lõik
-	New shortcut:	Uus kiirklahv:
 	New Tab	Uus vahekaart
 	New Table Style	Uus tabelistiil
 	New Table Style…	Uus tabelistiil…
@@ -1295,7 +1292,6 @@
 	Research	Uurimine
 	Researcher	Uurija
 	Researcher needs an online service; WordCraft keeps your documents offline.	Uurija vajab võrguteenust; WordCraft hoiab teie dokumendid võrguühenduseta.
-	Reset All…	Lähtesta kõik…
 	Reset Character Formatting	Lähtesta märgivorming
 	Reset Crop	Lähtesta kärpimine
 	Reset Graphic	Lähtesta graafika

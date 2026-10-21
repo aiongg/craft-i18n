@@ -849,7 +849,6 @@ cameraData	F-Stop	光圈值
 	Filter for smart objects	筛选智能对象
 	Filter for type layers	筛选文字图层
 	Filter Gallery…	滤镜库…
-	Filter:	筛选：
 	Find and Replace Text…	查找和替换文本…
 	Find Edges	查找边缘
 	Find Layers	查找图层
@@ -1029,7 +1028,6 @@ cameraData	Focal Length (35 mm)	焦距（35 毫米等效）
 	Import Presets	导入预设
 	Import Shortcuts…	导入快捷键…
 	Import Swatches…	导入色板…
-	Imported	已导入
 	Imported {n} shortcuts from {file}. Click OK to keep them.	已从 {file} 导入 {n} 个快捷键。点击“确定”保留。
 	Impressionist	印象派
 	Include All Subfolders	包含所有子文件夹
@@ -1325,7 +1323,6 @@ cameraData	Model	型号
 	New Layer Based Slice	新建基于图层的切片
 	New Layer With Mask	带蒙版的新建图层
 	New selection	新选区
-	New Set…	新建组…
 	New Shape Layer	新建形状图层
 	New Size	新大小
 	New Smart Object via Copy	通过复制新建智能对象

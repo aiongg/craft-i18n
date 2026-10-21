@@ -1,0 +1,201 @@
+# ქართული (ka) interface catalog for every Crafting App.
+# Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
+#   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
+#            word is a label that tells apart two meanings of the same English.
+#   escapes  \n  \t  \\  inside a column. `{name}` placeholders must appear in both columns (in any
+#            order), and a trailing "…" in one needs one in the other.
+#   @plural  English `one|other`; the translation lists this language's plural forms, `|`-separated.
+#   Lines starting with # and blank lines are ignored. A missing entry shows in English.
+#
+# Clean room: every entry was written from the plain meaning of the English text in ordinary
+# computing vocabulary. No other product's localisation, string table or translated UI was
+# consulted or copied; add entries the same way.
+
+# Keyboard Shortcuts dialog (craft-keymap)
+@id	language.name	ქართული
+	Keyboard Shortcuts	კლავიატურის მალსახმობები
+	Custom	მორგებული
+	OK	კარგი
+	Cancel	გაუქმება
+	Close	დახურვა
+	Undo	მოქმედების გაუქმება
+	Redo	მოქმედების გამეორება
+	Reset All…	ყველაფრის საწყისზე დაბრუნება…
+	Restore every default shortcut in this set?	დაბრუნდეს ამ ნაკრების ყველა ნაგულისხმევი მალსახმობი?
+	Reset All	ყველაფრის საწყისზე დაბრუნება
+	Show:	ჩვენება:
+	Filter:	ფილტრი:
+	Search:	ძიება:
+	Search by key	ძიება კლავიშით
+	All Commands	ყველა ბრძანება
+	{menu} Menu	მენიუ „{menu}“
+	Tools	ინსტრუმენტები
+	{panel} Panel	პანელი „{panel}“
+	Other	სხვა
+	Fixed Keys	ფიქსირებული კლავიშები
+	All	ყველა
+	With Shortcut	მალსახმობით
+	Changed	შეცვლილი
+	Conflicts	კონფლიქტები
+	No matching commands	შესაბამისი ბრძანებები არ არის
+	(cycles)	(ციკლურია)
+	{label} (cycles)	{label} (ციკლურია)
+	{label} (Changed)	{label} (შეცვლილი)
+	Command	ბრძანება
+	Commands	ბრძანებები
+	Detail pane size	დეტალების პანელის ზომა
+	Select a command to see and change its shortcuts	აირჩიეთ ბრძანება მისი მალსახმობების სანახავად და შესაცვლელად
+	Shortcut	მალსახმობი
+	Default	ნაგულისხმევი
+	{chord} (Default)	{chord} (ნაგულისხმევი)
+	{chord} ({scope})	{chord} ({scope})
+	{label} ({scope})	{label} ({scope})
+	Application	აპლიკაცია
+	Current shortcuts:	მიმდინარე მალსახმობები:
+	New shortcut:	ახალი მალსახმობი:
+	New shortcut: {chord}	ახალი მალსახმობი: {chord}
+	press keys	დააჭირეთ კლავიშებს
+	{chord} (press again for a double press)	{chord} (ორმაგი დაჭერისთვის დააჭირეთ ხელახლა)
+	Type…	აკრეფა…
+	Context:	კონტექსტი:
+	Assign	მინიჭება
+	Use Default	ნაგულისხმევის გამოყენება
+	Clear	გასუფთავება
+	Default: {chord}	ნაგულისხმევი: {chord}
+	None	არცერთი
+	Currently assigned to:	ამჟამად მინიჭებულია:
+	Not assigned	მინიჭებული არ არის
+	{label} ({scope}, both work)	{label} ({scope}, ორივე მუშაობს)
+	Add a shortcut to {label}	მალსახმობის დამატება ბრძანებისთვის „{label}“
+	Remove {chord} from {label}	{chord}-ის ამოშლა ბრძანებიდან „{label}“
+	Restore the default for {label}	ნაგულისხმევის აღდგენა ბრძანებისთვის „{label}“
+	{label}: {chord}	{label}: {chord}
+	{label}: press keys	{label}: დააჭირეთ კლავიშებს
+	Now used by {label}	ახლა იყენებს „{label}“
+	{label}: {chord} (Now used by {holder})	{label}: {chord} (ახლა იყენებს „{holder}“)
+	the shortcut has no key	მალსახმობს კლავიში არ აქვს
+	unknown modifier {key}	უცნობი მოდიფიკატორი {key}
+	modifier {key} given twice	მოდიფიკატორი {key} ორჯერ არის მითითებული
+	key sequences are not supported	კლავიშების მიმდევრობები არ არის მხარდაჭერილი
+	the scope name is not valid	კონტექსტის სახელი არასწორია
+	Keyboard	კლავიატურა
+	Keyboard: US	კლავიატურა: აშშ
+	Keyboard: US (macOS)	კლავიატურა: აშშ (macOS)
+	Control	Control
+	Option	Option
+	Shift	Shift
+	Ctrl	Ctrl
+	Alt	Alt
+	Caps Lock	Caps Lock
+	Win	Win
+	Super	Super
+	Panel or context	პანელი ან კონტექსტი
+	Both	ორივე
+	Modifier on	მოდიფიკატორი ჩართულია
+	{chord}: {label}	{chord}: {label}
+	Click a key to see its shortcuts	დააწკაპუნეთ კლავიშზე მისი მალსახმობების სანახავად
+	Key: {key}	კლავიში: {key}
+	Assign to Selected	არჩეულისთვის მინიჭება
+	Assign {chord} to {label}	{chord}-ის მინიჭება ბრძანებისთვის „{label}“
+	Select a command first	ჯერ აირჩიეთ ბრძანება
+	Nothing uses this key	ამ კლავიშს არცერთი ბრძანება არ იყენებს
+	⚠ {chord} is used by {label}	⚠ {chord}-ს იყენებს „{label}“
+	{chord} was removed from {label}	{chord} ამოიშალა ბრძანებიდან „{label}“
+	Also used by {label}	ასევე იყენებს „{label}“
+	{chord} is reserved by the system	{chord} დაცულია სისტემის მიერ
+	A command can have at most {n} shortcuts	ბრძანებას შეიძლება ჰქონდეს მაქსიმუმ {n} მალსახმობი
+	The scope {scope} is unknown	კონტექსტი „{scope}“ უცნობია
+	Too many shortcuts are assigned	მინიჭებულია ზედმეტად ბევრი მალსახმობი
+	This command is unknown	ეს ბრძანება უცნობია
+	Take It	გადმოტანა
+	Take It and Go to Conflict	გადმოტანა და კონფლიქტზე გადასვლა
+	Keep Both	ორივეს შენარჩუნება
+	Go to Conflict	კონფლიქტზე გადასვლა
+	Cancel the new shortcut	ახალი მალსახმობის გაუქმება
+	Dismiss	დამალვა
+	{key}: no command has this name	{key}: ამ სახელის ბრძანება არ არსებობს
+	{key}: “{text}” is not a shortcut ({error})	{key}: „{text}“ არ არის მალსახმობი ({error})
+	{key}: {text} is reserved by the system	{key}: {text} დაცულია სისტემის მიერ
+	{key}: the scope in “{text}” is unknown	{key}: კონტექსტი „{text}“-ში უცნობია
+	{key}: listed more than once	{key}: ჩამოთვლილია ერთზე მეტჯერ
+	{key}: part of the entry was dropped	{key}: ჩანაწერის ნაწილი გამოტოვებულია
+	Set:	ნაკრები:
+	(modified)	(შეცვლილი)
+	New Set…	ახალი ნაკრები…
+	Rename…	გადარქმევა…
+	Delete	წაშლა
+	Save	შენახვა
+	Revert Set	ნაკრების დაბრუნება
+	Import…	იმპორტი…
+	Export	ექსპორტი
+	Export…	ექსპორტი…
+	Summarize…	შეჯამება…
+	{title}: {set}	{title}: {set}
+	Create	შექმნა
+	Rename	გადარქმევა
+	More	მეტი
+	Name:	სახელი:
+	Based on:	დაფუძნებულია:
+	Current shortcuts	მიმდინარე მალსახმობები
+	Save changes to “{set}”?	შეინახოს ცვლილებები ნაკრებში „{set}“?
+	Don't Save	შენახვის გარეშე
+	Delete the set “{set}”?	წაიშალოს ნაკრები „{set}“?
+	Keyboard Shortcuts (JSON)	კლავიატურის მალსახმობები (JSON)
+	The name is empty, too long or has control characters	სახელი ცარიელია, ძალიან გრძელია ან შეიცავს მმართველ სიმბოლოებს
+	A set with this name exists	ამ სახელის ნაკრები უკვე არსებობს
+	The set was not found	ნაკრები ვერ მოიძებნა
+	Built-in sets cannot be changed	ჩაშენებული ნაკრების შეცვლა შეუძლებელია
+	There are too many sets	ნაკრები ზედმეტად ბევრია
+	This is not a shortcut set file	ეს არ არის მალსახმობების ნაკრების ფაილი
+	This is not a craft-keymap file	ეს არ არის craft-keymap-ის ფაილი
+	This file is from a newer version (format {n})	ეს ფაილი უფრო ახალი ვერსიისაა (ფორმატი {n})
+	The file is too large	ფაილი ძალიან დიდია
+	Import “{set}”	„{set}“-ის იმპორტი
+	Set name:	ნაკრების სახელი:
+	Import	იმპორტი
+	Cancel Import	იმპორტის გაუქმება
+	line {n}	ხაზი {n}
+	Will change	შეიცვლება
+	Not matched	არ დაემთხვა
+	Unreadable	წაუკითხავი
+	Approximated	მიახლოებითი
+	{title} ({n})	{title} ({n})
+	Suggestions ({n})	შემოთავაზებები ({n})
+	numeric keypad key read as main key	ციფრული კლავიატურის კლავიში წაკითხულია ძირითად კლავიშად
+	Matched without change	შეცვლის გარეშე დაემთხვა
+	Command for {item}	ბრძანება ელემენტისთვის „{item}“
+	Choose a command…	აირჩიეთ ბრძანება…
+	no command has this name	ამ სახელის ბრძანება არ არსებობს
+	more than one command fits	ერთზე მეტი ბრძანება შეესაბამება
+	in a context that is not imported	კონტექსტში, რომელიც არ იმპორტდება
+	only a command of the other kind fits (tool or menu command)	მხოლოდ მეორე ტიპის ბრძანება შეესაბამება (ინსტრუმენტი ან მენიუს ბრძანება)
+	empty shortcut	ცარიელი მალსახმობი
+	the shortcut is too long	მალსახმობი ძალიან გრძელია
+	unknown key {key}	უცნობი კლავიში {key}
+	unsupported modifier {key}	მხარდაუჭერელი მოდიფიკატორი {key}
+	{label} keeps its shortcuts (matched by a panel menu name)	„{label}“ ინარჩუნებს თავის მალსახმობებს (დაემთხვა პანელის მენიუს სახელით)
+	Import as New Set	იმპორტი ახალ ნაკრებად
+	Imported	იმპორტირებულია
+	Imported as “{set}”	იმპორტირებულია როგორც „{set}“
+	Skipped	გამოტოვებულია
+	Taken from other commands	გადმოტანილია სხვა ბრძანებებიდან
+	Not changed	არ შეცვლილა
+	taken by {label}	მიენიჭა ბრძანებას „{label}“
+	taken by a later entry	მიენიჭა შემდეგ ჩანაწერს
+	reserved by the system	დაცულია სისტემის მიერ
+	the scope is unknown	კონტექსტი უცნობია
+	the set's shortcuts could not be added	ნაკრების მალსახმობების დამატება ვერ მოხერხდა
+	the shortcuts could not be removed	მალსახმობების ამოშლა ვერ მოხერხდა
+	Copy Report	ანგარიშის კოპირება
+	Done	მზადაა
+@plural	{n} shortcut is assigned more than once|{n} shortcuts are assigned more than once	{n} მალსახმობი მინიჭებულია ერთზე მეტჯერ|{n} მალსახმობი მინიჭებულია ერთზე მეტჯერ
+@plural	{n} saved shortcut could not be used|{n} saved shortcuts could not be used	შენახული {n} მალსახმობის გამოყენება ვერ მოხერხდა|შენახული {n} მალსახმობის გამოყენება ვერ მოხერხდა
+@plural	{n} command will change|{n} commands will change	{n} ბრძანება შეიცვლება|{n} ბრძანება შეიცვლება
+@plural	{n} item without a shortcut|{n} items without a shortcut	{n} ელემენტი მალსახმობის გარეშე|{n} ელემენტი მალსახმობის გარეშე
+@plural	{n} item not matched|{n} items not matched	{n} ელემენტი არ დაემთხვა|{n} ელემენტი არ დაემთხვა
+@plural	{n} item could not be read|{n} items could not be read	{n} ელემენტის წაკითხვა ვერ მოხერხდა|{n} ელემენტის წაკითხვა ვერ მოხერხდა
+@plural	{n} key read approximately|{n} keys read approximately	{n} კლავიში წაკითხულია მიახლოებით|{n} კლავიში წაკითხულია მიახლოებით
+@plural	{n} entry cut at a limit|{n} entries cut at a limit	{n} ჩანაწერი შეწყდა ლიმიტზე|{n} ჩანაწერი შეწყდა ლიმიტზე
+@plural	{n} command changed|{n} commands changed	{n} ბრძანება შეიცვალა|{n} ბრძანება შეიცვალა
+@plural	{n} shortcut also works in another scope|{n} shortcuts also work in another scope	{n} მალსახმობი სხვა კონტექსტშიც მუშაობს|{n} მალსახმობი სხვა კონტექსტშიც მუშაობს
+@plural	{n} entry was ignored: too many commands|{n} entries were ignored: too many commands	{n} ჩანაწერი იგნორირებულია: ძალიან ბევრი ბრძანება|{n} ჩანაწერი იგნორირებულია: ძალიან ბევრი ბრძანება

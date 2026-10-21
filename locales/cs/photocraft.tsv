@@ -1061,7 +1061,6 @@ cameraData	F-Stop	Clona
 	Filter Gallery	Galerie filtrů
 	Filter Gallery…	Galerie filtrů…
 @id	filter.sharpen.sharpen	Doostřit
-	Filter:	Filtr:
 	Find and Replace Text…	Najít a nahradit text…
 	Find Edges	Najít okraje
 	Find Layers	Najít vrstvy
@@ -1315,7 +1314,6 @@ cameraRaw	Hue	Odstín
 	Import Presets	Importovat přednastavení
 	Import Shortcuts…	Importovat zkratky…
 	Import Swatches…	Importovat vzorky…
-	Imported	Importováno
 @plural	Imported {n} brush from {file}|Imported {n} brushes from {file}	Importován {n} štětec ze souboru {file}|Importovány {n} štětce ze souboru {file}|Importováno {n} štětců ze souboru {file}
 @plural	Imported {n} brush from {group}|Imported {n} brushes from {group}	Importován {n} štětec ze skupiny {group}|Importovány {n} štětce ze skupiny {group}|Importováno {n} štětců ze skupiny {group}
 @plural	Imported {n} gradient from {file}|Imported {n} gradients from {file}	Importován {n} přechod ze souboru {file}|Importovány {n} přechody ze souboru {file}|Importováno {n} přechodů ze souboru {file}
@@ -1401,7 +1399,6 @@ fontWeight	Italic	Kurzíva
 	Keep this tab open to retain your brushes.	Nechte tuto kartu otevřenou, abyste si štětce zachovali.
 	Keep Using CPU	Pokračovat s CPU
 	Kernel	Jádro
-	Keyboard	Klávesnice
 	Keyboard Shortcuts and Menus	Klávesové zkratky a nabídky
 	Keyboard shortcuts imported	Klávesové zkratky importovány
 	Knockout	Vyřazení
@@ -1703,7 +1700,6 @@ cameraData	Model	Model
 	New Layer Comp	Nová kompozice vrstev
 	New Layer With Mask	Nová vrstva s maskou
 	New selection	Nový výběr
-	New Set…	Nová sada…
 	New Shape Layer	Nová vrstva tvaru
 	New Size	Nová velikost
 	New Smart Object via Copy	Nový chytrý objekt kopírováním
@@ -2137,7 +2133,6 @@ fontWeight	Regular	Normální
 	Replace Swatches…	Nahradit vzorky…
 	Resample	Převzorkovat
 	Reset Alignment	Obnovit zarovnání
-	Reset All	Obnovit vše
 	Reset All Locked Settings	Obnovit všechna zamknutá nastavení
 	Reset All to Defaults	Obnovit vše na výchozí
 	Reset All Tools	Obnovit všechny nástroje
@@ -2578,7 +2573,6 @@ curves	Smooth	Vyhladit
 	Subtract Mask from Selection	Odečíst masku od výběru
 	Subtract Shapes at Overlap	Odečíst tvary v překryvu
 	Suggestions:	Návrhy:
-	Summarize…	Shrnout…
 	Summation	Součet
 	Surface Blur	Plošné rozostření
 	Surface Blur…	Plošné rozostření…

@@ -1108,7 +1108,6 @@ cameraData	F-Stop	Diyafram
 	Filter Gallery	Filtre Galerisi
 	Filter Gallery…	Galeriyi Filtrele…
 @id	filter.sharpen.sharpen	Keskinleştir
-	Filter:	Filtre:
 	Find and Replace Text	Metni Bul ve Değiştir
 	Find and Replace Text…	Metni Bul ve Değiştir…
 	Find Edges	Kenarları Bul
@@ -1472,7 +1471,6 @@ fontWeight	Italic	İtalik
 	Keep view in sync	Görünümü senkronize tutun
 	Keeps the current texture when switching presets.	Ön ayarları değiştirirken mevcut dokuyu korur.
 	Kernel	çekirdek
-	Keyboard	Klavye
 	Keyboard Shortcuts and Menus	Klavye Kısayolları ve Menüler
 	Keyboard shortcuts imported	İçe aktarılan klavye kısayolları
 	Keywords	Anahtar Kelimeler
@@ -1795,7 +1793,6 @@ cameraData	Model	Model
 	New Path	Yeni Yol
 	New Selection	Yeni Seçim
 	New selection	Yeni seçim
-	New Set…	Yeni Küme…
 	New Shape Layer	Yeni Şekil Katmanı
 	New Size	Yeni Boyut
 	New Smart Object via Copy	Kopyalama Yoluyla Yeni Akıllı Nesne
@@ -2244,7 +2241,6 @@ fontWeight	Regular	Normal
 	Report an Issue	Sorun Bildir
 	Resample	Yeniden örnekle
 	Reset Alignment	Hizalamayı Sıfırla
-	Reset All	Tümünü Sıfırla
 	Reset All Locked Settings	Tüm Kilitli Ayarları Sıfırla
 	Reset All to Defaults	Tümünü Varsayılanlara Sıfırla
 	Reset All Tools	Tüm Araçları Sıfırla
@@ -2685,7 +2681,6 @@ fontWeight	SemiBold	Yarı Kalın
 	Subtract Front Shape	Ön Şekli Çıkart
 	Subtract Mask from Selection	Maskeyi Seçimden Çıkar
 	Suggestions:	Öneriler:
-	Summarize…	Özetle…
 	Summation	Toplama
 	Supplemental Categories	Tamamlayıcı Kategoriler
 	Surface Blur	Yüzey Bulanıklığı

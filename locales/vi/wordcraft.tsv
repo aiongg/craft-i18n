@@ -417,7 +417,6 @@
 	Column:	Cột:
 	Combine Documents	Kết hợp tài liệu
 	Combo Box Content Control	Điều khiển nội dung hộp tổ hợp
-	Commands	Lệnh
 	Comment	Nhận xét
 	Comments	Nhận xét
 	Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text.	Trong PDF, bản in và ảnh trang: nhận xét bên cạnh mỗi trang và các thay đổi được theo dõi; danh sách nhận xét ở cuối trang web, Markdown và văn bản.
@@ -1275,7 +1274,6 @@ template	Letter	Thư
 	New Label	Nhãn mới
 	New Label…	Nhãn mới…
 	New Paragraph	Đoạn mới
-	New shortcut:	Phím tắt mới:
 	New Tab	Tab mới
 	New Table Style	Kiểu bảng mới
 	New Table Style…	Kiểu bảng mới…
@@ -1641,7 +1639,6 @@ template	Letter	Thư
 	Research	Tra cứu
 	Researcher	Công cụ tra cứu
 	Researcher needs an online service; WordCraft keeps your documents offline.	Trình nghiên cứu cần một dịch vụ trực tuyến; WordCraft giữ tài liệu của bạn ngoại tuyến.
-	Reset All…	Đặt lại tất cả…
 	Reset Character Formatting	Đặt lại định dạng ký tự
 	Reset Crop	Đặt lại cắt xén
 	Reset Graphic	Đặt lại đồ họa

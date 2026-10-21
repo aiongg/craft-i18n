@@ -1233,3 +1233,151 @@ theme	Appearance	Εμφάνιση
 @plural	{n} step|{n} steps	{n} βήμα|{n} βήματα
 	−Bin	−Δυαδ.
 	● Recording	● Εγγραφή
+
+# Keyboard Shortcuts dialog (craft-keymap)
+	Reset All…	Επαναφορά όλων…
+	Restore every default shortcut in this set?	Να γίνει επαναφορά όλων των προεπιλεγμένων συντομεύσεων σε αυτό το σύνολο;
+	Reset All	Επαναφορά όλων
+	Filter:	Φίλτρο:
+	Search:	Αναζήτηση:
+	Search by key	Αναζήτηση με πλήκτρο
+	All Commands	Όλες οι εντολές
+	{menu} Menu	Μενού {menu}
+	{panel} Panel	Πλαίσιο {panel}
+	Fixed Keys	Σταθερά πλήκτρα
+	With Shortcut	Με συντόμευση
+	Changed	Τροποποιημένες
+	Conflicts	Διενέξεις
+	(cycles)	(εναλλάσσεται)
+	{label} (cycles)	{label} (εναλλάσσεται)
+	{label} (Changed)	{label} (τροποποιημένη)
+	Commands	Εντολές
+	Detail pane size	Μέγεθος πλαισίου λεπτομερειών
+	Select a command to see and change its shortcuts	Επιλέξτε μια εντολή για να δείτε και να αλλάξετε τις συντομεύσεις της
+	{chord} (Default)	{chord} (προεπιλογή)
+	{chord} ({scope})	{chord} ({scope})
+	{label} ({scope})	{label} ({scope})
+	Current shortcuts:	Τρέχουσες συντομεύσεις:
+	New shortcut:	Νέα συντόμευση:
+	New shortcut: {chord}	Νέα συντόμευση: {chord}
+	press keys	πατήστε πλήκτρα
+	{chord} (press again for a double press)	{chord} (πατήστε ξανά για διπλό πάτημα)
+	Context:	Περιβάλλον:
+	Default: {chord}	Προεπιλογή: {chord}
+	Currently assigned to:	Αντιστοιχισμένη αυτήν τη στιγμή σε:
+	Not assigned	Δεν έχει αντιστοιχιστεί
+	{label} ({scope}, both work)	{label} ({scope}, λειτουργούν και οι δύο)
+	Add a shortcut to {label}	Προσθήκη συντόμευσης στην εντολή {label}
+	Remove {chord} from {label}	Αφαίρεση του {chord} από την εντολή {label}
+	Restore the default for {label}	Επαναφορά της προεπιλογής για την εντολή {label}
+	{label}: {chord}	{label}: {chord}
+	{label}: press keys	{label}: πατήστε πλήκτρα
+	Now used by {label}	Τώρα χρησιμοποιείται από την εντολή {label}
+	{label}: {chord} (Now used by {holder})	{label}: {chord} (τώρα χρησιμοποιείται από την εντολή {holder})
+	the shortcut has no key	η συντόμευση δεν έχει πλήκτρο
+	unknown modifier {key}	άγνωστο πλήκτρο τροποποίησης {key}
+	modifier {key} given twice	το πλήκτρο τροποποίησης {key} δόθηκε δύο φορές
+	key sequences are not supported	οι ακολουθίες πλήκτρων δεν υποστηρίζονται
+	the scope name is not valid	το όνομα του περιβάλλοντος δεν είναι έγκυρο
+	Keyboard	Πληκτρολόγιο
+	Keyboard: US	Πληκτρολόγιο: ΗΠΑ
+	Keyboard: US (macOS)	Πληκτρολόγιο: ΗΠΑ (macOS)
+	Control	Έλεγχος
+	Option	Option
+	Caps Lock	Caps Lock
+	Win	Win
+	Super	Super
+	Panel or context	Πλαίσιο ή περιβάλλον
+	Modifier on	Ενεργό πλήκτρο τροποποίησης
+	{chord}: {label}	{chord}: {label}
+	Click a key to see its shortcuts	Κάντε κλικ σε ένα πλήκτρο για να δείτε τις συντομεύσεις του
+	Key: {key}	Πλήκτρο: {key}
+	Assign to Selected	Αντιστοίχιση στην επιλογή
+	Assign {chord} to {label}	Αντιστοίχιση του {chord} στην εντολή {label}
+	Select a command first	Επιλέξτε πρώτα μια εντολή
+	Nothing uses this key	Καμία εντολή δεν χρησιμοποιεί αυτό το πλήκτρο
+	⚠ {chord} is used by {label}	⚠ Το {chord} χρησιμοποιείται από την εντολή {label}
+	{chord} was removed from {label}	Το {chord} αφαιρέθηκε από την εντολή {label}
+	Also used by {label}	Χρησιμοποιείται και από την εντολή {label}
+	{chord} is reserved by the system	Το {chord} είναι δεσμευμένο από το σύστημα
+	A command can have at most {n} shortcuts	Μια εντολή μπορεί να έχει το πολύ {n} συντομεύσεις
+	The scope {scope} is unknown	Το περιβάλλον {scope} είναι άγνωστο
+	Too many shortcuts are assigned	Έχουν αντιστοιχιστεί πάρα πολλές συντομεύσεις
+	This command is unknown	Αυτή η εντολή είναι άγνωστη
+	Take It	Μεταφορά
+	Take It and Go to Conflict	Μεταφορά και μετάβαση στη διένεξη
+	Keep Both	Διατήρηση και των δύο
+	Go to Conflict	Μετάβαση σε διένεξη
+	Cancel the new shortcut	Ακύρωση της νέας συντόμευσης
+	{key}: no command has this name	{key}: καμία εντολή δεν έχει αυτό το όνομα
+	{key}: “{text}” is not a shortcut ({error})	{key}: το «{text}» δεν είναι συντόμευση ({error})
+	{key}: {text} is reserved by the system	{key}: το {text} είναι δεσμευμένο από το σύστημα
+	{key}: the scope in “{text}” is unknown	{key}: το περιβάλλον στο «{text}» είναι άγνωστο
+	{key}: listed more than once	{key}: αναφέρεται περισσότερες από μία φορές
+	{key}: part of the entry was dropped	{key}: μέρος της καταχώρισης παραλείφθηκε
+	(modified)	(τροποποιημένο)
+	New Set…	Νέο σύνολο…
+	Revert Set	Επαναφορά συνόλου
+	Summarize…	Σύνοψη…
+	{title}: {set}	{title}: {set}
+	Based on:	Βασισμένο σε:
+	Current shortcuts	Τρέχουσες συντομεύσεις
+	Save changes to “{set}”?	Να αποθηκευτούν οι αλλαγές στο «{set}»;
+	Delete the set “{set}”?	Να διαγραφεί το σύνολο «{set}»;
+	Keyboard Shortcuts (JSON)	Συντομεύσεις πληκτρολογίου (JSON)
+	The name is empty, too long or has control characters	Το όνομα είναι κενό, πολύ μεγάλο ή περιέχει χαρακτήρες ελέγχου
+	A set with this name exists	Υπάρχει ήδη σύνολο με αυτό το όνομα
+	The set was not found	Το σύνολο δεν βρέθηκε
+	Built-in sets cannot be changed	Τα ενσωματωμένα σύνολα δεν μπορούν να αλλάξουν
+	There are too many sets	Υπάρχουν πάρα πολλά σύνολα
+	This is not a shortcut set file	Αυτό δεν είναι αρχείο συνόλου συντομεύσεων
+	This is not a craft-keymap file	Αυτό δεν είναι αρχείο craft-keymap
+	This file is from a newer version (format {n})	Αυτό το αρχείο προέρχεται από νεότερη έκδοση (μορφή {n})
+	The file is too large	Το αρχείο είναι πολύ μεγάλο
+	Import “{set}”	Εισαγωγή του «{set}»
+	Set name:	Όνομα συνόλου:
+	Cancel Import	Ακύρωση εισαγωγής
+	line {n}	γραμμή {n}
+	Will change	Θα αλλάξουν
+	Not matched	Χωρίς αντιστοίχιση
+	Unreadable	Μη αναγνώσιμα
+	Approximated	Προσεγγιστικά
+	{title} ({n})	{title} ({n})
+	Suggestions ({n})	Προτάσεις ({n})
+	numeric keypad key read as main key	πλήκτρο του αριθμητικού πληκτρολογίου που διαβάστηκε ως κύριο πλήκτρο
+	Matched without change	Αντιστοιχίστηκαν χωρίς αλλαγή
+	Command for {item}	Εντολή για το {item}
+	Choose a command…	Επιλογή εντολής…
+	no command has this name	καμία εντολή δεν έχει αυτό το όνομα
+	more than one command fits	ταιριάζουν περισσότερες από μία εντολές
+	in a context that is not imported	σε περιβάλλον που δεν εισάγεται
+	only a command of the other kind fits (tool or menu command)	ταιριάζει μόνο εντολή του άλλου είδους (εργαλείο ή εντολή μενού)
+	empty shortcut	κενή συντόμευση
+	the shortcut is too long	η συντόμευση είναι πολύ μεγάλη
+	unknown key {key}	άγνωστο πλήκτρο {key}
+	unsupported modifier {key}	μη υποστηριζόμενο πλήκτρο τροποποίησης {key}
+	{label} keeps its shortcuts (matched by a panel menu name)	Η εντολή {label} διατηρεί τις συντομεύσεις της (αντιστοίχιση με όνομα μενού πλαισίου)
+	Import as New Set	Εισαγωγή ως νέο σύνολο
+	Imported	Εισήχθησαν
+	Imported as “{set}”	Εισήχθησαν ως «{set}»
+	Skipped	Παραλείφθηκαν
+	Taken from other commands	Αφαιρέθηκαν από άλλες εντολές
+	Not changed	Δεν άλλαξαν
+	taken by {label}	έχει αντιστοιχιστεί στην εντολή {label}
+	taken by a later entry	έχει αντιστοιχιστεί σε μεταγενέστερη καταχώριση
+	reserved by the system	δεσμευμένο από το σύστημα
+	the scope is unknown	το περιβάλλον είναι άγνωστο
+	the set's shortcuts could not be added	δεν ήταν δυνατή η προσθήκη των συντομεύσεων του συνόλου
+	the shortcuts could not be removed	δεν ήταν δυνατή η αφαίρεση των συντομεύσεων
+	Copy Report	Αντιγραφή αναφοράς
+@plural	{n} shortcut is assigned more than once|{n} shortcuts are assigned more than once	{n} συντόμευση έχει αντιστοιχιστεί περισσότερες από μία φορές|{n} συντομεύσεις έχουν αντιστοιχιστεί περισσότερες από μία φορές
+@plural	{n} saved shortcut could not be used|{n} saved shortcuts could not be used	{n} αποθηκευμένη συντόμευση δεν ήταν δυνατό να χρησιμοποιηθεί|{n} αποθηκευμένες συντομεύσεις δεν ήταν δυνατό να χρησιμοποιηθούν
+@plural	{n} command will change|{n} commands will change	{n} εντολή θα αλλάξει|{n} εντολές θα αλλάξουν
+@plural	{n} item without a shortcut|{n} items without a shortcut	{n} στοιχείο χωρίς συντόμευση|{n} στοιχεία χωρίς συντόμευση
+@plural	{n} item not matched|{n} items not matched	{n} στοιχείο χωρίς αντιστοίχιση|{n} στοιχεία χωρίς αντιστοίχιση
+@plural	{n} item could not be read|{n} items could not be read	{n} στοιχείο δεν ήταν δυνατό να διαβαστεί|{n} στοιχεία δεν ήταν δυνατό να διαβαστούν
+@plural	{n} key read approximately|{n} keys read approximately	{n} πλήκτρο διαβάστηκε προσεγγιστικά|{n} πλήκτρα διαβάστηκαν προσεγγιστικά
+@plural	{n} entry cut at a limit|{n} entries cut at a limit	{n} καταχώριση περικόπηκε σε όριο|{n} καταχωρίσεις περικόπηκαν σε όριο
+@plural	{n} command changed|{n} commands changed	{n} εντολή άλλαξε|{n} εντολές άλλαξαν
+@plural	{n} shortcut also works in another scope|{n} shortcuts also work in another scope	{n} συντόμευση λειτουργεί και σε άλλο περιβάλλον|{n} συντομεύσεις λειτουργούν και σε άλλο περιβάλλον
+@plural	{n} entry was ignored: too many commands|{n} entries were ignored: too many commands	{n} καταχώριση αγνοήθηκε: πάρα πολλές εντολές|{n} καταχωρίσεις αγνοήθηκαν: πάρα πολλές εντολές

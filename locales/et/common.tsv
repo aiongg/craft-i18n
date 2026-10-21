@@ -438,3 +438,170 @@
 	Zoom	Suum
 	Zoom In	Suurenda
 	Zoom Out	Vähenda
+
+# Keyboard Shortcuts dialog (craft-keymap)
+	Keyboard Shortcuts	Kiirklahvid
+	Reset All…	Lähtesta kõik…
+	Restore every default shortcut in this set?	Kas taastada selle komplekti kõik vaikekiirklahvid?
+	Reset All	Lähtesta kõik
+	Show:	Näita:
+	Filter:	Filter:
+	Search:	Otsing:
+	Search by key	Otsi klahvi järgi
+	All Commands	Kõik käsud
+	{menu} Menu	Menüü {menu}
+	{panel} Panel	Paneel {panel}
+	Fixed Keys	Fikseeritud klahvid
+	With Shortcut	Kiirklahviga
+	Changed	Muudetud
+	Conflicts	Konfliktid
+	No matching commands	Sobivaid käske pole
+	(cycles)	(tsükliline)
+	{label} (cycles)	{label} (tsükliline)
+	{label} (Changed)	{label} (muudetud)
+	Command	Käsk
+	Commands	Käsud
+	Detail pane size	Üksikasjade paani suurus
+	Select a command to see and change its shortcuts	Valige käsk, et näha ja muuta selle kiirklahve
+	Shortcut	Kiirklahv
+	{chord} (Default)	{chord} (vaikimisi)
+	{chord} ({scope})	{chord} ({scope})
+	{label} ({scope})	{label} ({scope})
+	Application	Rakendus
+	Current shortcuts:	Praegused kiirklahvid:
+	New shortcut:	Uus kiirklahv:
+	New shortcut: {chord}	Uus kiirklahv: {chord}
+	press keys	vajutage klahve
+	{chord} (press again for a double press)	{chord} (topeltvajutuseks vajutage uuesti)
+	Type…	Sisesta…
+	Context:	Kontekst:
+	Use Default	Kasuta vaikeväärtust
+	Default: {chord}	Vaikimisi: {chord}
+	Currently assigned to:	Praegu määratud käsule:
+	Not assigned	Määramata
+	{label} ({scope}, both work)	{label} ({scope}, mõlemad töötavad)
+	Add a shortcut to {label}	Lisa kiirklahv: {label}
+	Remove {chord} from {label}	Eemalda {chord}: {label}
+	Restore the default for {label}	Taasta vaikeväärtus: {label}
+	{label}: {chord}	{label}: {chord}
+	{label}: press keys	{label}: vajutage klahve
+	Now used by {label}	Nüüd kasutab: {label}
+	{label}: {chord} (Now used by {holder})	{label}: {chord} (nüüd kasutab: {holder})
+	the shortcut has no key	kiirklahvil puudub klahv
+	unknown modifier {key}	tundmatu muutjaklahv {key}
+	modifier {key} given twice	muutjaklahv {key} on antud kaks korda
+	key sequences are not supported	klahvijadasid ei toetata
+	the scope name is not valid	ulatuse nimi ei sobi
+	Keyboard	Klaviatuur
+	Keyboard: US	Klaviatuur: US
+	Keyboard: US (macOS)	Klaviatuur: US (macOS)
+	Control	Control
+	Option	Option
+	Shift	Shift
+	Ctrl	Ctrl
+	Alt	Alt
+	Caps Lock	Caps Lock
+	Win	Win
+	Super	Super
+	Panel or context	Paneel või kontekst
+	Both	Mõlemad
+	Modifier on	Muutjaklahv sees
+	{chord}: {label}	{chord}: {label}
+	Click a key to see its shortcuts	Klõpsake klahvil, et näha selle kiirklahve
+	Key: {key}	Klahv: {key}
+	Assign to Selected	Määra valitule
+	Assign {chord} to {label}	Määra {chord}: {label}
+	Select a command first	Valige kõigepealt käsk
+	Nothing uses this key	Seda klahvi ei kasuta miski
+	⚠ {chord} is used by {label}	⚠ {chord} on kasutusel: {label}
+	{chord} was removed from {label}	{chord} eemaldati: {label}
+	Also used by {label}	Kasutab ka: {label}
+	{chord} is reserved by the system	{chord} on süsteemi reserveeritud
+	A command can have at most {n} shortcuts	Käsul võib olla kuni {n} kiirklahvi
+	The scope {scope} is unknown	Ulatus {scope} on tundmatu
+	Too many shortcuts are assigned	Kiirklahve on määratud liiga palju
+	This command is unknown	See käsk on tundmatu
+	Take It	Võta üle
+	Take It and Go to Conflict	Võta üle ja mine konflikti juurde
+	Keep Both	Säilita mõlemad
+	Go to Conflict	Mine konflikti juurde
+	Cancel the new shortcut	Loobu uuest kiirklahvist
+	Dismiss	Sulge
+	{key}: no command has this name	{key}: ühelgi käsul pole seda nime
+	{key}: “{text}” is not a shortcut ({error})	{key}: „{text}“ ei ole kiirklahv ({error})
+	{key}: {text} is reserved by the system	{key}: {text} on süsteemi reserveeritud
+	{key}: the scope in “{text}” is unknown	{key}: ulatus tekstis „{text}“ on tundmatu
+	{key}: listed more than once	{key}: loetletud mitu korda
+	{key}: part of the entry was dropped	{key}: osa kirjest jäeti välja
+	Set:	Komplekt:
+	(modified)	(muudetud)
+	New Set…	Uus komplekt…
+	Revert Set	Taasta komplekt
+	Import…	Impordi…
+	Export…	Ekspordi…
+	Summarize…	Tee kokkuvõte…
+	{title}: {set}	{title}: {set}
+	More	Veel
+	Based on:	Aluseks:
+	Current shortcuts	Praegused kiirklahvid
+	Save changes to “{set}”?	Kas salvestada komplekti „{set}“ muudatused?
+	Delete the set “{set}”?	Kas kustutada komplekt „{set}“?
+	Keyboard Shortcuts (JSON)	Kiirklahvid (JSON)
+	The name is empty, too long or has control characters	Nimi on tühi, liiga pikk või sisaldab juhtmärke
+	A set with this name exists	Selle nimega komplekt on juba olemas
+	The set was not found	Komplekti ei leitud
+	Built-in sets cannot be changed	Sisseehitatud komplekte ei saa muuta
+	There are too many sets	Komplekte on liiga palju
+	This is not a shortcut set file	See ei ole kiirklahvikomplekti fail
+	This is not a craft-keymap file	See ei ole craft-keymap-fail
+	This file is from a newer version (format {n})	See fail pärineb uuemast versioonist (vorming {n})
+	The file is too large	Fail on liiga suur
+	Import “{set}”	Impordi „{set}“
+	Set name:	Komplekti nimi:
+	Import	Impordi
+	Cancel Import	Loobu impordist
+	line {n}	rida {n}
+	Will change	Muutub
+	Not matched	Sobitamata
+	Unreadable	Loetamatu
+	Approximated	Ligikaudne
+	{title} ({n})	{title} ({n})
+	Suggestions ({n})	Soovitused ({n})
+	numeric keypad key read as main key	numbriklahvistiku klahv loeti põhiklahviks
+	Matched without change	Sobitatud muutmata
+	Command for {item}	Käsk üksusele {item}
+	Choose a command…	Valige käsk…
+	no command has this name	ühelgi käsul pole seda nime
+	more than one command fits	sobib rohkem kui üks käsk
+	in a context that is not imported	kontekstis, mida ei impordita
+	only a command of the other kind fits (tool or menu command)	sobib ainult teist liiki käsk (tööriista- või menüükäsk)
+	empty shortcut	tühi kiirklahv
+	the shortcut is too long	kiirklahv on liiga pikk
+	unknown key {key}	tundmatu klahv {key}
+	unsupported modifier {key}	toetamata muutjaklahv {key}
+	{label} keeps its shortcuts (matched by a panel menu name)	{label} säilitab oma kiirklahvid (sobitatud paneelimenüü nime järgi)
+	Import as New Set	Impordi uue komplektina
+	Imported	Imporditud
+	Imported as “{set}”	Imporditud komplektina „{set}“
+	Skipped	Vahele jäetud
+	Taken from other commands	Üle võetud teistelt käskudelt
+	Not changed	Muutmata
+	taken by {label}	kasutab: {label}
+	taken by a later entry	kasutab hilisem kirje
+	reserved by the system	süsteemi reserveeritud
+	the scope is unknown	ulatus on tundmatu
+	the set's shortcuts could not be added	komplekti kiirklahve ei saanud lisada
+	the shortcuts could not be removed	kiirklahve ei saanud eemaldada
+	Copy Report	Kopeeri aruanne
+	Done	Valmis
+@plural	{n} shortcut is assigned more than once|{n} shortcuts are assigned more than once	{n} kiirklahv on määratud mitu korda|{n} kiirklahvi on määratud mitu korda
+@plural	{n} saved shortcut could not be used|{n} saved shortcuts could not be used	{n} salvestatud kiirklahvi ei saanud kasutada|{n} salvestatud kiirklahvi ei saanud kasutada
+@plural	{n} command will change|{n} commands will change	{n} käsk muutub|{n} käsku muutub
+@plural	{n} item without a shortcut|{n} items without a shortcut	{n} üksus ilma kiirklahvita|{n} üksust ilma kiirklahvita
+@plural	{n} item not matched|{n} items not matched	{n} üksus sobitamata|{n} üksust sobitamata
+@plural	{n} item could not be read|{n} items could not be read	{n} üksust ei saanud lugeda|{n} üksust ei saanud lugeda
+@plural	{n} key read approximately|{n} keys read approximately	{n} klahv loetud ligikaudselt|{n} klahvi loetud ligikaudselt
+@plural	{n} entry cut at a limit|{n} entries cut at a limit	{n} kirje piiri juures lõigatud|{n} kirjet piiri juures lõigatud
+@plural	{n} command changed|{n} commands changed	{n} käsk muudetud|{n} käsku muudetud
+@plural	{n} shortcut also works in another scope|{n} shortcuts also work in another scope	{n} kiirklahv töötab ka teises ulatuses|{n} kiirklahvi töötab ka teises ulatuses
+@plural	{n} entry was ignored: too many commands|{n} entries were ignored: too many commands	{n} kirje jäeti tähelepanuta: liiga palju käske|{n} kirjet jäeti tähelepanuta: liiga palju käske

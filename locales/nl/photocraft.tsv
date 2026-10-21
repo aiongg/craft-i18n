@@ -1151,7 +1151,6 @@ cameraData	F-Stop	Diafragma
 	Filter Gallery	Filtergalerie
 	Filter Gallery…	Filtergalerie…
 @id	filter.sharpen.sharpen	Verscherpen
-	Filter:	Filter:
 	Find and Replace Text	Tekst zoeken en vervangen
 	Find and Replace Text…	Tekst zoeken en vervangen…
 	Find Edges	Randen zoeken
@@ -1435,7 +1434,6 @@ cameraRaw	Hue	Kleurtoon
 	Import Settings	Instellingen importeren
 	Import Shortcuts…	Sneltoetsen importeren…
 	Import Swatches…	Stalen importeren…
-	Imported	Geïmporteerd
 @plural	Imported {n} brush from {group}|Imported {n} brushes from {group}	{n} penseel geïmporteerd uit {group}|{n} penselen geïmporteerd uit {group}
 	Imported {n} shortcuts from {file}. Click OK to keep them.	{n} sneltoetsen geïmporteerd uit {file}. Klik op OK om ze te behouden.
 @plural	Imported {n} swatch from {file}|Imported {n} swatches from {file}	{n} staal geïmporteerd uit {file}|{n} stalen geïmporteerd uit {file}
@@ -1529,7 +1527,6 @@ fontWeight	Italic	Cursief
 	Keep view in sync	Weergave synchroon houden
 	Keeps the current texture when switching presets.	Behoudt de huidige textuur bij het wisselen van voorinstelling.
 	Kernel	Kernel
-	Keyboard	Toetsenbord
 	Keyboard Shortcuts and Menus	Sneltoetsen en menu's
 	Keyboard shortcuts imported	Sneltoetsen geïmporteerd
 	Knockout	Uitsparing
@@ -1852,7 +1849,6 @@ cameraData	Model	Model
 	New Path	Nieuw pad
 	New Selection	Nieuwe selectie
 	New selection	Nieuwe selectie
-	New Set…	Nieuwe set…
 	New Shape Layer	Nieuwe vormlaag
 	New Size	Nieuwe grootte
 	New Smart Object via Copy	Nieuw slim object via kopiëren
@@ -2312,7 +2308,6 @@ fontWeight	Regular	Normaal
 	Resample	Opnieuw bemonsteren
 	Reset	Herstellen
 	Reset Alignment	Uitlijning herstellen
-	Reset All	Alles herstellen
 	Reset All Locked Settings	Alle vergrendelde instellingen opnieuw instellen
 	Reset All to Defaults	Alles terugzetten naar standaardwaarden
 	Reset All Tools	Alle gereedschappen herstellen
@@ -2784,7 +2779,6 @@ curves	Smooth	Vloeiend maken
 	Subtract Front Shape	Voorste vorm aftrekken
 	Subtract Mask from Selection	Masker van selectie aftrekken
 	Suggestions:	Suggesties:
-	Summarize…	Samenvatten…
 	Summation	Optelling
 	Supplemental Categories	Aanvullende categorieën
 	Surface Blur	Oppervlaktevervaging

@@ -921,7 +921,6 @@ cameraData	F-Stop	Blende
 	Filter for smart objects	Filter für Smart-Objekte
 	Filter for type layers	Filter für Textebenen
 	Filter Gallery…	Filtergalerie…
-	Filter:	Filter:
 	Find and Replace Text…	Text suchen und ersetzen…
 	Find Edges	Kanten finden
 	Find Layers	Ebenen suchen
@@ -1135,7 +1134,6 @@ cameraData	Focal Length (35 mm)	Brennweite (35 mm)
 	Import Presets	Vorgaben importieren
 	Import Shortcuts…	Tastaturbefehle importieren…
 	Import Swatches…	Farbfelder importieren…
-	Imported	Importiert
 @plural	Imported {n} brush from {group}|Imported {n} brushes from {group}	{n} Pinsel aus {group} importiert|{n} Pinsel aus {group} importiert
 	Imported {n} shortcuts from {file}. Click OK to keep them.	{n} Tastaturbefehle aus {file} importiert. Mit OK übernehmen.
 @plural	Imported {n} swatch from {file}|Imported {n} swatches from {file}	{n} Farbfeld aus {file} importiert|{n} Farbfelder aus {file} importiert
@@ -1469,7 +1467,6 @@ cameraData	Model	Modell
 	New Layer Comp	Neue Ebenenkomposition
 	New Layer With Mask	Neue Ebene mit Maske
 	New selection	Neue Auswahl
-	New Set…	Neuer Satz…
 	New Shape Layer	Neue Formebene
 	New Size	Neue Größe
 	New Smart Object via Copy	Neues Smart-Objekt durch Kopieren
@@ -2192,7 +2189,6 @@ curves	Smooth	Glätten
 	Subtract Front Shape	Vordere Form subtrahieren
 	Subtract Mask from Selection	Maske von Auswahl subtrahieren
 	Suggestions:	Vorschläge:
-	Summarize…	Zusammenfassen…
 	Summation	Summe
 	Surface Blur…	Oberflächenweichzeichner…
 	Swap colours (X)	Farben tauschen (X)

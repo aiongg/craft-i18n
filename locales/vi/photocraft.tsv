@@ -1043,7 +1043,6 @@ layers	Fill:	Độ tô:
 	Filter for type layers	Lọc lớp chữ
 	Filter Gallery	Thư viện bộ lọc
 	Filter Gallery…	Thư viện bộ lọc…
-	Filter:	Bộ lọc:
 	Find and Replace Text…	Tìm và thay chữ…
 	Find Edges	Tìm cạnh
 	Find Layers	Tìm lớp
@@ -1305,7 +1304,6 @@ cameraRaw	Hue	Sắc màu
 	Import Presets	Nhập thiết lập sẵn
 	Import Shortcuts…	Nhập phím tắt…
 	Import Swatches…	Nhập mẫu màu…
-	Imported	Đã nhập
 @plural	Imported {n} brush from {group}|Imported {n} brushes from {group}	Đã nhập {n} cọ từ {group}
 	Imported {n} shortcuts from {file}. Click OK to keep them.	Đã nhập {n} phím tắt từ {file}. Nhấp OK để giữ.
 @plural	Imported {n} swatch from {file}|Imported {n} swatches from {file}	Đã nhập {n} mẫu màu từ {file}
@@ -1697,7 +1695,6 @@ cameraData	Model	Kiểu máy
 	New Layer Comp	Bố cục lớp mới
 	New Layer With Mask	Lớp mới có mặt nạ
 	New selection	Vùng chọn mới
-	New Set…	Bộ mới…
 	New Shape Layer	Lớp hình mới
 	New Size	Kích thước mới
 	New Smart Object via Copy	Đối tượng thông minh mới bằng sao chép
@@ -2558,7 +2555,6 @@ curves	Smooth	Làm mượt
 	Subtract Front Shape	Trừ hình phía trước
 	Subtract Mask from Selection	Trừ mặt nạ khỏi vùng chọn
 	Suggestions:	Gợi ý:
-	Summarize…	Tóm tắt…
 	Summation	Tổng
 	Surface Blur	Làm mờ bề mặt
 	Surface Blur…	Làm mờ bề mặt…

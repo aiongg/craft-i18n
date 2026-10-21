@@ -1284,3 +1284,151 @@
 @plural	{n} step|{n} steps	{n} 个步骤
 	−Bin	删除资源
 	● Recording	● 录制中
+
+# Keyboard Shortcuts dialog (craft-keymap)
+	Reset All…	全部重置…
+	Restore every default shortcut in this set?	要将此组中的所有快捷键恢复为默认值吗？
+	Reset All	全部重置
+	Filter:	筛选：
+	Search:	搜索：
+	Search by key	按键搜索
+	All Commands	所有命令
+	{menu} Menu	{menu} 菜单
+	{panel} Panel	{panel} 面板
+	Fixed Keys	固定键
+	With Shortcut	有快捷键
+	Changed	已更改
+	Conflicts	冲突
+	(cycles)	（循环切换）
+	{label} (cycles)	{label}（循环切换）
+	{label} (Changed)	{label}（已更改）
+	Commands	命令
+	Detail pane size	详细信息窗格大小
+	Select a command to see and change its shortcuts	选择一个命令即可查看和更改其快捷键
+	{chord} (Default)	{chord}（默认）
+	{chord} ({scope})	{chord}（{scope}）
+	{label} ({scope})	{label}（{scope}）
+	Current shortcuts:	当前快捷键：
+	New shortcut:	新快捷键：
+	New shortcut: {chord}	新快捷键：{chord}
+	press keys	请按键
+	{chord} (press again for a double press)	{chord}（再按一次表示连按两次）
+	Context:	上下文：
+	Default: {chord}	默认：{chord}
+	Currently assigned to:	当前分配给：
+	Not assigned	未分配
+	{label} ({scope}, both work)	{label}（{scope}，两者均有效）
+	Add a shortcut to {label}	为 {label} 添加快捷键
+	Remove {chord} from {label}	从 {label} 中移除 {chord}
+	Restore the default for {label}	恢复 {label} 的默认值
+	{label}: {chord}	{label}：{chord}
+	{label}: press keys	{label}：请按键
+	Now used by {label}	现由 {label} 使用
+	{label}: {chord} (Now used by {holder})	{label}：{chord}（现由 {holder} 使用）
+	the shortcut has no key	快捷键中没有按键
+	unknown modifier {key}	未知的修饰键 {key}
+	modifier {key} given twice	修饰键 {key} 出现了两次
+	key sequences are not supported	不支持按键序列
+	the scope name is not valid	范围名称无效
+	Keyboard	键盘
+	Keyboard: US	键盘：US
+	Keyboard: US (macOS)	键盘：US（macOS）
+	Control	Control
+	Option	Option
+	Caps Lock	Caps Lock
+	Win	Win
+	Super	Super
+	Panel or context	面板或上下文
+	Modifier on	修饰键已开启
+	{chord}: {label}	{chord}：{label}
+	Click a key to see its shortcuts	单击某个键即可查看其快捷键
+	Key: {key}	键：{key}
+	Assign to Selected	分配给所选命令
+	Assign {chord} to {label}	将 {chord} 分配给 {label}
+	Select a command first	请先选择一个命令
+	Nothing uses this key	没有命令使用此键
+	⚠ {chord} is used by {label}	⚠ {chord} 已被 {label} 使用
+	{chord} was removed from {label}	已从 {label} 中移除 {chord}
+	Also used by {label}	也被 {label} 使用
+	{chord} is reserved by the system	{chord} 为系统保留
+	A command can have at most {n} shortcuts	一个命令最多可以有 {n} 个快捷键
+	The scope {scope} is unknown	范围 {scope} 未知
+	Too many shortcuts are assigned	分配的快捷键过多
+	This command is unknown	此命令未知
+	Take It	移到此命令
+	Take It and Go to Conflict	移到此命令并转到冲突
+	Keep Both	两者都保留
+	Go to Conflict	转到冲突
+	Cancel the new shortcut	取消新快捷键
+	{key}: no command has this name	{key}：没有名称相符的命令
+	{key}: “{text}” is not a shortcut ({error})	{key}：“{text}”不是快捷键（{error}）
+	{key}: {text} is reserved by the system	{key}：{text} 为系统保留
+	{key}: the scope in “{text}” is unknown	{key}：“{text}”中的范围未知
+	{key}: listed more than once	{key}：重复列出
+	{key}: part of the entry was dropped	{key}：条目的一部分已被丢弃
+	(modified)	（已修改）
+	New Set…	新建组…
+	Revert Set	还原组
+	Summarize…	生成摘要…
+	{title}: {set}	{title}：{set}
+	Based on:	基于：
+	Current shortcuts	当前快捷键
+	Save changes to “{set}”?	要保存对“{set}”的更改吗？
+	Delete the set “{set}”?	要删除组“{set}”吗？
+	Keyboard Shortcuts (JSON)	键盘快捷键 (JSON)
+	The name is empty, too long or has control characters	名称为空、过长或包含控制字符
+	A set with this name exists	已存在同名的组
+	The set was not found	未找到该组
+	Built-in sets cannot be changed	内置组无法更改
+	There are too many sets	组过多
+	This is not a shortcut set file	这不是快捷键组文件
+	This is not a craft-keymap file	这不是 craft-keymap 文件
+	This file is from a newer version (format {n})	此文件来自较新的版本（格式 {n}）
+	The file is too large	文件过大
+	Import “{set}”	导入“{set}”
+	Set name:	组名称：
+	Cancel Import	取消导入
+	line {n}	第 {n} 行
+	Will change	将更改
+	Not matched	未匹配
+	Unreadable	无法读取
+	Approximated	近似匹配
+	{title} ({n})	{title}（{n}）
+	Suggestions ({n})	建议（{n}）
+	numeric keypad key read as main key	小键盘上的键被读作主键盘键
+	Matched without change	无需更改即匹配
+	Command for {item}	{item} 对应的命令
+	Choose a command…	选择命令…
+	no command has this name	没有名称相符的命令
+	more than one command fits	有多个命令符合
+	in a context that is not imported	所在上下文不会被导入
+	only a command of the other kind fits (tool or menu command)	只有另一类命令（工具或菜单命令）符合
+	empty shortcut	快捷键为空
+	the shortcut is too long	快捷键过长
+	unknown key {key}	未知的键 {key}
+	unsupported modifier {key}	不支持的修饰键 {key}
+	{label} keeps its shortcuts (matched by a panel menu name)	{label} 保留其快捷键（按面板菜单名称匹配）
+	Import as New Set	导入为新组
+	Imported	已导入
+	Imported as “{set}”	已导入为“{set}”
+	Skipped	已跳过
+	Taken from other commands	从其他命令移入
+	Not changed	未更改
+	taken by {label}	被 {label} 占用
+	taken by a later entry	被后面的条目占用
+	reserved by the system	系统保留
+	the scope is unknown	范围未知
+	the set's shortcuts could not be added	无法添加该组的快捷键
+	the shortcuts could not be removed	无法移除这些快捷键
+	Copy Report	复制报告
+@plural	{n} shortcut is assigned more than once|{n} shortcuts are assigned more than once	{n} 个快捷键被重复分配
+@plural	{n} saved shortcut could not be used|{n} saved shortcuts could not be used	{n} 个已保存的快捷键无法使用
+@plural	{n} command will change|{n} commands will change	{n} 个命令将更改
+@plural	{n} item without a shortcut|{n} items without a shortcut	{n} 个项目没有快捷键
+@plural	{n} item not matched|{n} items not matched	{n} 个项目未匹配
+@plural	{n} item could not be read|{n} items could not be read	{n} 个项目无法读取
+@plural	{n} key read approximately|{n} keys read approximately	{n} 个键按近似方式读取
+@plural	{n} entry cut at a limit|{n} entries cut at a limit	{n} 个条目因超出限制被截断
+@plural	{n} command changed|{n} commands changed	{n} 个命令已更改
+@plural	{n} shortcut also works in another scope|{n} shortcuts also work in another scope	{n} 个快捷键在其他范围中也有效
+@plural	{n} entry was ignored: too many commands|{n} entries were ignored: too many commands	{n} 个条目因命令过多被忽略

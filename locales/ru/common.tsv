@@ -1248,3 +1248,151 @@
 @plural	{n} step|{n} steps	{n} шаг|{n} шага|{n} шагов
 	−Bin	−двоич.
 	● Recording	● Запись
+
+# Keyboard Shortcuts dialog (craft-keymap)
+	Reset All…	Сбросить все…
+	Restore every default shortcut in this set?	Восстановить все сочетания клавиш по умолчанию в этом наборе?
+	Reset All	Сбросить все
+	Filter:	Фильтр:
+	Search:	Поиск:
+	Search by key	Поиск по клавише
+	All Commands	Все команды
+	{menu} Menu	Меню «{menu}»
+	{panel} Panel	Панель «{panel}»
+	Fixed Keys	Фиксированные клавиши
+	With Shortcut	С сочетанием
+	Changed	Изменено
+	Conflicts	Конфликты
+	(cycles)	(циклически)
+	{label} (cycles)	{label} (циклически)
+	{label} (Changed)	{label} (изменено)
+	Commands	Команды
+	Detail pane size	Размер области сведений
+	Select a command to see and change its shortcuts	Выберите команду, чтобы увидеть и изменить её сочетания клавиш
+	{chord} (Default)	{chord} (по умолчанию)
+	{chord} ({scope})	{chord} ({scope})
+	{label} ({scope})	{label} ({scope})
+	Current shortcuts:	Текущие сочетания:
+	New shortcut:	Новое сочетание:
+	New shortcut: {chord}	Новое сочетание: {chord}
+	press keys	нажмите клавиши
+	{chord} (press again for a double press)	{chord} (нажмите ещё раз для двойного нажатия)
+	Context:	Контекст:
+	Default: {chord}	По умолчанию: {chord}
+	Currently assigned to:	Сейчас назначено:
+	Not assigned	Не назначено
+	{label} ({scope}, both work)	{label} ({scope}, работают оба)
+	Add a shortcut to {label}	Добавить сочетание для «{label}»
+	Remove {chord} from {label}	Убрать {chord} у «{label}»
+	Restore the default for {label}	Восстановить сочетание по умолчанию для «{label}»
+	{label}: {chord}	{label}: {chord}
+	{label}: press keys	{label}: нажмите клавиши
+	Now used by {label}	Теперь используется командой «{label}»
+	{label}: {chord} (Now used by {holder})	{label}: {chord} (теперь используется командой «{holder}»)
+	the shortcut has no key	в сочетании нет клавиши
+	unknown modifier {key}	неизвестный модификатор {key}
+	modifier {key} given twice	модификатор {key} указан дважды
+	key sequences are not supported	последовательности клавиш не поддерживаются
+	the scope name is not valid	недопустимое имя области
+	Keyboard	Клавиатура
+	Keyboard: US	Клавиатура: US
+	Keyboard: US (macOS)	Клавиатура: US (macOS)
+	Control	Control
+	Option	Option
+	Caps Lock	Caps Lock
+	Win	Win
+	Super	Super
+	Panel or context	Панель или контекст
+	Modifier on	Модификатор включён
+	{chord}: {label}	{chord}: {label}
+	Click a key to see its shortcuts	Нажмите клавишу, чтобы увидеть её сочетания
+	Key: {key}	Клавиша: {key}
+	Assign to Selected	Назначить выбранной
+	Assign {chord} to {label}	Назначить {chord} команде «{label}»
+	Select a command first	Сначала выберите команду
+	Nothing uses this key	Эта клавиша нигде не используется
+	⚠ {chord} is used by {label}	⚠ {chord} уже используется командой «{label}»
+	{chord} was removed from {label}	{chord} убрано у команды «{label}»
+	Also used by {label}	Также используется командой «{label}»
+	{chord} is reserved by the system	{chord} зарезервировано системой
+	A command can have at most {n} shortcuts	У команды может быть не более {n} сочетаний
+	The scope {scope} is unknown	Неизвестная область: {scope}
+	Too many shortcuts are assigned	Назначено слишком много сочетаний
+	This command is unknown	Эта команда неизвестна
+	Take It	Забрать
+	Take It and Go to Conflict	Забрать и перейти к конфликту
+	Keep Both	Оставить оба
+	Go to Conflict	Перейти к конфликту
+	Cancel the new shortcut	Отменить новое сочетание
+	{key}: no command has this name	{key}: нет команды с таким именем
+	{key}: “{text}” is not a shortcut ({error})	{key}: «{text}» не является сочетанием клавиш ({error})
+	{key}: {text} is reserved by the system	{key}: {text} зарезервировано системой
+	{key}: the scope in “{text}” is unknown	{key}: неизвестная область в «{text}»
+	{key}: listed more than once	{key}: указано более одного раза
+	{key}: part of the entry was dropped	{key}: часть записи отброшена
+	(modified)	(изменён)
+	New Set…	Новый набор…
+	Revert Set	Вернуть набор
+	Summarize…	Сводка…
+	{title}: {set}	{title}: {set}
+	Based on:	Основан на:
+	Current shortcuts	Текущие сочетания
+	Save changes to “{set}”?	Сохранить изменения в «{set}»?
+	Delete the set “{set}”?	Удалить набор «{set}»?
+	Keyboard Shortcuts (JSON)	Сочетания клавиш (JSON)
+	The name is empty, too long or has control characters	Имя пустое, слишком длинное или содержит управляющие символы
+	A set with this name exists	Набор с таким именем уже существует
+	The set was not found	Набор не найден
+	Built-in sets cannot be changed	Встроенные наборы нельзя изменять
+	There are too many sets	Слишком много наборов
+	This is not a shortcut set file	Это не файл набора сочетаний клавиш
+	This is not a craft-keymap file	Это не файл craft-keymap
+	This file is from a newer version (format {n})	Файл создан в более новой версии (формат {n})
+	The file is too large	Файл слишком большой
+	Import “{set}”	Импорт «{set}»
+	Set name:	Имя набора:
+	Cancel Import	Отменить импорт
+	line {n}	строка {n}
+	Will change	Будет изменено
+	Not matched	Не сопоставлено
+	Unreadable	Не прочитано
+	Approximated	Приблизительно
+	{title} ({n})	{title} ({n})
+	Suggestions ({n})	Предложения ({n})
+	numeric keypad key read as main key	клавиша цифровой клавиатуры прочитана как основная
+	Matched without change	Сопоставлено без изменений
+	Command for {item}	Команда для {item}
+	Choose a command…	Выбрать команду…
+	no command has this name	нет команды с таким именем
+	more than one command fits	подходит более одной команды
+	in a context that is not imported	в контексте, который не импортируется
+	only a command of the other kind fits (tool or menu command)	подходит только команда другого вида (инструмент или команда меню)
+	empty shortcut	пустое сочетание
+	the shortcut is too long	сочетание слишком длинное
+	unknown key {key}	неизвестная клавиша {key}
+	unsupported modifier {key}	неподдерживаемый модификатор {key}
+	{label} keeps its shortcuts (matched by a panel menu name)	{label} сохраняет свои сочетания (сопоставлено по имени меню панели)
+	Import as New Set	Импортировать как новый набор
+	Imported	Импортировано
+	Imported as “{set}”	Импортировано как «{set}»
+	Skipped	Пропущено
+	Taken from other commands	Взято у других команд
+	Not changed	Не изменено
+	taken by {label}	занято командой «{label}»
+	taken by a later entry	занято более поздней записью
+	reserved by the system	зарезервировано системой
+	the scope is unknown	область неизвестна
+	the set's shortcuts could not be added	не удалось добавить сочетания набора
+	the shortcuts could not be removed	не удалось убрать сочетания
+	Copy Report	Копировать отчёт
+@plural	{n} shortcut is assigned more than once|{n} shortcuts are assigned more than once	{n} сочетание назначено более одного раза|{n} сочетания назначено более одного раза|{n} сочетаний назначено более одного раза
+@plural	{n} saved shortcut could not be used|{n} saved shortcuts could not be used	{n} сохранённое сочетание не удалось использовать|{n} сохранённых сочетания не удалось использовать|{n} сохранённых сочетаний не удалось использовать
+@plural	{n} command will change|{n} commands will change	{n} команда будет изменена|{n} команды будут изменены|{n} команд будет изменено
+@plural	{n} item without a shortcut|{n} items without a shortcut	{n} элемент без сочетания|{n} элемента без сочетания|{n} элементов без сочетания
+@plural	{n} item not matched|{n} items not matched	{n} элемент не сопоставлен|{n} элемента не сопоставлено|{n} элементов не сопоставлено
+@plural	{n} item could not be read|{n} items could not be read	{n} элемент не удалось прочитать|{n} элемента не удалось прочитать|{n} элементов не удалось прочитать
+@plural	{n} key read approximately|{n} keys read approximately	{n} клавиша прочитана приблизительно|{n} клавиши прочитаны приблизительно|{n} клавиш прочитано приблизительно
+@plural	{n} entry cut at a limit|{n} entries cut at a limit	{n} запись обрезана по ограничению|{n} записи обрезаны по ограничению|{n} записей обрезано по ограничению
+@plural	{n} command changed|{n} commands changed	{n} команда изменена|{n} команды изменены|{n} команд изменено
+@plural	{n} shortcut also works in another scope|{n} shortcuts also work in another scope	{n} сочетание также работает в другой области|{n} сочетания также работают в другой области|{n} сочетаний также работают в другой области
+@plural	{n} entry was ignored: too many commands|{n} entries were ignored: too many commands	{n} запись проигнорирована: слишком много команд|{n} записи проигнорированы: слишком много команд|{n} записей проигнорировано: слишком много команд

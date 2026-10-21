@@ -1258,3 +1258,151 @@ theme	Appearance	외관
 @plural	{n} step|{n} steps	단계 {n}개
 	−Bin	−Bin
 	● Recording	● 녹화 중
+
+# Keyboard Shortcuts dialog (craft-keymap)
+	Reset All…	모두 재설정…
+	Restore every default shortcut in this set?	이 세트의 모든 단축키를 기본값으로 복원하시겠습니까?
+	Reset All	모두 재설정
+	Filter:	필터:
+	Search:	검색:
+	Search by key	키로 검색
+	All Commands	모든 명령
+	{menu} Menu	{menu} 메뉴
+	{panel} Panel	{panel} 패널
+	Fixed Keys	고정 키
+	With Shortcut	단축키 있음
+	Changed	변경됨
+	Conflicts	충돌
+	(cycles)	(순환)
+	{label} (cycles)	{label} (순환)
+	{label} (Changed)	{label} (변경됨)
+	Commands	명령
+	Detail pane size	세부 정보 창 크기
+	Select a command to see and change its shortcuts	명령을 선택하면 해당 단축키를 보고 변경할 수 있습니다
+	{chord} (Default)	{chord} (기본값)
+	{chord} ({scope})	{chord} ({scope})
+	{label} ({scope})	{label} ({scope})
+	Current shortcuts:	현재 단축키:
+	New shortcut:	새 단축키:
+	New shortcut: {chord}	새 단축키: {chord}
+	press keys	키를 누르세요
+	{chord} (press again for a double press)	{chord} (한 번 더 누르면 두 번 누르기)
+	Context:	컨텍스트:
+	Default: {chord}	기본값: {chord}
+	Currently assigned to:	현재 할당된 명령:
+	Not assigned	할당되지 않음
+	{label} ({scope}, both work)	{label} ({scope}, 둘 다 작동)
+	Add a shortcut to {label}	{label}에 단축키 추가
+	Remove {chord} from {label}	{label}에서 {chord} 제거
+	Restore the default for {label}	{label}의 기본값 복원
+	{label}: {chord}	{label}: {chord}
+	{label}: press keys	{label}: 키를 누르세요
+	Now used by {label}	현재 {label}에서 사용 중
+	{label}: {chord} (Now used by {holder})	{label}: {chord} (현재 {holder}에서 사용 중)
+	the shortcut has no key	단축키에 키가 없습니다
+	unknown modifier {key}	알 수 없는 보조 키 {key}
+	modifier {key} given twice	보조 키 {key}이(가) 두 번 지정되었습니다
+	key sequences are not supported	키 시퀀스는 지원되지 않습니다
+	the scope name is not valid	범위 이름이 올바르지 않습니다
+	Keyboard	키보드
+	Keyboard: US	키보드: US
+	Keyboard: US (macOS)	키보드: US (macOS)
+	Control	Control
+	Option	Option
+	Caps Lock	Caps Lock
+	Win	Win
+	Super	Super
+	Panel or context	패널 또는 컨텍스트
+	Modifier on	보조 키 켜짐
+	{chord}: {label}	{chord}: {label}
+	Click a key to see its shortcuts	키를 클릭하면 해당 단축키를 볼 수 있습니다
+	Key: {key}	키: {key}
+	Assign to Selected	선택한 명령에 할당
+	Assign {chord} to {label}	{chord}을(를) {label}에 할당
+	Select a command first	먼저 명령을 선택하세요
+	Nothing uses this key	이 키를 사용하는 명령이 없습니다
+	⚠ {chord} is used by {label}	⚠ {chord}은(는) {label}에서 사용 중입니다
+	{chord} was removed from {label}	{label}에서 {chord}을(를) 제거했습니다
+	Also used by {label}	{label}에서도 사용 중
+	{chord} is reserved by the system	{chord}은(는) 시스템에서 예약되어 있습니다
+	A command can have at most {n} shortcuts	명령 하나에는 단축키를 최대 {n}개까지 지정할 수 있습니다
+	The scope {scope} is unknown	범위 {scope}을(를) 알 수 없습니다
+	Too many shortcuts are assigned	할당된 단축키가 너무 많습니다
+	This command is unknown	알 수 없는 명령입니다
+	Take It	이 명령으로 옮기기
+	Take It and Go to Conflict	이 명령으로 옮기고 충돌 항목으로 이동
+	Keep Both	둘 다 유지
+	Go to Conflict	충돌 항목으로 이동
+	Cancel the new shortcut	새 단축키 취소
+	{key}: no command has this name	{key}: 이 이름의 명령이 없습니다
+	{key}: “{text}” is not a shortcut ({error})	{key}: “{text}”은(는) 단축키가 아닙니다({error})
+	{key}: {text} is reserved by the system	{key}: {text}은(는) 시스템에서 예약되어 있습니다
+	{key}: the scope in “{text}” is unknown	{key}: “{text}”의 범위를 알 수 없습니다
+	{key}: listed more than once	{key}: 두 번 이상 나열되었습니다
+	{key}: part of the entry was dropped	{key}: 항목의 일부가 제외되었습니다
+	(modified)	(수정됨)
+	New Set…	새 세트…
+	Revert Set	세트 되돌리기
+	Summarize…	요약…
+	{title}: {set}	{title}: {set}
+	Based on:	기준 세트:
+	Current shortcuts	현재 단축키
+	Save changes to “{set}”?	“{set}”의 변경 사항을 저장하시겠습니까?
+	Delete the set “{set}”?	“{set}” 세트를 삭제하시겠습니까?
+	Keyboard Shortcuts (JSON)	키보드 단축키(JSON)
+	The name is empty, too long or has control characters	이름이 비어 있거나 너무 길거나 제어 문자를 포함하고 있습니다
+	A set with this name exists	이 이름의 세트가 이미 있습니다
+	The set was not found	세트를 찾을 수 없습니다
+	Built-in sets cannot be changed	기본 제공 세트는 변경할 수 없습니다
+	There are too many sets	세트가 너무 많습니다
+	This is not a shortcut set file	단축키 세트 파일이 아닙니다
+	This is not a craft-keymap file	craft-keymap 파일이 아닙니다
+	This file is from a newer version (format {n})	이 파일은 더 최신 버전의 파일입니다(형식 {n})
+	The file is too large	파일이 너무 큽니다
+	Import “{set}”	“{set}” 가져오기
+	Set name:	세트 이름:
+	Cancel Import	가져오기 취소
+	line {n}	{n}번째 줄
+	Will change	변경될 항목
+	Not matched	일치하지 않음
+	Unreadable	읽을 수 없음
+	Approximated	근사 처리됨
+	{title} ({n})	{title}({n})
+	Suggestions ({n})	제안({n})
+	numeric keypad key read as main key	숫자 키패드 키를 주 키로 읽었습니다
+	Matched without change	변경 없이 일치
+	Command for {item}	{item}의 명령
+	Choose a command…	명령 선택…
+	no command has this name	이 이름의 명령이 없습니다
+	more than one command fits	맞는 명령이 둘 이상입니다
+	in a context that is not imported	가져오지 않는 컨텍스트에 있습니다
+	only a command of the other kind fits (tool or menu command)	다른 종류의 명령(도구 또는 메뉴 명령)만 맞습니다
+	empty shortcut	단축키가 비어 있습니다
+	the shortcut is too long	단축키가 너무 깁니다
+	unknown key {key}	알 수 없는 키 {key}
+	unsupported modifier {key}	지원되지 않는 보조 키 {key}
+	{label} keeps its shortcuts (matched by a panel menu name)	{label}은(는) 기존 단축키를 유지합니다(패널 메뉴 이름으로 일치)
+	Import as New Set	새 세트로 가져오기
+	Imported	가져옴
+	Imported as “{set}”	“{set}”(으)로 가져옴
+	Skipped	건너뜀
+	Taken from other commands	다른 명령에서 옮겨 옴
+	Not changed	변경되지 않음
+	taken by {label}	{label}에서 사용 중
+	taken by a later entry	뒤의 항목에서 사용 중
+	reserved by the system	시스템에서 예약됨
+	the scope is unknown	범위를 알 수 없습니다
+	the set's shortcuts could not be added	세트의 단축키를 추가할 수 없습니다
+	the shortcuts could not be removed	단축키를 제거할 수 없습니다
+	Copy Report	보고서 복사
+@plural	{n} shortcut is assigned more than once|{n} shortcuts are assigned more than once	중복 할당된 단축키 {n}개
+@plural	{n} saved shortcut could not be used|{n} saved shortcuts could not be used	사용할 수 없는 저장된 단축키 {n}개
+@plural	{n} command will change|{n} commands will change	변경될 명령 {n}개
+@plural	{n} item without a shortcut|{n} items without a shortcut	단축키가 없는 항목 {n}개
+@plural	{n} item not matched|{n} items not matched	일치하지 않는 항목 {n}개
+@plural	{n} item could not be read|{n} items could not be read	읽을 수 없는 항목 {n}개
+@plural	{n} key read approximately|{n} keys read approximately	근사로 읽은 키 {n}개
+@plural	{n} entry cut at a limit|{n} entries cut at a limit	한도에서 잘린 항목 {n}개
+@plural	{n} command changed|{n} commands changed	변경된 명령 {n}개
+@plural	{n} shortcut also works in another scope|{n} shortcuts also work in another scope	다른 범위에서도 작동하는 단축키 {n}개
+@plural	{n} entry was ignored: too many commands|{n} entries were ignored: too many commands	명령이 너무 많아 무시된 항목 {n}개

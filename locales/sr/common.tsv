@@ -432,3 +432,170 @@
 	Zoom	Зумирање
 	Zoom In	Увећај
 	Zoom Out	Умањи
+
+# Keyboard Shortcuts dialog (craft-keymap)
+	Keyboard Shortcuts	Пречице на тастатури
+	Reset All…	Ресетуј све…
+	Restore every default shortcut in this set?	Вратити све подразумеване пречице у овом скупу?
+	Reset All	Ресетуј све
+	Show:	Прикажи:
+	Filter:	Филтер:
+	Search:	Претрага:
+	Search by key	Претрага по тастеру
+	All Commands	Све наредбе
+	{menu} Menu	Мени {menu}
+	{panel} Panel	Панел {panel}
+	Fixed Keys	Фиксни тастери
+	With Shortcut	Са пречицом
+	Changed	Измењено
+	Conflicts	Сукоби
+	No matching commands	Нема одговарајућих наредби
+	(cycles)	(кружно)
+	{label} (cycles)	{label} (кружно)
+	{label} (Changed)	{label} (измењено)
+	Command	Наредба
+	Commands	Наредбе
+	Detail pane size	Величина окна са детаљима
+	Select a command to see and change its shortcuts	Изаберите наредбу да бисте видели и променили њене пречице
+	Shortcut	Пречица
+	{chord} (Default)	{chord} (подразумевано)
+	{chord} ({scope})	{chord} ({scope})
+	{label} ({scope})	{label} ({scope})
+	Application	Апликација
+	Current shortcuts:	Тренутне пречице:
+	New shortcut:	Нова пречица:
+	New shortcut: {chord}	Нова пречица: {chord}
+	press keys	притисните тастере
+	{chord} (press again for a double press)	{chord} (притисните поново за двоструки притисак)
+	Type…	Укуцај…
+	Context:	Контекст:
+	Use Default	Користи подразумевано
+	Default: {chord}	Подразумевано: {chord}
+	Currently assigned to:	Тренутно додељено:
+	Not assigned	Није додељено
+	{label} ({scope}, both work)	{label} ({scope}, раде обе)
+	Add a shortcut to {label}	Додај пречицу наредби {label}
+	Remove {chord} from {label}	Уклони {chord} са наредбе {label}
+	Restore the default for {label}	Врати подразумевану пречицу за наредбу {label}
+	{label}: {chord}	{label}: {chord}
+	{label}: press keys	{label}: притисните тастере
+	Now used by {label}	Сада је користи {label}
+	{label}: {chord} (Now used by {holder})	{label}: {chord} (сада је користи {holder})
+	the shortcut has no key	пречица нема тастер
+	unknown modifier {key}	непознат модификатор {key}
+	modifier {key} given twice	модификатор {key} је наведен два пута
+	key sequences are not supported	низови тастера нису подржани
+	the scope name is not valid	назив опсега није исправан
+	Keyboard	Тастатура
+	Keyboard: US	Тастатура: US
+	Keyboard: US (macOS)	Тастатура: US (macOS)
+	Control	Control
+	Option	Option
+	Shift	Shift
+	Ctrl	Ctrl
+	Alt	Alt
+	Caps Lock	Caps Lock
+	Win	Win
+	Super	Super
+	Panel or context	Панел или контекст
+	Both	Оба
+	Modifier on	Модификатор укључен
+	{chord}: {label}	{chord}: {label}
+	Click a key to see its shortcuts	Кликните на тастер да бисте видели његове пречице
+	Key: {key}	Тастер: {key}
+	Assign to Selected	Додели изабраној наредби
+	Assign {chord} to {label}	Додели {chord} наредби {label}
+	Select a command first	Прво изаберите наредбу
+	Nothing uses this key	Ниједна наредба не користи овај тастер
+	⚠ {chord} is used by {label}	⚠ {label} већ користи {chord}
+	{chord} was removed from {label}	{chord} је уклоњена са наредбе {label}
+	Also used by {label}	Користи је и наредба {label}
+	{chord} is reserved by the system	{chord} је резервисана за систем
+	A command can have at most {n} shortcuts	Наредба може имати највише {n} пречица
+	The scope {scope} is unknown	Опсег {scope} је непознат
+	Too many shortcuts are assigned	Додељено је превише пречица
+	This command is unknown	Ова наредба је непозната
+	Take It	Преузми
+	Take It and Go to Conflict	Преузми и иди на сукоб
+	Keep Both	Задржи обе
+	Go to Conflict	Иди на сукоб
+	Cancel the new shortcut	Откажи нову пречицу
+	Dismiss	Одбаци
+	{key}: no command has this name	{key}: ниједна наредба нема овај назив
+	{key}: “{text}” is not a shortcut ({error})	{key}: „{text}“ није пречица ({error})
+	{key}: {text} is reserved by the system	{key}: {text} је резервисана за систем
+	{key}: the scope in “{text}” is unknown	{key}: опсег у „{text}“ је непознат
+	{key}: listed more than once	{key}: наведено је више пута
+	{key}: part of the entry was dropped	{key}: део уноса је изостављен
+	Set:	Скуп:
+	(modified)	(измењено)
+	New Set…	Нови скуп…
+	Revert Set	Врати скуп
+	Import…	Увези…
+	Export…	Извези…
+	Summarize…	Сажми…
+	{title}: {set}	{title}: {set}
+	More	Више
+	Based on:	Заснован на:
+	Current shortcuts	Тренутне пречице
+	Save changes to “{set}”?	Сачувати измене у скупу „{set}“?
+	Delete the set “{set}”?	Обрисати скуп „{set}“?
+	Keyboard Shortcuts (JSON)	Пречице на тастатури (JSON)
+	The name is empty, too long or has control characters	Назив је празан, предугачак или садржи контролне знакове
+	A set with this name exists	Скуп са овим називом већ постоји
+	The set was not found	Скуп није пронађен
+	Built-in sets cannot be changed	Уграђени скупови не могу да се мењају
+	There are too many sets	Има превише скупова
+	This is not a shortcut set file	Ово није датотека скупа пречица
+	This is not a craft-keymap file	Ово није датотека craft-keymap
+	This file is from a newer version (format {n})	Ова датотека је из новије верзије (формат {n})
+	The file is too large	Датотека је превелика
+	Import “{set}”	Увези „{set}“
+	Set name:	Назив скупа:
+	Import	Увези
+	Cancel Import	Откажи увоз
+	line {n}	ред {n}
+	Will change	Биће измењено
+	Not matched	Без поклапања
+	Unreadable	Нечитљиво
+	Approximated	Приближно
+	{title} ({n})	{title} ({n})
+	Suggestions ({n})	Предлози ({n})
+	numeric keypad key read as main key	тастер нумеричке тастатуре прочитан је као главни тастер
+	Matched without change	Поклапање без измене
+	Command for {item}	Наредба за {item}
+	Choose a command…	Изабери наредбу…
+	no command has this name	ниједна наредба нема овај назив
+	more than one command fits	одговара више од једне наредбе
+	in a context that is not imported	у контексту који се не увози
+	only a command of the other kind fits (tool or menu command)	одговара само наредба друге врсте (алатка или наредба менија)
+	empty shortcut	празна пречица
+	the shortcut is too long	пречица је предугачка
+	unknown key {key}	непознат тастер {key}
+	unsupported modifier {key}	неподржан модификатор {key}
+	{label} keeps its shortcuts (matched by a panel menu name)	{label} задржава своје пречице (поклапање по називу менија панела)
+	Import as New Set	Увези као нови скуп
+	Imported	Увезено
+	Imported as “{set}”	Увезено као „{set}“
+	Skipped	Прескочено
+	Taken from other commands	Преузето од других наредби
+	Not changed	Није измењено
+	taken by {label}	заузето наредбом {label}
+	taken by a later entry	заузето каснијим уносом
+	reserved by the system	резервисано за систем
+	the scope is unknown	опсег је непознат
+	the set's shortcuts could not be added	пречице скупа није било могуће додати
+	the shortcuts could not be removed	пречице није било могуће уклонити
+	Copy Report	Копирај извештај
+	Done	Готово
+@plural	{n} shortcut is assigned more than once|{n} shortcuts are assigned more than once	{n} пречица је додељена више пута|{n} пречице су додељене више пута|{n} пречица је додељено више пута
+@plural	{n} saved shortcut could not be used|{n} saved shortcuts could not be used	{n} сачувану пречицу није било могуће користити|{n} сачуване пречице није било могуће користити|{n} сачуваних пречица није било могуће користити
+@plural	{n} command will change|{n} commands will change	Измениће се {n} наредба|Измениће се {n} наредбе|Измениће се {n} наредби
+@plural	{n} item without a shortcut|{n} items without a shortcut	{n} ставка без пречице|{n} ставке без пречице|{n} ставки без пречице
+@plural	{n} item not matched|{n} items not matched	{n} ставка нема поклапање|{n} ставке немају поклапање|{n} ставки нема поклапање
+@plural	{n} item could not be read|{n} items could not be read	{n} ставку није било могуће прочитати|{n} ставке није било могуће прочитати|{n} ставки није било могуће прочитати
+@plural	{n} key read approximately|{n} keys read approximately	{n} тастер је прочитан приближно|{n} тастера су прочитана приближно|{n} тастера је прочитано приближно
+@plural	{n} entry cut at a limit|{n} entries cut at a limit	{n} унос је одсечен на ограничењу|{n} уноса су одсечена на ограничењу|{n} уноса је одсечено на ограничењу
+@plural	{n} command changed|{n} commands changed	{n} наредба је измењена|{n} наредбе су измењене|{n} наредби је измењено
+@plural	{n} shortcut also works in another scope|{n} shortcuts also work in another scope	{n} пречица ради и у другом опсегу|{n} пречице раде и у другом опсегу|{n} пречица ради и у другом опсегу
+@plural	{n} entry was ignored: too many commands|{n} entries were ignored: too many commands	{n} унос је занемарен: превише наредби|{n} уноса су занемарена: превише наредби|{n} уноса је занемарено: превише наредби

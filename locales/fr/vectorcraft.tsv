@@ -771,7 +771,6 @@ axis	Both	Les deux
 	Contextual Task Bar	Barre des tâches contextuelle
 	Continue in Background	Continuer en arrière-plan
 	Contrasty	Contrasté
-	Control	Contrôle
 @msg	control must be fillStroke, coloring, drawMode or screenMode	control doit être fillStroke, coloring, drawMode ou screenMode
 	Convert All Spot Colors to Process	Convertir tous les tons directs en couleurs quadrichromiques
 	Convert All Strokes to Outlines	Vectoriser tous les contours
@@ -814,7 +813,6 @@ axis	Both	Les deux
 	Copy into the document's folder	Copier dans le dossier du document
 	Copy Links	Copier les liens
 	Copy only fonts you own or are licensed to install.	Ne copiez que des polices qui vous appartiennent ou dont la licence vous autorise l’installation.
-	Copy Report	Copier le rapport
 	Copy Selected Style	Copier le style sélectionné
 	Copy to User Defined	Copier dans Défini par l’utilisateur
 	Copy Width Point	Copier le point de largeur
@@ -1504,7 +1502,6 @@ file-filter	Flattener presets	Paramètres prédéfinis d’aplatissement
 	Glyph Scaling:	Mise à l’échelle des glyphes :
 	glyph {id}	glyphe {id}
 	Go to Artboard	Atteindre le plan de travail
-	Go to Conflict	Aller au conflit
 	Go To Link	Atteindre le lien
 	GPL palettes keep solid colours only, as RGB.	Les palettes GPL ne conservent que les couleurs unies, en RVB.
 	GPU Performance	Performances GPU
@@ -4302,7 +4299,6 @@ effect	Vertical	Vertical
 @plural	{n} Object|{n} Objects	{n} objet|{n} objets
 @plural	{n} part of the file wasn't read|{n} parts of the file weren't read	{n} partie du fichier n’a pas été lue|{n} parties du fichier n’ont pas été lues
 @plural	{n} PR|{n} PRs	{n} PR|{n} PR
-@plural	{n} shortcut is assigned more than once|{n} shortcuts are assigned more than once	{n} raccourci est attribué plusieurs fois|{n} raccourcis sont attribués plusieurs fois
 @plural	{n} star|{n} stars	{n} étoile|{n} étoiles
 @plural	{n} stroke|{n} strokes	{n} contour|{n} contours
 	{pages} in all, {count} per copy	{pages} au total, {count} par exemplaire

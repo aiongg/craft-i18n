@@ -690,7 +690,6 @@ axis	Both	Оба
 	Contextual Task Bar	Контекстная панель задач
 	Continue in Background	Продолжить в фоне
 	Contrasty	Контрастное
-	Control	Control
 @msg	control must be fillStroke, coloring, drawMode or screenMode	control должен быть fillStroke, coloring, drawMode или screenMode
 	Convert All Spot Colors to Process	Преобразовать все плашечные цвета в составные
 	Convert All Strokes to Outlines	Преобразовать все обводки в контуры
@@ -729,7 +728,6 @@ axis	Both	Оба
 	Copy into the document's folder	Копировать в папку документа
 	Copy Links	Копировать связи
 	Copy only fonts you own or are licensed to install.	Копируйте только шрифты, которые принадлежат вам или которые вы вправе устанавливать по лицензии.
-	Copy Report	Копировать отчёт
 	Copy Selected Style	Копировать выбранный стиль
 	Copy to User Defined	Копировать в «Пользовательский»
 	Copy Width Point	Копировать точку ширины

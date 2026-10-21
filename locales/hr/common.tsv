@@ -455,3 +455,170 @@
 	Zoom	Zumiranje
 	Zoom In	Povećaj
 	Zoom Out	Smanji
+
+# Keyboard Shortcuts dialog (craft-keymap)
+	Keyboard Shortcuts	Tipkovnički prečaci
+	Reset All…	Vrati sve na zadano…
+	Restore every default shortcut in this set?	Vratiti sve zadane prečace u ovom skupu?
+	Reset All	Vrati sve na zadano
+	Show:	Prikaži:
+	Filter:	Filtar:
+	Search:	Traži:
+	Search by key	Traži prema tipki
+	All Commands	Sve naredbe
+	{menu} Menu	Izbornik {menu}
+	{panel} Panel	Panel {panel}
+	Fixed Keys	Fiksne tipke
+	With Shortcut	S prečacem
+	Changed	Promijenjeno
+	Conflicts	Sukobi
+	No matching commands	Nema odgovarajućih naredbi
+	(cycles)	(kruži)
+	{label} (cycles)	{label} (kruži)
+	{label} (Changed)	{label} (promijenjeno)
+	Command	Naredba
+	Commands	Naredbe
+	Detail pane size	Veličina okna s pojedinostima
+	Select a command to see and change its shortcuts	Odaberite naredbu da biste vidjeli i promijenili njezine prečace
+	Shortcut	Prečac
+	{chord} (Default)	{chord} (zadano)
+	{chord} ({scope})	{chord} ({scope})
+	{label} ({scope})	{label} ({scope})
+	Application	Aplikacija
+	Current shortcuts:	Trenutačni prečaci:
+	New shortcut:	Novi prečac:
+	New shortcut: {chord}	Novi prečac: {chord}
+	press keys	pritisnite tipke
+	{chord} (press again for a double press)	{chord} (pritisnite ponovno za dvostruki pritisak)
+	Type…	Utipkaj…
+	Context:	Kontekst:
+	Use Default	Koristi zadano
+	Default: {chord}	Zadano: {chord}
+	Currently assigned to:	Trenutačno dodijeljeno:
+	Not assigned	Nije dodijeljeno
+	{label} ({scope}, both work)	{label} ({scope}, rade oba)
+	Add a shortcut to {label}	Dodaj prečac naredbi {label}
+	Remove {chord} from {label}	Ukloni {chord} s naredbe {label}
+	Restore the default for {label}	Vrati zadani prečac za naredbu {label}
+	{label}: {chord}	{label}: {chord}
+	{label}: press keys	{label}: pritisnite tipke
+	Now used by {label}	Sada ga koristi {label}
+	{label}: {chord} (Now used by {holder})	{label}: {chord} (sada ga koristi {holder})
+	the shortcut has no key	prečac nema tipku
+	unknown modifier {key}	nepoznati modifikator {key}
+	modifier {key} given twice	modifikator {key} naveden je dvaput
+	key sequences are not supported	nizovi tipki nisu podržani
+	the scope name is not valid	naziv opsega nije valjan
+	Keyboard	Tipkovnica
+	Keyboard: US	Tipkovnica: US
+	Keyboard: US (macOS)	Tipkovnica: US (macOS)
+	Control	Control
+	Option	Option
+	Shift	Shift
+	Ctrl	Ctrl
+	Alt	Alt
+	Caps Lock	Caps Lock
+	Win	Win
+	Super	Super
+	Panel or context	Panel ili kontekst
+	Both	Oba
+	Modifier on	Modifikator uključen
+	{chord}: {label}	{chord}: {label}
+	Click a key to see its shortcuts	Kliknite tipku da biste vidjeli njezine prečace
+	Key: {key}	Tipka: {key}
+	Assign to Selected	Dodijeli odabranoj naredbi
+	Assign {chord} to {label}	Dodijeli {chord} naredbi {label}
+	Select a command first	Najprije odaberite naredbu
+	Nothing uses this key	Nijedna naredba ne koristi ovu tipku
+	⚠ {chord} is used by {label}	⚠ {label} već koristi {chord}
+	{chord} was removed from {label}	{chord} je uklonjen s naredbe {label}
+	Also used by {label}	Koristi ga i {label}
+	{chord} is reserved by the system	{chord} je rezerviran za sustav
+	A command can have at most {n} shortcuts	Naredba može imati najviše {n} prečaca
+	The scope {scope} is unknown	Opseg {scope} nije poznat
+	Too many shortcuts are assigned	Dodijeljeno je previše prečaca
+	This command is unknown	Ova naredba nije poznata
+	Take It	Preuzmi
+	Take It and Go to Conflict	Preuzmi i idi na sukob
+	Keep Both	Zadrži oba
+	Go to Conflict	Idi na sukob
+	Cancel the new shortcut	Odustani od novog prečaca
+	Dismiss	Odbaci
+	{key}: no command has this name	{key}: nijedna naredba nema ovaj naziv
+	{key}: “{text}” is not a shortcut ({error})	{key}: „{text}“ nije prečac ({error})
+	{key}: {text} is reserved by the system	{key}: {text} je rezerviran za sustav
+	{key}: the scope in “{text}” is unknown	{key}: opseg u „{text}“ nije poznat
+	{key}: listed more than once	{key}: navedeno je više od jednom
+	{key}: part of the entry was dropped	{key}: dio unosa je izostavljen
+	Set:	Skup:
+	(modified)	(promijenjeno)
+	New Set…	Novi skup…
+	Revert Set	Vrati skup
+	Import…	Uvezi…
+	Export…	Izvezi…
+	Summarize…	Sažmi…
+	{title}: {set}	{title}: {set}
+	More	Više
+	Based on:	Temeljen na:
+	Current shortcuts	Trenutačni prečaci
+	Save changes to “{set}”?	Spremiti promjene u skupu „{set}“?
+	Delete the set “{set}”?	Izbrisati skup „{set}“?
+	Keyboard Shortcuts (JSON)	Tipkovnički prečaci (JSON)
+	The name is empty, too long or has control characters	Naziv je prazan, predugačak ili sadrži kontrolne znakove
+	A set with this name exists	Skup s ovim nazivom već postoji
+	The set was not found	Skup nije pronađen
+	Built-in sets cannot be changed	Ugrađeni skupovi ne mogu se mijenjati
+	There are too many sets	Ima previše skupova
+	This is not a shortcut set file	Ovo nije datoteka skupa prečaca
+	This is not a craft-keymap file	Ovo nije datoteka craft-keymap
+	This file is from a newer version (format {n})	Ova datoteka je iz novije verzije (format {n})
+	The file is too large	Datoteka je prevelika
+	Import “{set}”	Uvezi „{set}“
+	Set name:	Naziv skupa:
+	Import	Uvezi
+	Cancel Import	Odustani od uvoza
+	line {n}	redak {n}
+	Will change	Promijenit će se
+	Not matched	Bez podudaranja
+	Unreadable	Nečitljivo
+	Approximated	Približno
+	{title} ({n})	{title} ({n})
+	Suggestions ({n})	Prijedlozi ({n})
+	numeric keypad key read as main key	tipka numeričke tipkovnice pročitana je kao glavna tipka
+	Matched without change	Podudaranje bez promjene
+	Command for {item}	Naredba za {item}
+	Choose a command…	Odaberi naredbu…
+	no command has this name	nijedna naredba nema ovaj naziv
+	more than one command fits	odgovara više od jedne naredbe
+	in a context that is not imported	u kontekstu koji se ne uvozi
+	only a command of the other kind fits (tool or menu command)	odgovara samo naredba druge vrste (alat ili naredba izbornika)
+	empty shortcut	prazan prečac
+	the shortcut is too long	prečac je predugačak
+	unknown key {key}	nepoznata tipka {key}
+	unsupported modifier {key}	nepodržani modifikator {key}
+	{label} keeps its shortcuts (matched by a panel menu name)	{label} zadržava svoje prečace (podudaranje prema nazivu izbornika panela)
+	Import as New Set	Uvezi kao novi skup
+	Imported	Uvezeno
+	Imported as “{set}”	Uvezeno kao „{set}“
+	Skipped	Preskočeno
+	Taken from other commands	Preuzeto od drugih naredbi
+	Not changed	Nije promijenjeno
+	taken by {label}	zauzeto naredbom {label}
+	taken by a later entry	zauzeto kasnijim unosom
+	reserved by the system	rezervirano za sustav
+	the scope is unknown	opseg nije poznat
+	the set's shortcuts could not be added	prečace skupa nije bilo moguće dodati
+	the shortcuts could not be removed	prečace nije bilo moguće ukloniti
+	Copy Report	Kopiraj izvješće
+	Done	Gotovo
+@plural	{n} shortcut is assigned more than once|{n} shortcuts are assigned more than once	{n} prečac dodijeljen je više puta|{n} prečaca dodijeljena su više puta|{n} prečaca dodijeljeno je više puta
+@plural	{n} saved shortcut could not be used|{n} saved shortcuts could not be used	{n} spremljeni prečac nije bilo moguće koristiti|{n} spremljena prečaca nije bilo moguće koristiti|{n} spremljenih prečaca nije bilo moguće koristiti
+@plural	{n} command will change|{n} commands will change	Promijenit će se {n} naredba|Promijenit će se {n} naredbe|Promijenit će se {n} naredbi
+@plural	{n} item without a shortcut|{n} items without a shortcut	{n} stavka bez prečaca|{n} stavke bez prečaca|{n} stavki bez prečaca
+@plural	{n} item not matched|{n} items not matched	{n} stavka nema podudaranje|{n} stavke nemaju podudaranje|{n} stavki nema podudaranje
+@plural	{n} item could not be read|{n} items could not be read	{n} stavku nije bilo moguće pročitati|{n} stavke nije bilo moguće pročitati|{n} stavki nije bilo moguće pročitati
+@plural	{n} key read approximately|{n} keys read approximately	{n} tipka pročitana je približno|{n} tipke pročitane su približno|{n} tipki pročitano je približno
+@plural	{n} entry cut at a limit|{n} entries cut at a limit	{n} unos odrezan je na ograničenju|{n} unosa odrezana su na ograničenju|{n} unosa odrezano je na ograničenju
+@plural	{n} command changed|{n} commands changed	{n} naredba je promijenjena|{n} naredbe su promijenjene|{n} naredbi je promijenjeno
+@plural	{n} shortcut also works in another scope|{n} shortcuts also work in another scope	{n} prečac radi i u drugom opsegu|{n} prečaca rade i u drugom opsegu|{n} prečaca radi i u drugom opsegu
+@plural	{n} entry was ignored: too many commands|{n} entries were ignored: too many commands	{n} unos zanemaren je: previše naredbi|{n} unosa zanemarena su: previše naredbi|{n} unosa zanemareno je: previše naredbi

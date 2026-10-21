@@ -1291,3 +1291,151 @@ theme	Appearance	Aparência
 @plural	{n} step|{n} steps	{n} passo|{n} passos
 	−Bin	−Bin
 	● Recording	● Gravando
+
+# Keyboard Shortcuts dialog (craft-keymap)
+	Reset All…	Redefinir tudo…
+	Restore every default shortcut in this set?	Restaurar todos os atalhos padrão deste conjunto?
+	Reset All	Redefinir tudo
+	Filter:	Filtro:
+	Search:	Pesquisar:
+	Search by key	Pesquisar por tecla
+	All Commands	Todos os comandos
+	{menu} Menu	Menu {menu}
+	{panel} Panel	Painel {panel}
+	Fixed Keys	Teclas fixas
+	With Shortcut	Com atalho
+	Changed	Alterados
+	Conflicts	Conflitos
+	(cycles)	(alterna)
+	{label} (cycles)	{label} (alterna)
+	{label} (Changed)	{label} (alterado)
+	Commands	Comandos
+	Detail pane size	Tamanho do painel de detalhes
+	Select a command to see and change its shortcuts	Selecione um comando para ver e alterar seus atalhos
+	{chord} (Default)	{chord} (padrão)
+	{chord} ({scope})	{chord} ({scope})
+	{label} ({scope})	{label} ({scope})
+	Current shortcuts:	Atalhos atuais:
+	New shortcut:	Novo atalho:
+	New shortcut: {chord}	Novo atalho: {chord}
+	press keys	pressione as teclas
+	{chord} (press again for a double press)	{chord} (pressione novamente para um toque duplo)
+	Context:	Contexto:
+	Default: {chord}	Padrão: {chord}
+	Currently assigned to:	Atribuído atualmente a:
+	Not assigned	Não atribuído
+	{label} ({scope}, both work)	{label} ({scope}, ambos funcionam)
+	Add a shortcut to {label}	Adicionar um atalho a {label}
+	Remove {chord} from {label}	Remover {chord} de {label}
+	Restore the default for {label}	Restaurar o atalho padrão de {label}
+	{label}: {chord}	{label}: {chord}
+	{label}: press keys	{label}: pressione as teclas
+	Now used by {label}	Agora usado por {label}
+	{label}: {chord} (Now used by {holder})	{label}: {chord} (agora usado por {holder})
+	the shortcut has no key	o atalho não tem tecla
+	unknown modifier {key}	modificador desconhecido {key}
+	modifier {key} given twice	modificador {key} informado duas vezes
+	key sequences are not supported	sequências de teclas não são compatíveis
+	the scope name is not valid	o nome do contexto não é válido
+	Keyboard	Teclado
+	Keyboard: US	Teclado: EUA
+	Keyboard: US (macOS)	Teclado: EUA (macOS)
+	Control	Controle
+	Option	Option
+	Caps Lock	Caps Lock
+	Win	Win
+	Super	Super
+	Panel or context	Painel ou contexto
+	Modifier on	Modificador ativo
+	{chord}: {label}	{chord}: {label}
+	Click a key to see its shortcuts	Clique em uma tecla para ver seus atalhos
+	Key: {key}	Tecla: {key}
+	Assign to Selected	Atribuir à seleção
+	Assign {chord} to {label}	Atribuir {chord} a {label}
+	Select a command first	Selecione um comando primeiro
+	Nothing uses this key	Nenhum comando usa esta tecla
+	⚠ {chord} is used by {label}	⚠ {chord} é usado por {label}
+	{chord} was removed from {label}	{chord} foi removido de {label}
+	Also used by {label}	Também usado por {label}
+	{chord} is reserved by the system	{chord} é reservado pelo sistema
+	A command can have at most {n} shortcuts	Um comando pode ter no máximo {n} atalhos
+	The scope {scope} is unknown	O contexto {scope} é desconhecido
+	Too many shortcuts are assigned	Há atalhos demais atribuídos
+	This command is unknown	Este comando é desconhecido
+	Take It	Reatribuir
+	Take It and Go to Conflict	Reatribuir e ir para o conflito
+	Keep Both	Manter ambos
+	Go to Conflict	Ir para o conflito
+	Cancel the new shortcut	Cancelar o novo atalho
+	{key}: no command has this name	{key}: nenhum comando tem este nome
+	{key}: “{text}” is not a shortcut ({error})	{key}: “{text}” não é um atalho ({error})
+	{key}: {text} is reserved by the system	{key}: {text} é reservado pelo sistema
+	{key}: the scope in “{text}” is unknown	{key}: o contexto em “{text}” é desconhecido
+	{key}: listed more than once	{key}: listado mais de uma vez
+	{key}: part of the entry was dropped	{key}: parte da entrada foi descartada
+	(modified)	(modificado)
+	New Set…	Novo conjunto…
+	Revert Set	Reverter conjunto
+	Summarize…	Resumir…
+	{title}: {set}	{title}: {set}
+	Based on:	Baseado em:
+	Current shortcuts	Atalhos atuais
+	Save changes to “{set}”?	Salvar as alterações em “{set}”?
+	Delete the set “{set}”?	Excluir o conjunto “{set}”?
+	Keyboard Shortcuts (JSON)	Atalhos de teclado (JSON)
+	The name is empty, too long or has control characters	O nome está vazio, é longo demais ou tem caracteres de controle
+	A set with this name exists	Já existe um conjunto com este nome
+	The set was not found	O conjunto não foi encontrado
+	Built-in sets cannot be changed	Os conjuntos integrados não podem ser alterados
+	There are too many sets	Há conjuntos demais
+	This is not a shortcut set file	Este não é um arquivo de conjunto de atalhos
+	This is not a craft-keymap file	Este não é um arquivo craft-keymap
+	This file is from a newer version (format {n})	Este arquivo é de uma versão mais recente (formato {n})
+	The file is too large	O arquivo é grande demais
+	Import “{set}”	Importar “{set}”
+	Set name:	Nome do conjunto:
+	Cancel Import	Cancelar importação
+	line {n}	linha {n}
+	Will change	Serão alterados
+	Not matched	Sem correspondência
+	Unreadable	Ilegíveis
+	Approximated	Aproximados
+	{title} ({n})	{title} ({n})
+	Suggestions ({n})	Sugestões ({n})
+	numeric keypad key read as main key	tecla do teclado numérico lida como tecla principal
+	Matched without change	Correspondem sem alteração
+	Command for {item}	Comando para {item}
+	Choose a command…	Escolher um comando…
+	no command has this name	nenhum comando tem este nome
+	more than one command fits	mais de um comando corresponde
+	in a context that is not imported	em um contexto que não é importado
+	only a command of the other kind fits (tool or menu command)	só um comando do outro tipo corresponde (ferramenta ou comando de menu)
+	empty shortcut	atalho vazio
+	the shortcut is too long	o atalho é longo demais
+	unknown key {key}	tecla desconhecida {key}
+	unsupported modifier {key}	modificador incompatível {key}
+	{label} keeps its shortcuts (matched by a panel menu name)	{label} mantém seus atalhos (correspondência pelo nome do menu do painel)
+	Import as New Set	Importar como novo conjunto
+	Imported	Importados
+	Imported as “{set}”	Importados como “{set}”
+	Skipped	Ignorados
+	Taken from other commands	Tomados de outros comandos
+	Not changed	Não alterados
+	taken by {label}	tomado por {label}
+	taken by a later entry	tomado por uma entrada posterior
+	reserved by the system	reservado pelo sistema
+	the scope is unknown	o contexto é desconhecido
+	the set's shortcuts could not be added	não foi possível adicionar os atalhos do conjunto
+	the shortcuts could not be removed	não foi possível remover os atalhos
+	Copy Report	Copiar relatório
+@plural	{n} shortcut is assigned more than once|{n} shortcuts are assigned more than once	{n} atalho está atribuído mais de uma vez|{n} atalhos estão atribuídos mais de uma vez
+@plural	{n} saved shortcut could not be used|{n} saved shortcuts could not be used	Não foi possível usar {n} atalho salvo|Não foi possível usar {n} atalhos salvos
+@plural	{n} command will change|{n} commands will change	{n} comando será alterado|{n} comandos serão alterados
+@plural	{n} item without a shortcut|{n} items without a shortcut	{n} item sem atalho|{n} itens sem atalho
+@plural	{n} item not matched|{n} items not matched	{n} item sem correspondência|{n} itens sem correspondência
+@plural	{n} item could not be read|{n} items could not be read	Não foi possível ler {n} item|Não foi possível ler {n} itens
+@plural	{n} key read approximately|{n} keys read approximately	{n} tecla lida de forma aproximada|{n} teclas lidas de forma aproximada
+@plural	{n} entry cut at a limit|{n} entries cut at a limit	{n} entrada cortada em um limite|{n} entradas cortadas em um limite
+@plural	{n} command changed|{n} commands changed	{n} comando alterado|{n} comandos alterados
+@plural	{n} shortcut also works in another scope|{n} shortcuts also work in another scope	{n} atalho também funciona em outro contexto|{n} atalhos também funcionam em outro contexto
+@plural	{n} entry was ignored: too many commands|{n} entries were ignored: too many commands	{n} entrada foi ignorada: comandos demais|{n} entradas foram ignoradas: comandos demais

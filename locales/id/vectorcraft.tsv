@@ -786,7 +786,6 @@ swatch	Coffee	Kopi
 	Contextual Task Bar	Bilah tugas kontekstual
 	Continue in Background	Lanjutkan di latar belakang
 	Contrasty	Kontras
-	Control	Kontrol
 @msg	control must be fillStroke, coloring, drawMode or screenMode	control harus fillStroke, coloring, drawMode, atau screenMode
 	Convert All Spot Colors to Process	Konversi semua warna spot menjadi proses
 	Convert All Strokes to Outlines	Konversi semua stroke menjadi garis luar
@@ -830,7 +829,6 @@ swatch	Copper	Tembaga
 	Copy into the document's folder	Salin ke folder dokumen
 	Copy Links	Salin tautan
 	Copy only fonts you own or are licensed to install.	Salin hanya font yang Anda miliki atau yang dilisensikan untuk dipasang.
-	Copy Report	Salin laporan
 	Copy Selected Style	Salin gaya terpilih
 	Copy to User Defined	Salin ke Buatan Pengguna
 	Copy Width Point	Salin titik lebar
@@ -1524,7 +1522,6 @@ file-filter	Flattener presets	Preset perata
 	Glyph Scaling:	Penskalaan Glif:
 	glyph {id}	glif {id}
 	Go to Artboard	Buka artboard
-	Go to Conflict	Buka konflik
 	Go To Link	Buka tautan
 	GPL palettes keep solid colours only, as RGB.	Palet GPL hanya menyimpan warna solid, sebagai RGB.
 	GPU Performance	Performa GPU

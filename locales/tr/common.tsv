@@ -1227,3 +1227,151 @@
 	{n} min ago	{n} dk önce
 @plural	{n} step|{n} steps	{n} adım|{n} adım
 	−Bin	−Bin
+
+# Keyboard Shortcuts dialog (craft-keymap)
+	Reset All…	Tümünü Sıfırla…
+	Restore every default shortcut in this set?	Bu kümedeki tüm varsayılan kısayollar geri yüklensin mi?
+	Reset All	Tümünü Sıfırla
+	Filter:	Filtre:
+	Search:	Ara:
+	Search by key	Tuşa göre ara
+	All Commands	Tüm Komutlar
+	{menu} Menu	{menu} Menüsü
+	{panel} Panel	{panel} Paneli
+	Fixed Keys	Sabit Tuşlar
+	With Shortcut	Kısayolu Olanlar
+	Changed	Değiştirilenler
+	Conflicts	Çakışmalar
+	(cycles)	(sırayla geçer)
+	{label} (cycles)	{label} (sırayla geçer)
+	{label} (Changed)	{label} (değiştirildi)
+	Commands	Komutlar
+	Detail pane size	Ayrıntı bölmesi boyutu
+	Select a command to see and change its shortcuts	Kısayollarını görmek ve değiştirmek için bir komut seçin
+	{chord} (Default)	{chord} (varsayılan)
+	{chord} ({scope})	{chord} ({scope})
+	{label} ({scope})	{label} ({scope})
+	Current shortcuts:	Geçerli kısayollar:
+	New shortcut:	Yeni kısayol:
+	New shortcut: {chord}	Yeni kısayol: {chord}
+	press keys	tuşlara basın
+	{chord} (press again for a double press)	{chord} (çift basış için tekrar basın)
+	Context:	Bağlam:
+	Default: {chord}	Varsayılan: {chord}
+	Currently assigned to:	Şu anda atanmış olduğu komut:
+	Not assigned	Atanmamış
+	{label} ({scope}, both work)	{label} ({scope}, ikisi de çalışır)
+	Add a shortcut to {label}	{label} için kısayol ekle
+	Remove {chord} from {label}	{chord} kısayolunu {label} komutundan kaldır
+	Restore the default for {label}	{label} için varsayılanı geri yükle
+	{label}: {chord}	{label}: {chord}
+	{label}: press keys	{label}: tuşlara basın
+	Now used by {label}	Artık {label} tarafından kullanılıyor
+	{label}: {chord} (Now used by {holder})	{label}: {chord} (artık {holder} tarafından kullanılıyor)
+	the shortcut has no key	kısayolda tuş yok
+	unknown modifier {key}	bilinmeyen değiştirici tuş {key}
+	modifier {key} given twice	{key} değiştirici tuşu iki kez verilmiş
+	key sequences are not supported	tuş dizileri desteklenmiyor
+	the scope name is not valid	kapsam adı geçerli değil
+	Keyboard	Klavye
+	Keyboard: US	Klavye: ABD
+	Keyboard: US (macOS)	Klavye: ABD (macOS)
+	Control	Control
+	Option	Option
+	Caps Lock	Caps Lock
+	Win	Win
+	Super	Süper
+	Panel or context	Panel veya bağlam
+	Modifier on	Değiştirici tuş açık
+	{chord}: {label}	{chord}: {label}
+	Click a key to see its shortcuts	Kısayollarını görmek için bir tuşa tıklayın
+	Key: {key}	Tuş: {key}
+	Assign to Selected	Seçili Olana Ata
+	Assign {chord} to {label}	{chord} kısayolunu {label} komutuna ata
+	Select a command first	Önce bir komut seçin
+	Nothing uses this key	Bu tuşu hiçbir şey kullanmıyor
+	⚠ {chord} is used by {label}	⚠ {chord} kısayolunu {label} kullanıyor
+	{chord} was removed from {label}	{chord} kısayolu {label} komutundan kaldırıldı
+	Also used by {label}	Ayrıca {label} tarafından kullanılıyor
+	{chord} is reserved by the system	{chord} sistem tarafından ayrılmış
+	A command can have at most {n} shortcuts	Bir komutun en fazla {n} kısayolu olabilir
+	The scope {scope} is unknown	{scope} kapsamı bilinmiyor
+	Too many shortcuts are assigned	Çok fazla kısayol atanmış
+	This command is unknown	Bu komut bilinmiyor
+	Take It	Devral
+	Take It and Go to Conflict	Devral ve Çakışmaya Git
+	Keep Both	İkisini de Koru
+	Go to Conflict	Çakışmaya Git
+	Cancel the new shortcut	Yeni kısayolu iptal et
+	{key}: no command has this name	{key}: bu ada sahip komut yok
+	{key}: “{text}” is not a shortcut ({error})	{key}: “{text}” bir kısayol değil ({error})
+	{key}: {text} is reserved by the system	{key}: {text} sistem tarafından ayrılmış
+	{key}: the scope in “{text}” is unknown	{key}: “{text}” içindeki kapsam bilinmiyor
+	{key}: listed more than once	{key}: birden fazla kez listelenmiş
+	{key}: part of the entry was dropped	{key}: girdinin bir kısmı atlandı
+	(modified)	(değiştirildi)
+	New Set…	Yeni Küme…
+	Revert Set	Kümeyi Geri Döndür
+	Summarize…	Özetle…
+	{title}: {set}	{title}: {set}
+	Based on:	Temel alınan:
+	Current shortcuts	Geçerli kısayollar
+	Save changes to “{set}”?	“{set}” kümesindeki değişiklikler kaydedilsin mi?
+	Delete the set “{set}”?	“{set}” kümesi silinsin mi?
+	Keyboard Shortcuts (JSON)	Klavye Kısayolları (JSON)
+	The name is empty, too long or has control characters	Ad boş, çok uzun veya denetim karakterleri içeriyor
+	A set with this name exists	Bu ada sahip bir küme zaten var
+	The set was not found	Küme bulunamadı
+	Built-in sets cannot be changed	Yerleşik kümeler değiştirilemez
+	There are too many sets	Çok fazla küme var
+	This is not a shortcut set file	Bu bir kısayol kümesi dosyası değil
+	This is not a craft-keymap file	Bu bir craft-keymap dosyası değil
+	This file is from a newer version (format {n})	Bu dosya daha yeni bir sürümden (biçim {n})
+	The file is too large	Dosya çok büyük
+	Import “{set}”	“{set}” Kümesini İçe Aktar
+	Set name:	Küme adı:
+	Cancel Import	İçe Aktarmayı İptal Et
+	line {n}	satır {n}
+	Will change	Değişecek
+	Not matched	Eşleşmeyenler
+	Unreadable	Okunamayanlar
+	Approximated	Yaklaşık Okunanlar
+	{title} ({n})	{title} ({n})
+	Suggestions ({n})	Öneriler ({n})
+	numeric keypad key read as main key	sayısal tuş takımındaki tuş ana tuş olarak okundu
+	Matched without change	Değişiklik olmadan eşleşenler
+	Command for {item}	{item} için komut
+	Choose a command…	Komut seçin…
+	no command has this name	bu ada sahip komut yok
+	more than one command fits	birden fazla komut uyuyor
+	in a context that is not imported	içe aktarılmayan bir bağlamda
+	only a command of the other kind fits (tool or menu command)	yalnızca diğer türden bir komut uyuyor (araç veya menü komutu)
+	empty shortcut	boş kısayol
+	the shortcut is too long	kısayol çok uzun
+	unknown key {key}	bilinmeyen tuş {key}
+	unsupported modifier {key}	desteklenmeyen değiştirici tuş {key}
+	{label} keeps its shortcuts (matched by a panel menu name)	{label} kısayollarını koruyor (panel menüsü adıyla eşleşti)
+	Import as New Set	Yeni Küme Olarak İçe Aktar
+	Imported	İçe Aktarıldı
+	Imported as “{set}”	“{set}” olarak içe aktarıldı
+	Skipped	Atlandı
+	Taken from other commands	Diğer komutlardan alınanlar
+	Not changed	Değiştirilmedi
+	taken by {label}	{label} tarafından kullanılıyor
+	taken by a later entry	sonraki bir girdi tarafından kullanılıyor
+	reserved by the system	sistem tarafından ayrılmış
+	the scope is unknown	kapsam bilinmiyor
+	the set's shortcuts could not be added	kümenin kısayolları eklenemedi
+	the shortcuts could not be removed	kısayollar kaldırılamadı
+	Copy Report	Raporu Kopyala
+@plural	{n} shortcut is assigned more than once|{n} shortcuts are assigned more than once	{n} kısayol birden fazla kez atanmış|{n} kısayol birden fazla kez atanmış
+@plural	{n} saved shortcut could not be used|{n} saved shortcuts could not be used	{n} kayıtlı kısayol kullanılamadı|{n} kayıtlı kısayol kullanılamadı
+@plural	{n} command will change|{n} commands will change	{n} komut değişecek|{n} komut değişecek
+@plural	{n} item without a shortcut|{n} items without a shortcut	Kısayolu olmayan {n} öğe|Kısayolu olmayan {n} öğe
+@plural	{n} item not matched|{n} items not matched	{n} öğe eşleşmedi|{n} öğe eşleşmedi
+@plural	{n} item could not be read|{n} items could not be read	{n} öğe okunamadı|{n} öğe okunamadı
+@plural	{n} key read approximately|{n} keys read approximately	{n} tuş yaklaşık olarak okundu|{n} tuş yaklaşık olarak okundu
+@plural	{n} entry cut at a limit|{n} entries cut at a limit	{n} girdi bir sınırda kesildi|{n} girdi bir sınırda kesildi
+@plural	{n} command changed|{n} commands changed	{n} komut değiştirildi|{n} komut değiştirildi
+@plural	{n} shortcut also works in another scope|{n} shortcuts also work in another scope	{n} kısayol başka bir kapsamda da çalışıyor|{n} kısayol başka bir kapsamda da çalışıyor
+@plural	{n} entry was ignored: too many commands|{n} entries were ignored: too many commands	{n} girdi yok sayıldı: çok fazla komut|{n} girdi yok sayıldı: çok fazla komut

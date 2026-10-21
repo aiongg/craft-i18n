@@ -1290,3 +1290,151 @@
 @plural	{n} step|{n} steps	{n} passaggio|{n} passaggi
 	−Bin	−Bin
 	● Recording	● Registrazione in corso
+
+# Keyboard Shortcuts dialog (craft-keymap)
+	Reset All…	Ripristina tutto…
+	Restore every default shortcut in this set?	Ripristinare tutte le scorciatoie predefinite di questo set?
+	Reset All	Ripristina tutto
+	Filter:	Filtro:
+	Search:	Cerca:
+	Search by key	Cerca per tasto
+	All Commands	Tutti i comandi
+	{menu} Menu	Menu {menu}
+	{panel} Panel	Pannello {panel}
+	Fixed Keys	Tasti fissi
+	With Shortcut	Con scorciatoia
+	Changed	Modificati
+	Conflicts	Conflitti
+	(cycles)	(alterna)
+	{label} (cycles)	{label} (alterna)
+	{label} (Changed)	{label} (modificato)
+	Commands	Comandi
+	Detail pane size	Dimensione del riquadro dei dettagli
+	Select a command to see and change its shortcuts	Seleziona un comando per vederne e modificarne le scorciatoie
+	{chord} (Default)	{chord} (predefinita)
+	{chord} ({scope})	{chord} ({scope})
+	{label} ({scope})	{label} ({scope})
+	Current shortcuts:	Scorciatoie attuali:
+	New shortcut:	Nuova scorciatoia:
+	New shortcut: {chord}	Nuova scorciatoia: {chord}
+	press keys	premi i tasti
+	{chord} (press again for a double press)	{chord} (premi di nuovo per una doppia pressione)
+	Context:	Contesto:
+	Default: {chord}	Predefinita: {chord}
+	Currently assigned to:	Attualmente assegnata a:
+	Not assigned	Non assegnata
+	{label} ({scope}, both work)	{label} ({scope}, funzionano entrambe)
+	Add a shortcut to {label}	Aggiungi una scorciatoia a {label}
+	Remove {chord} from {label}	Rimuovi {chord} da {label}
+	Restore the default for {label}	Ripristina la scorciatoia predefinita di {label}
+	{label}: {chord}	{label}: {chord}
+	{label}: press keys	{label}: premi i tasti
+	Now used by {label}	Ora usata da {label}
+	{label}: {chord} (Now used by {holder})	{label}: {chord} (ora usata da {holder})
+	the shortcut has no key	la scorciatoia non ha tasti
+	unknown modifier {key}	modificatore sconosciuto {key}
+	modifier {key} given twice	modificatore {key} indicato due volte
+	key sequences are not supported	le sequenze di tasti non sono supportate
+	the scope name is not valid	il nome del contesto non è valido
+	Keyboard	Tastiera
+	Keyboard: US	Tastiera: USA
+	Keyboard: US (macOS)	Tastiera: USA (macOS)
+	Control	Controllo
+	Option	Option
+	Caps Lock	Bloc Maiusc
+	Win	Win
+	Super	Super
+	Panel or context	Pannello o contesto
+	Modifier on	Modificatore attivo
+	{chord}: {label}	{chord}: {label}
+	Click a key to see its shortcuts	Fai clic su un tasto per vederne le scorciatoie
+	Key: {key}	Tasto: {key}
+	Assign to Selected	Assegna alla selezione
+	Assign {chord} to {label}	Assegna {chord} a {label}
+	Select a command first	Seleziona prima un comando
+	Nothing uses this key	Nessun comando usa questo tasto
+	⚠ {chord} is used by {label}	⚠ {chord} è usata da {label}
+	{chord} was removed from {label}	{chord} è stata rimossa da {label}
+	Also used by {label}	Usata anche da {label}
+	{chord} is reserved by the system	{chord} è riservata dal sistema
+	A command can have at most {n} shortcuts	Un comando può avere al massimo {n} scorciatoie
+	The scope {scope} is unknown	Il contesto {scope} è sconosciuto
+	Too many shortcuts are assigned	Sono assegnate troppe scorciatoie
+	This command is unknown	Questo comando è sconosciuto
+	Take It	Riassegna
+	Take It and Go to Conflict	Riassegna e vai al conflitto
+	Keep Both	Mantieni entrambe
+	Go to Conflict	Vai al conflitto
+	Cancel the new shortcut	Annulla la nuova scorciatoia
+	{key}: no command has this name	{key}: nessun comando ha questo nome
+	{key}: “{text}” is not a shortcut ({error})	{key}: “{text}” non è una scorciatoia ({error})
+	{key}: {text} is reserved by the system	{key}: {text} è riservata dal sistema
+	{key}: the scope in “{text}” is unknown	{key}: il contesto in “{text}” è sconosciuto
+	{key}: listed more than once	{key}: indicata più di una volta
+	{key}: part of the entry was dropped	{key}: una parte della voce è stata scartata
+	(modified)	(modificato)
+	New Set…	Nuovo set…
+	Revert Set	Ripristina set
+	Summarize…	Riepiloga…
+	{title}: {set}	{title}: {set}
+	Based on:	Basato su:
+	Current shortcuts	Scorciatoie attuali
+	Save changes to “{set}”?	Salvare le modifiche a “{set}”?
+	Delete the set “{set}”?	Eliminare il set “{set}”?
+	Keyboard Shortcuts (JSON)	Scorciatoie da tastiera (JSON)
+	The name is empty, too long or has control characters	Il nome è vuoto, troppo lungo o contiene caratteri di controllo
+	A set with this name exists	Esiste già un set con questo nome
+	The set was not found	Set non trovato
+	Built-in sets cannot be changed	I set integrati non possono essere modificati
+	There are too many sets	Ci sono troppi set
+	This is not a shortcut set file	Questo non è un file di set di scorciatoie
+	This is not a craft-keymap file	Questo non è un file craft-keymap
+	This file is from a newer version (format {n})	Questo file proviene da una versione più recente (formato {n})
+	The file is too large	Il file è troppo grande
+	Import “{set}”	Importa “{set}”
+	Set name:	Nome del set:
+	Cancel Import	Annulla importazione
+	line {n}	riga {n}
+	Will change	Verranno modificati
+	Not matched	Senza corrispondenza
+	Unreadable	Illeggibili
+	Approximated	Approssimati
+	{title} ({n})	{title} ({n})
+	Suggestions ({n})	Suggerimenti ({n})
+	numeric keypad key read as main key	tasto del tastierino numerico letto come tasto principale
+	Matched without change	Corrispondenti senza modifiche
+	Command for {item}	Comando per {item}
+	Choose a command…	Scegli un comando…
+	no command has this name	nessun comando ha questo nome
+	more than one command fits	corrispondono più comandi
+	in a context that is not imported	in un contesto che non viene importato
+	only a command of the other kind fits (tool or menu command)	corrisponde solo un comando dell’altro tipo (strumento o comando di menu)
+	empty shortcut	scorciatoia vuota
+	the shortcut is too long	la scorciatoia è troppo lunga
+	unknown key {key}	tasto sconosciuto {key}
+	unsupported modifier {key}	modificatore non supportato {key}
+	{label} keeps its shortcuts (matched by a panel menu name)	{label} mantiene le sue scorciatoie (corrispondenza tramite il nome del menu del pannello)
+	Import as New Set	Importa come nuovo set
+	Imported	Importati
+	Imported as “{set}”	Importati come “{set}”
+	Skipped	Saltati
+	Taken from other commands	Prese da altri comandi
+	Not changed	Non modificati
+	taken by {label}	presa da {label}
+	taken by a later entry	presa da una voce successiva
+	reserved by the system	riservata dal sistema
+	the scope is unknown	il contesto è sconosciuto
+	the set's shortcuts could not be added	non è stato possibile aggiungere le scorciatoie del set
+	the shortcuts could not be removed	non è stato possibile rimuovere le scorciatoie
+	Copy Report	Copia report
+@plural	{n} shortcut is assigned more than once|{n} shortcuts are assigned more than once	{n} scorciatoia è assegnata più di una volta|{n} scorciatoie sono assegnate più di una volta
+@plural	{n} saved shortcut could not be used|{n} saved shortcuts could not be used	{n} scorciatoia salvata non può essere usata|{n} scorciatoie salvate non possono essere usate
+@plural	{n} command will change|{n} commands will change	{n} comando verrà modificato|{n} comandi verranno modificati
+@plural	{n} item without a shortcut|{n} items without a shortcut	{n} elemento senza scorciatoia|{n} elementi senza scorciatoia
+@plural	{n} item not matched|{n} items not matched	{n} elemento senza corrispondenza|{n} elementi senza corrispondenza
+@plural	{n} item could not be read|{n} items could not be read	{n} elemento non è stato letto|{n} elementi non sono stati letti
+@plural	{n} key read approximately|{n} keys read approximately	{n} tasto letto in modo approssimativo|{n} tasti letti in modo approssimativo
+@plural	{n} entry cut at a limit|{n} entries cut at a limit	{n} voce tagliata a un limite|{n} voci tagliate a un limite
+@plural	{n} command changed|{n} commands changed	{n} comando modificato|{n} comandi modificati
+@plural	{n} shortcut also works in another scope|{n} shortcuts also work in another scope	{n} scorciatoia funziona anche in un altro contesto|{n} scorciatoie funzionano anche in un altro contesto
+@plural	{n} entry was ignored: too many commands|{n} entries were ignored: too many commands	{n} voce è stata ignorata: troppi comandi|{n} voci sono state ignorate: troppi comandi

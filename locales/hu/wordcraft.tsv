@@ -410,7 +410,6 @@
 	Columns	Hasábok
 	Combine Documents	Dokumentumok kombinálása
 	Combo Box Content Control	Kombinált listás tartalomvezérlő
-	Commands	Parancsok
 	Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text.	PDF-ben, nyomtatásban és képen: megjegyzések az oldalak mellett és követett módosítások. Weboldal, Markdown és szöveg esetén: megjegyzéslista a végén.
 	Comments Pane	Megjegyzések panel
 	Common Accent Objects	Gyakori ékezetes objektumok
@@ -1233,7 +1232,6 @@
 	New Label	Új címke
 	New Label…	Új címke…
 	New Paragraph	Új bekezdés
-	New shortcut:	Új billentyűparancs:
 	New Tab	Új lap
 	New Table Style	Új táblázatstílus
 	New Table Style…	Új táblázatstílus…
@@ -1590,7 +1588,6 @@
 	Researcher	Kutatássegéd
 	Researcher needs an online service; WordCraft keeps your documents offline.	A Kutatássegédhez online szolgáltatás kell; a WordCraft a dokumentumait offline tartja.
 	Reset	Visszaállítás
-	Reset All…	Összes visszaállítása…
 	Reset Character Formatting	Karakterformázás visszaállítása
 	Reset Crop	Körülvágás visszaállítása
 	Reset Graphic	Ábra visszaállítása

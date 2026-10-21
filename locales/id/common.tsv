@@ -1186,3 +1186,151 @@ theme	Appearance	Tampilan
 	{n} min ago	{n} mnt lalu
 @plural	{n} step|{n} steps	{n} langkah
 	● Recording	● Merekam
+
+# Keyboard Shortcuts dialog (craft-keymap)
+	Reset All…	Atur ulang semua…
+	Restore every default shortcut in this set?	Pulihkan semua pintasan bawaan di kumpulan ini?
+	Reset All	Atur ulang semua
+	Filter:	Filter:
+	Search:	Cari:
+	Search by key	Cari berdasarkan tombol
+	All Commands	Semua perintah
+	{menu} Menu	Menu {menu}
+	{panel} Panel	Panel {panel}
+	Fixed Keys	Tombol tetap
+	With Shortcut	Dengan pintasan
+	Changed	Diubah
+	Conflicts	Konflik
+	(cycles)	(bergantian)
+	{label} (cycles)	{label} (bergantian)
+	{label} (Changed)	{label} (diubah)
+	Commands	Perintah
+	Detail pane size	Ukuran panel detail
+	Select a command to see and change its shortcuts	Pilih perintah untuk melihat dan mengubah pintasannya
+	{chord} (Default)	{chord} (bawaan)
+	{chord} ({scope})	{chord} ({scope})
+	{label} ({scope})	{label} ({scope})
+	Current shortcuts:	Pintasan saat ini:
+	New shortcut:	Pintasan baru:
+	New shortcut: {chord}	Pintasan baru: {chord}
+	press keys	tekan tombol
+	{chord} (press again for a double press)	{chord} (tekan lagi untuk penekanan ganda)
+	Context:	Konteks:
+	Default: {chord}	Bawaan: {chord}
+	Currently assigned to:	Saat ini ditetapkan ke:
+	Not assigned	Belum ditetapkan
+	{label} ({scope}, both work)	{label} ({scope}, keduanya berfungsi)
+	Add a shortcut to {label}	Tambahkan pintasan ke {label}
+	Remove {chord} from {label}	Hapus {chord} dari {label}
+	Restore the default for {label}	Pulihkan pintasan bawaan untuk {label}
+	{label}: {chord}	{label}: {chord}
+	{label}: press keys	{label}: tekan tombol
+	Now used by {label}	Sekarang dipakai oleh {label}
+	{label}: {chord} (Now used by {holder})	{label}: {chord} (sekarang dipakai oleh {holder})
+	the shortcut has no key	pintasan tidak memiliki tombol
+	unknown modifier {key}	pengubah tidak dikenal {key}
+	modifier {key} given twice	pengubah {key} diberikan dua kali
+	key sequences are not supported	urutan tombol tidak didukung
+	the scope name is not valid	nama konteks tidak valid
+	Keyboard	Keyboard
+	Keyboard: US	Keyboard: AS
+	Keyboard: US (macOS)	Keyboard: AS (macOS)
+	Control	Kontrol
+	Option	Option
+	Caps Lock	Caps Lock
+	Win	Win
+	Super	Super
+	Panel or context	Panel atau konteks
+	Modifier on	Pengubah aktif
+	{chord}: {label}	{chord}: {label}
+	Click a key to see its shortcuts	Klik tombol untuk melihat pintasannya
+	Key: {key}	Tombol: {key}
+	Assign to Selected	Tetapkan ke yang dipilih
+	Assign {chord} to {label}	Tetapkan {chord} ke {label}
+	Select a command first	Pilih perintah terlebih dahulu
+	Nothing uses this key	Tidak ada yang memakai tombol ini
+	⚠ {chord} is used by {label}	⚠ {chord} dipakai oleh {label}
+	{chord} was removed from {label}	{chord} dihapus dari {label}
+	Also used by {label}	Juga dipakai oleh {label}
+	{chord} is reserved by the system	{chord} dicadangkan oleh sistem
+	A command can have at most {n} shortcuts	Satu perintah dapat memiliki paling banyak {n} pintasan
+	The scope {scope} is unknown	Konteks {scope} tidak dikenal
+	Too many shortcuts are assigned	Terlalu banyak pintasan yang ditetapkan
+	This command is unknown	Perintah ini tidak dikenal
+	Take It	Ambil alih
+	Take It and Go to Conflict	Ambil alih dan buka konflik
+	Keep Both	Pertahankan keduanya
+	Go to Conflict	Buka konflik
+	Cancel the new shortcut	Batalkan pintasan baru
+	{key}: no command has this name	{key}: tidak ada perintah dengan nama ini
+	{key}: “{text}” is not a shortcut ({error})	{key}: “{text}” bukan pintasan ({error})
+	{key}: {text} is reserved by the system	{key}: {text} dicadangkan oleh sistem
+	{key}: the scope in “{text}” is unknown	{key}: konteks dalam “{text}” tidak dikenal
+	{key}: listed more than once	{key}: tercantum lebih dari sekali
+	{key}: part of the entry was dropped	{key}: sebagian entri dibuang
+	(modified)	(diubah)
+	New Set…	Kumpulan baru…
+	Revert Set	Kembalikan kumpulan
+	Summarize…	Ringkas…
+	{title}: {set}	{title}: {set}
+	Based on:	Berdasarkan:
+	Current shortcuts	Pintasan saat ini
+	Save changes to “{set}”?	Simpan perubahan pada “{set}”?
+	Delete the set “{set}”?	Hapus kumpulan “{set}”?
+	Keyboard Shortcuts (JSON)	Pintasan keyboard (JSON)
+	The name is empty, too long or has control characters	Nama kosong, terlalu panjang, atau memuat karakter kontrol
+	A set with this name exists	Kumpulan dengan nama ini sudah ada
+	The set was not found	Kumpulan tidak ditemukan
+	Built-in sets cannot be changed	Kumpulan bawaan tidak dapat diubah
+	There are too many sets	Terlalu banyak kumpulan
+	This is not a shortcut set file	Ini bukan file kumpulan pintasan
+	This is not a craft-keymap file	Ini bukan file craft-keymap
+	This file is from a newer version (format {n})	File ini berasal dari versi yang lebih baru (format {n})
+	The file is too large	File terlalu besar
+	Import “{set}”	Impor “{set}”
+	Set name:	Nama kumpulan:
+	Cancel Import	Batalkan impor
+	line {n}	baris {n}
+	Will change	Akan diubah
+	Not matched	Tidak cocok
+	Unreadable	Tidak terbaca
+	Approximated	Diperkirakan
+	{title} ({n})	{title} ({n})
+	Suggestions ({n})	Saran ({n})
+	numeric keypad key read as main key	tombol keypad numerik terbaca sebagai tombol utama
+	Matched without change	Cocok tanpa perubahan
+	Command for {item}	Perintah untuk {item}
+	Choose a command…	Pilih perintah…
+	no command has this name	tidak ada perintah dengan nama ini
+	more than one command fits	lebih dari satu perintah yang cocok
+	in a context that is not imported	dalam konteks yang tidak diimpor
+	only a command of the other kind fits (tool or menu command)	hanya perintah jenis lain yang cocok (alat atau perintah menu)
+	empty shortcut	pintasan kosong
+	the shortcut is too long	pintasan terlalu panjang
+	unknown key {key}	tombol tidak dikenal {key}
+	unsupported modifier {key}	pengubah tidak didukung {key}
+	{label} keeps its shortcuts (matched by a panel menu name)	{label} mempertahankan pintasannya (dicocokkan lewat nama menu panel)
+	Import as New Set	Impor sebagai kumpulan baru
+	Imported	Diimpor
+	Imported as “{set}”	Diimpor sebagai “{set}”
+	Skipped	Dilewati
+	Taken from other commands	Diambil alih dari perintah lain
+	Not changed	Tidak diubah
+	taken by {label}	diambil alih oleh {label}
+	taken by a later entry	diambil alih oleh entri berikutnya
+	reserved by the system	dicadangkan oleh sistem
+	the scope is unknown	konteks tidak dikenal
+	the set's shortcuts could not be added	pintasan kumpulan tidak dapat ditambahkan
+	the shortcuts could not be removed	pintasan tidak dapat dihapus
+	Copy Report	Salin laporan
+@plural	{n} shortcut is assigned more than once|{n} shortcuts are assigned more than once	{n} pintasan ditetapkan lebih dari sekali
+@plural	{n} saved shortcut could not be used|{n} saved shortcuts could not be used	{n} pintasan tersimpan tidak dapat dipakai
+@plural	{n} command will change|{n} commands will change	{n} perintah akan diubah
+@plural	{n} item without a shortcut|{n} items without a shortcut	{n} item tanpa pintasan
+@plural	{n} item not matched|{n} items not matched	{n} item tidak cocok
+@plural	{n} item could not be read|{n} items could not be read	{n} item tidak dapat dibaca
+@plural	{n} key read approximately|{n} keys read approximately	{n} tombol dibaca secara perkiraan
+@plural	{n} entry cut at a limit|{n} entries cut at a limit	{n} entri dipotong pada batas
+@plural	{n} command changed|{n} commands changed	{n} perintah diubah
+@plural	{n} shortcut also works in another scope|{n} shortcuts also work in another scope	{n} pintasan juga berfungsi di konteks lain
+@plural	{n} entry was ignored: too many commands|{n} entries were ignored: too many commands	{n} entri diabaikan: terlalu banyak perintah

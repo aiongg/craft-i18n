@@ -906,3 +906,157 @@ theme	Appearance	Udseende
 @plural	{n} Layer|{n} Layers	{n} lag|{n} lag
 @plural	{n} step|{n} steps	{n} trin|{n} trin
 	● Recording	● Optager
+
+# Keyboard Shortcuts dialog (craft-keymap)
+	Reset All…	Nulstil alle…
+	Restore every default shortcut in this set?	Gendan alle standardgenveje i dette sæt?
+	Reset All	Nulstil alle
+	Filter:	Filter:
+	Search:	Søg:
+	Search by key	Søg efter tast
+	All Commands	Alle kommandoer
+	{menu} Menu	Menuen {menu}
+	{panel} Panel	Panelet {panel}
+	Fixed Keys	Faste taster
+	With Shortcut	Med genvej
+	Changed	Ændret
+	Conflicts	Konflikter
+	No matching commands	Ingen matchende kommandoer
+	(cycles)	(skifter igennem)
+	{label} (cycles)	{label} (skifter igennem)
+	{label} (Changed)	{label} (ændret)
+	Commands	Kommandoer
+	Detail pane size	Størrelse på detaljeruden
+	Select a command to see and change its shortcuts	Vælg en kommando for at se og ændre dens genveje
+	{chord} (Default)	{chord} (standard)
+	{chord} ({scope})	{chord} ({scope})
+	{label} ({scope})	{label} ({scope})
+	Application	Program
+	Current shortcuts:	Nuværende genveje:
+	New shortcut:	Ny genvej:
+	New shortcut: {chord}	Ny genvej: {chord}
+	press keys	tryk på taster
+	{chord} (press again for a double press)	{chord} (tryk igen for et dobbelttryk)
+	Context:	Kontekst:
+	Default: {chord}	Standard: {chord}
+	Currently assigned to:	Tildelt i øjeblikket til:
+	Not assigned	Ikke tildelt
+	{label} ({scope}, both work)	{label} ({scope}, begge virker)
+	Add a shortcut to {label}	Føj en genvej til {label}
+	Remove {chord} from {label}	Fjern {chord} fra {label}
+	Restore the default for {label}	Gendan standarden for {label}
+	{label}: {chord}	{label}: {chord}
+	{label}: press keys	{label}: tryk på taster
+	Now used by {label}	Bruges nu af {label}
+	{label}: {chord} (Now used by {holder})	{label}: {chord} (bruges nu af {holder})
+	the shortcut has no key	genvejen har ingen tast
+	unknown modifier {key}	ukendt ændringstast {key}
+	modifier {key} given twice	ændringstasten {key} er angivet to gange
+	key sequences are not supported	tastesekvenser understøttes ikke
+	the scope name is not valid	navnet på omfanget er ugyldigt
+	Keyboard	Tastatur
+	Keyboard: US	Tastatur: US
+	Keyboard: US (macOS)	Tastatur: US (macOS)
+	Control	Control
+	Option	Option
+	Caps Lock	Caps Lock
+	Win	Win
+	Super	Super
+	Panel or context	Panel eller kontekst
+	Both	Begge
+	Modifier on	Ændringstast på
+	{chord}: {label}	{chord}: {label}
+	Click a key to see its shortcuts	Klik på en tast for at se dens genveje
+	Key: {key}	Tast: {key}
+	Assign to Selected	Tildel til markeret
+	Assign {chord} to {label}	Tildel {chord} til {label}
+	Select a command first	Vælg først en kommando
+	Nothing uses this key	Ingenting bruger denne tast
+	⚠ {chord} is used by {label}	⚠ {chord} bruges af {label}
+	{chord} was removed from {label}	{chord} er fjernet fra {label}
+	Also used by {label}	Bruges også af {label}
+	{chord} is reserved by the system	{chord} er reserveret af systemet
+	A command can have at most {n} shortcuts	En kommando kan højst have {n} genveje
+	The scope {scope} is unknown	Omfanget {scope} er ukendt
+	Too many shortcuts are assigned	Der er tildelt for mange genveje
+	This command is unknown	Denne kommando er ukendt
+	Take It	Overtag
+	Take It and Go to Conflict	Overtag og gå til konflikt
+	Keep Both	Behold begge
+	Go to Conflict	Gå til konflikt
+	Cancel the new shortcut	Annullér den nye genvej
+	Dismiss	Luk
+	{key}: no command has this name	{key}: ingen kommando har dette navn
+	{key}: “{text}” is not a shortcut ({error})	{key}: “{text}” er ikke en genvej ({error})
+	{key}: {text} is reserved by the system	{key}: {text} er reserveret af systemet
+	{key}: the scope in “{text}” is unknown	{key}: omfanget i “{text}” er ukendt
+	{key}: listed more than once	{key}: angivet mere end én gang
+	{key}: part of the entry was dropped	{key}: en del af posten blev udeladt
+	(modified)	(ændret)
+	New Set…	Nyt sæt…
+	Rename…	Omdøb…
+	Revert Set	Gendan sæt
+	Summarize…	Sammenfat…
+	{title}: {set}	{title}: {set}
+	Based on:	Baseret på:
+	Current shortcuts	Nuværende genveje
+	Save changes to “{set}”?	Gem ændringer i “{set}”?
+	Delete the set “{set}”?	Slet sættet “{set}”?
+	Keyboard Shortcuts (JSON)	Tastaturgenveje (JSON)
+	The name is empty, too long or has control characters	Navnet er tomt, for langt eller indeholder kontroltegn
+	A set with this name exists	Der findes allerede et sæt med dette navn
+	The set was not found	Sættet blev ikke fundet
+	Built-in sets cannot be changed	Indbyggede sæt kan ikke ændres
+	There are too many sets	Der er for mange sæt
+	This is not a shortcut set file	Dette er ikke en fil med et genvejssæt
+	This is not a craft-keymap file	Dette er ikke en craft-keymap-fil
+	This file is from a newer version (format {n})	Denne fil stammer fra en nyere version (format {n})
+	The file is too large	Filen er for stor
+	Import “{set}”	Importér “{set}”
+	Set name:	Sættets navn:
+	Import	Importér
+	Cancel Import	Annullér import
+	line {n}	linje {n}
+	Will change	Ændres
+	Not matched	Ikke matchet
+	Unreadable	Ulæselig
+	Approximated	Tilnærmet
+	{title} ({n})	{title} ({n})
+	Suggestions ({n})	Forslag ({n})
+	numeric keypad key read as main key	tast på det numeriske tastatur læst som hovedtast
+	Matched without change	Matchet uden ændring
+	Command for {item}	Kommando til {item}
+	Choose a command…	Vælg en kommando…
+	no command has this name	ingen kommando har dette navn
+	more than one command fits	mere end én kommando passer
+	in a context that is not imported	i en kontekst, der ikke importeres
+	only a command of the other kind fits (tool or menu command)	kun en kommando af den anden slags passer (værktøjs- eller menukommando)
+	empty shortcut	tom genvej
+	the shortcut is too long	genvejen er for lang
+	unknown key {key}	ukendt tast {key}
+	unsupported modifier {key}	ikke-understøttet ændringstast {key}
+	{label} keeps its shortcuts (matched by a panel menu name)	{label} beholder sine genveje (matchet via et panelmenunavn)
+	Import as New Set	Importér som nyt sæt
+	Imported	Importeret
+	Imported as “{set}”	Importeret som “{set}”
+	Skipped	Sprunget over
+	Taken from other commands	Overtaget fra andre kommandoer
+	Not changed	Ikke ændret
+	taken by {label}	bruges af {label}
+	taken by a later entry	bruges af en senere post
+	reserved by the system	reserveret af systemet
+	the scope is unknown	omfanget er ukendt
+	the set's shortcuts could not be added	sættets genveje kunne ikke tilføjes
+	the shortcuts could not be removed	genvejene kunne ikke fjernes
+	Copy Report	Kopiér rapport
+@plural	{n} shortcut is assigned more than once|{n} shortcuts are assigned more than once	{n} genvej er tildelt mere end én gang|{n} genveje er tildelt mere end én gang
+@plural	{n} saved shortcut could not be used|{n} saved shortcuts could not be used	{n} gemt genvej kunne ikke bruges|{n} gemte genveje kunne ikke bruges
+@plural	{n} command will change|{n} commands will change	{n} kommando ændres|{n} kommandoer ændres
+@plural	{n} item without a shortcut|{n} items without a shortcut	{n} element uden genvej|{n} elementer uden genvej
+@plural	{n} item not matched|{n} items not matched	{n} element ikke matchet|{n} elementer ikke matchet
+@plural	{n} item could not be read|{n} items could not be read	{n} element kunne ikke læses|{n} elementer kunne ikke læses
+@plural	{n} key read approximately|{n} keys read approximately	{n} tast læst tilnærmet|{n} taster læst tilnærmet
+@plural	{n} entry cut at a limit|{n} entries cut at a limit	{n} post afkortet ved en grænse|{n} poster afkortet ved en grænse
+@plural	{n} command changed|{n} commands changed	{n} kommando ændret|{n} kommandoer ændret
+@plural	{n} shortcut also works in another scope|{n} shortcuts also work in another scope	{n} genvej virker også i et andet omfang|{n} genveje virker også i et andet omfang
+@plural	{n} entry was ignored: too many commands|{n} entries were ignored: too many commands	{n} post blev ignoreret: for mange kommandoer|{n} poster blev ignoreret: for mange kommandoer

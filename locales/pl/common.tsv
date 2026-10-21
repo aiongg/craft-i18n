@@ -1271,3 +1271,151 @@ theme	Appearance	Wygląd
 @plural	{n} step|{n} steps	{n} krok|{n} kroki|{n} kroków
 	−Bin	−Bin
 	● Recording	● Nagrywanie
+
+# Keyboard Shortcuts dialog (craft-keymap)
+	Reset All…	Resetuj wszystko…
+	Restore every default shortcut in this set?	Przywrócić wszystkie domyślne skróty w tym zestawie?
+	Reset All	Resetuj wszystko
+	Filter:	Filtr:
+	Search:	Szukaj:
+	Search by key	Szukaj według klawisza
+	All Commands	Wszystkie polecenia
+	{menu} Menu	Menu „{menu}”
+	{panel} Panel	Panel „{panel}”
+	Fixed Keys	Klawisze stałe
+	With Shortcut	Ze skrótem
+	Changed	Zmienione
+	Conflicts	Konflikty
+	(cycles)	(przełącza)
+	{label} (cycles)	{label} (przełącza)
+	{label} (Changed)	{label} (zmieniono)
+	Commands	Polecenia
+	Detail pane size	Rozmiar panelu szczegółów
+	Select a command to see and change its shortcuts	Wybierz polecenie, aby zobaczyć i zmienić jego skróty
+	{chord} (Default)	{chord} (domyślny)
+	{chord} ({scope})	{chord} ({scope})
+	{label} ({scope})	{label} ({scope})
+	Current shortcuts:	Bieżące skróty:
+	New shortcut:	Nowy skrót:
+	New shortcut: {chord}	Nowy skrót: {chord}
+	press keys	naciśnij klawisze
+	{chord} (press again for a double press)	{chord} (naciśnij ponownie, aby nacisnąć podwójnie)
+	Context:	Kontekst:
+	Default: {chord}	Domyślny: {chord}
+	Currently assigned to:	Obecnie przypisany do:
+	Not assigned	Nieprzypisany
+	{label} ({scope}, both work)	{label} ({scope}, działają oba)
+	Add a shortcut to {label}	Dodaj skrót do polecenia „{label}”
+	Remove {chord} from {label}	Usuń {chord} z polecenia „{label}”
+	Restore the default for {label}	Przywróć skrót domyślny dla polecenia „{label}”
+	{label}: {chord}	{label}: {chord}
+	{label}: press keys	{label}: naciśnij klawisze
+	Now used by {label}	Teraz używa go „{label}”
+	{label}: {chord} (Now used by {holder})	{label}: {chord} (teraz używa go „{holder}”)
+	the shortcut has no key	skrót nie zawiera klawisza
+	unknown modifier {key}	nieznany modyfikator {key}
+	modifier {key} given twice	modyfikator {key} podano dwa razy
+	key sequences are not supported	sekwencje klawiszy nie są obsługiwane
+	the scope name is not valid	nazwa zakresu jest nieprawidłowa
+	Keyboard	Klawiatura
+	Keyboard: US	Klawiatura: US
+	Keyboard: US (macOS)	Klawiatura: US (macOS)
+	Control	Control
+	Option	Option
+	Caps Lock	Caps Lock
+	Win	Win
+	Super	Super
+	Panel or context	Panel lub kontekst
+	Modifier on	Modyfikator włączony
+	{chord}: {label}	{chord}: {label}
+	Click a key to see its shortcuts	Kliknij klawisz, aby zobaczyć jego skróty
+	Key: {key}	Klawisz: {key}
+	Assign to Selected	Przypisz do zaznaczonego
+	Assign {chord} to {label}	Przypisz {chord} do polecenia „{label}”
+	Select a command first	Najpierw wybierz polecenie
+	Nothing uses this key	Żadne polecenie nie używa tego klawisza
+	⚠ {chord} is used by {label}	⚠ {chord} jest używany przez „{label}”
+	{chord} was removed from {label}	Usunięto {chord} z polecenia „{label}”
+	Also used by {label}	Używany także przez „{label}”
+	{chord} is reserved by the system	{chord} jest zarezerwowany przez system
+	A command can have at most {n} shortcuts	Maksymalna liczba skrótów dla polecenia: {n}
+	The scope {scope} is unknown	Nieznany zakres: {scope}
+	Too many shortcuts are assigned	Przypisano zbyt wiele skrótów
+	This command is unknown	To polecenie jest nieznane
+	Take It	Przejmij
+	Take It and Go to Conflict	Przejmij i przejdź do konfliktu
+	Keep Both	Zachowaj oba
+	Go to Conflict	Przejdź do konfliktu
+	Cancel the new shortcut	Anuluj nowy skrót
+	{key}: no command has this name	{key}: żadne polecenie nie ma tej nazwy
+	{key}: “{text}” is not a shortcut ({error})	{key}: „{text}” nie jest skrótem ({error})
+	{key}: {text} is reserved by the system	{key}: {text} jest zarezerwowany przez system
+	{key}: the scope in “{text}” is unknown	{key}: zakres w „{text}” jest nieznany
+	{key}: listed more than once	{key}: wymieniono więcej niż raz
+	{key}: part of the entry was dropped	{key}: część wpisu pominięto
+	(modified)	(zmodyfikowano)
+	New Set…	Nowy zestaw…
+	Revert Set	Cofnij zmiany zestawu
+	Summarize…	Podsumuj…
+	{title}: {set}	{title}: {set}
+	Based on:	Na podstawie:
+	Current shortcuts	Bieżące skróty
+	Save changes to “{set}”?	Zapisać zmiany w „{set}”?
+	Delete the set “{set}”?	Usunąć zestaw „{set}”?
+	Keyboard Shortcuts (JSON)	Skróty klawiaturowe (JSON)
+	The name is empty, too long or has control characters	Nazwa jest pusta, za długa lub zawiera znaki sterujące
+	A set with this name exists	Zestaw o tej nazwie już istnieje
+	The set was not found	Nie znaleziono zestawu
+	Built-in sets cannot be changed	Zestawów wbudowanych nie można zmieniać
+	There are too many sets	Jest zbyt wiele zestawów
+	This is not a shortcut set file	To nie jest plik zestawu skrótów
+	This is not a craft-keymap file	To nie jest plik craft-keymap
+	This file is from a newer version (format {n})	Ten plik pochodzi z nowszej wersji (format {n})
+	The file is too large	Plik jest za duży
+	Import “{set}”	Importuj „{set}”
+	Set name:	Nazwa zestawu:
+	Cancel Import	Anuluj import
+	line {n}	wiersz {n}
+	Will change	Zostanie zmienione
+	Not matched	Niedopasowane
+	Unreadable	Nieczytelne
+	Approximated	Przybliżone
+	{title} ({n})	{title} ({n})
+	Suggestions ({n})	Sugestie ({n})
+	numeric keypad key read as main key	klawisz klawiatury numerycznej odczytano jako główny
+	Matched without change	Dopasowane bez zmian
+	Command for {item}	Polecenie dla: {item}
+	Choose a command…	Wybierz polecenie…
+	no command has this name	żadne polecenie nie ma tej nazwy
+	more than one command fits	pasuje więcej niż jedno polecenie
+	in a context that is not imported	w kontekście, który nie jest importowany
+	only a command of the other kind fits (tool or menu command)	pasuje tylko polecenie innego rodzaju (narzędzie lub polecenie menu)
+	empty shortcut	pusty skrót
+	the shortcut is too long	skrót jest za długi
+	unknown key {key}	nieznany klawisz {key}
+	unsupported modifier {key}	nieobsługiwany modyfikator {key}
+	{label} keeps its shortcuts (matched by a panel menu name)	„{label}” zachowuje swoje skróty (dopasowano według nazwy w menu panelu)
+	Import as New Set	Importuj jako nowy zestaw
+	Imported	Zaimportowano
+	Imported as “{set}”	Zaimportowano jako „{set}”
+	Skipped	Pominięto
+	Taken from other commands	Przejęte z innych poleceń
+	Not changed	Bez zmian
+	taken by {label}	zajęty przez „{label}”
+	taken by a later entry	zajęty przez późniejszy wpis
+	reserved by the system	zarezerwowany przez system
+	the scope is unknown	zakres jest nieznany
+	the set's shortcuts could not be added	nie udało się dodać skrótów zestawu
+	the shortcuts could not be removed	nie udało się usunąć skrótów
+	Copy Report	Kopiuj raport
+@plural	{n} shortcut is assigned more than once|{n} shortcuts are assigned more than once	{n} skrót jest przypisany więcej niż raz|{n} skróty są przypisane więcej niż raz|{n} skrótów jest przypisanych więcej niż raz
+@plural	{n} saved shortcut could not be used|{n} saved shortcuts could not be used	Nie udało się użyć {n} zapisanego skrótu|Nie udało się użyć {n} zapisanych skrótów|Nie udało się użyć {n} zapisanych skrótów
+@plural	{n} command will change|{n} commands will change	{n} polecenie zostanie zmienione|{n} polecenia zostaną zmienione|{n} poleceń zostanie zmienionych
+@plural	{n} item without a shortcut|{n} items without a shortcut	{n} element bez skrótu|{n} elementy bez skrótu|{n} elementów bez skrótu
+@plural	{n} item not matched|{n} items not matched	{n} element nie został dopasowany|{n} elementy nie zostały dopasowane|{n} elementów nie zostało dopasowanych
+@plural	{n} item could not be read|{n} items could not be read	Nie udało się odczytać {n} elementu|Nie udało się odczytać {n} elementów|Nie udało się odczytać {n} elementów
+@plural	{n} key read approximately|{n} keys read approximately	Odczytano w przybliżeniu {n} klawisz|Odczytano w przybliżeniu {n} klawisze|Odczytano w przybliżeniu {n} klawiszy
+@plural	{n} entry cut at a limit|{n} entries cut at a limit	Obcięto {n} wpis przy limicie|Obcięto {n} wpisy przy limicie|Obcięto {n} wpisów przy limicie
+@plural	{n} command changed|{n} commands changed	Zmieniono {n} polecenie|Zmieniono {n} polecenia|Zmieniono {n} poleceń
+@plural	{n} shortcut also works in another scope|{n} shortcuts also work in another scope	{n} skrót działa także w innym zakresie|{n} skróty działają także w innym zakresie|{n} skrótów działa także w innym zakresie
+@plural	{n} entry was ignored: too many commands|{n} entries were ignored: too many commands	Pominięto {n} wpis: zbyt wiele poleceń|Pominięto {n} wpisy: zbyt wiele poleceń|Pominięto {n} wpisów: zbyt wiele poleceń

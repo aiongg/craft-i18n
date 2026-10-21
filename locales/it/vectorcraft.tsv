@@ -683,7 +683,6 @@ axis	Both	Entrambi
 	Continue in Background	Continua in background
 	Contrasty	Contrastato
 	Contributors	Collaboratori
-	Control	Controllo
 @msg	control must be fillStroke, coloring, drawMode or screenMode	control deve essere fillStroke, coloring, drawMode o screenMode
 	Convert All Spot Colors to Process	Converti tutti i colori spot in quadricromia
 	Convert All Strokes to Outlines	Converti tutte le tracce in contorni

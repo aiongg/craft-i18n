@@ -384,3 +384,166 @@
 	{n} h ago	{n} сағат бұрын
 	{n} min ago	{n} минут бұрын
 	−Bin	−Bin
+
+# Keyboard Shortcuts dialog (craft-keymap)
+	Keyboard Shortcuts	Пернетақта тіркесімдері
+	Reset All…	Барлығын қалпына келтіру…
+	Restore every default shortcut in this set?	Осы жиындағы барлық әдепкі тіркесімдерді қалпына келтіру керек пе?
+	Reset All	Барлығын қалпына келтіру
+	Filter:	Сүзгі:
+	Search:	Іздеу:
+	Search by key	Перне бойынша іздеу
+	All Commands	Барлық командалар
+	{menu} Menu	{menu} мәзірі
+	{panel} Panel	{panel} панелі
+	Other	Басқа
+	Fixed Keys	Бекітілген пернелер
+	With Shortcut	Тіркесімі бар
+	Changed	Өзгертілген
+	Conflicts	Қайшылықтар
+	No matching commands	Сәйкес командалар жоқ
+	(cycles)	(кезектеседі)
+	{label} (cycles)	{label} (кезектеседі)
+	{label} (Changed)	{label} (өзгертілген)
+	Commands	Командалар
+	Detail pane size	Мәлімет аймағының өлшемі
+	Select a command to see and change its shortcuts	Тіркесімдерін көру және өзгерту үшін команданы таңдаңыз
+	Shortcut	Тіркесім
+	{chord} (Default)	{chord} (әдепкі)
+	{chord} ({scope})	{chord} ({scope})
+	{label} ({scope})	{label} ({scope})
+	Current shortcuts:	Ағымдағы тіркесімдер:
+	New shortcut:	Жаңа тіркесім:
+	New shortcut: {chord}	Жаңа тіркесім: {chord}
+	press keys	пернелерді басыңыз
+	{chord} (press again for a double press)	{chord} (қосарлана басу үшін қайта басыңыз)
+	Type…	Теру…
+	Context:	Контекст:
+	Assign	Тағайындау
+	Use Default	Әдепкіні пайдалану
+	Default: {chord}	Әдепкі: {chord}
+	Currently assigned to:	Қазір тағайындалған:
+	Not assigned	Тағайындалмаған
+	{label} ({scope}, both work)	{label} ({scope}, екеуі де жұмыс істейді)
+	Add a shortcut to {label}	{label} командасына тіркесім қосу
+	Remove {chord} from {label}	{chord} тіркесімін {label} командасынан алып тастау
+	Restore the default for {label}	{label} үшін әдепкіні қалпына келтіру
+	{label}: {chord}	{label}: {chord}
+	{label}: press keys	{label}: пернелерді басыңыз
+	Now used by {label}	Қазір {label} пайдаланады
+	{label}: {chord} (Now used by {holder})	{label}: {chord} (қазір {holder} пайдаланады)
+	the shortcut has no key	тіркесімде перне жоқ
+	unknown modifier {key}	белгісіз модификатор {key}
+	modifier {key} given twice	{key} модификаторы екі рет көрсетілген
+	key sequences are not supported	пернелер тізбегіне қолдау көрсетілмейді
+	the scope name is not valid	ауқым атауы жарамсыз
+	Keyboard	Пернетақта
+	Keyboard: US	Пернетақта: US
+	Keyboard: US (macOS)	Пернетақта: US (macOS)
+	Control	Control
+	Option	Option
+	Shift	Shift
+	Ctrl	Ctrl
+	Alt	Alt
+	Caps Lock	Caps Lock
+	Win	Win
+	Super	Super
+	Panel or context	Панель немесе контекст
+	Modifier on	Модификатор қосулы
+	{chord}: {label}	{chord}: {label}
+	Click a key to see its shortcuts	Тіркесімдерін көру үшін пернені шертіңіз
+	Key: {key}	Перне: {key}
+	Assign to Selected	Таңдалғанға тағайындау
+	Assign {chord} to {label}	{chord} тіркесімін {label} командасына тағайындау
+	Select a command first	Алдымен команданы таңдаңыз
+	Nothing uses this key	Бұл пернені ештеңе пайдаланбайды
+	⚠ {chord} is used by {label}	⚠ {chord} тіркесімін {label} пайдаланады
+	{chord} was removed from {label}	{chord} тіркесімі {label} командасынан алынып тасталды
+	Also used by {label}	Оны {label} да пайдаланады
+	{chord} is reserved by the system	{chord} жүйеге резервтелген
+	A command can have at most {n} shortcuts	Команданың көп дегенде {n} тіркесімі болуы мүмкін
+	The scope {scope} is unknown	{scope} ауқымы белгісіз
+	Too many shortcuts are assigned	Тағайындалған тіркесімдер тым көп
+	This command is unknown	Бұл команда белгісіз
+	Take It	Осы командаға ауыстыру
+	Take It and Go to Conflict	Осы командаға ауыстырып, қайшылыққа өту
+	Keep Both	Екеуін де сақтау
+	Go to Conflict	Қайшылыққа өту
+	Cancel the new shortcut	Жаңа тіркесімнен бас тарту
+	{key}: no command has this name	{key}: мұндай атты команда жоқ
+	{key}: “{text}” is not a shortcut ({error})	{key}: “{text}” тіркесім емес ({error})
+	{key}: {text} is reserved by the system	{key}: {text} жүйеге резервтелген
+	{key}: the scope in “{text}” is unknown	{key}: “{text}” ішіндегі ауқым белгісіз
+	{key}: listed more than once	{key}: бірнеше рет көрсетілген
+	{key}: part of the entry was dropped	{key}: жазбаның бір бөлігі алынып тасталды
+	Set:	Жиын:
+	(modified)	(өзгертілген)
+	New Set…	Жаңа жиын…
+	Rename…	Атын өзгерту…
+	Revert Set	Жиынды сақталған күйіне қайтару
+	Import…	Импорттау…
+	Summarize…	Түйіндеу…
+	{title}: {set}	{title}: {set}
+	Based on:	Негізі:
+	Current shortcuts	Ағымдағы тіркесімдер
+	Save changes to “{set}”?	“{set}” жиынындағы өзгерістер сақталсын ба?
+	Don't Save	Сақтамау
+	Delete the set “{set}”?	“{set}” жиыны жойылсын ба?
+	Keyboard Shortcuts (JSON)	Пернетақта тіркесімдері (JSON)
+	The name is empty, too long or has control characters	Атау бос, тым ұзын немесе басқару таңбаларын қамтиды
+	A set with this name exists	Мұндай атты жиын бар
+	The set was not found	Жиын табылмады
+	Built-in sets cannot be changed	Кірістірілген жиындарды өзгертуге болмайды
+	There are too many sets	Жиындар тым көп
+	This is not a shortcut set file	Бұл тіркесімдер жиыны файлы емес
+	This is not a craft-keymap file	Бұл craft-keymap файлы емес
+	This file is from a newer version (format {n})	Бұл файл жаңарақ нұсқадан (пішім {n})
+	The file is too large	Файл тым үлкен
+	Import “{set}”	“{set}” жиынын импорттау
+	Set name:	Жиын атауы:
+	Import	Импорттау
+	Cancel Import	Импорттаудан бас тарту
+	line {n}	{n}-жол
+	Will change	Өзгереді
+	Not matched	Сәйкес келмеді
+	Unreadable	Оқылмайды
+	Approximated	Шамамен
+	{title} ({n})	{title} ({n})
+	Suggestions ({n})	Ұсыныстар ({n})
+	numeric keypad key read as main key	сандық пернетақтадағы перне негізгі перне ретінде оқылды
+	Matched without change	Өзгеріссіз сәйкес келді
+	Command for {item}	{item} үшін команда
+	Choose a command…	Команданы таңдау…
+	no command has this name	мұндай атты команда жоқ
+	more than one command fits	бірнеше команда сәйкес келеді
+	in a context that is not imported	импортталмайтын контексте
+	only a command of the other kind fits (tool or menu command)	тек басқа түрдегі команда (құрал немесе мәзір командасы) сәйкес келеді
+	empty shortcut	бос тіркесім
+	the shortcut is too long	тіркесім тым ұзын
+	unknown key {key}	белгісіз перне {key}
+	unsupported modifier {key}	қолдау көрсетілмейтін модификатор {key}
+	{label} keeps its shortcuts (matched by a panel menu name)	{label} өз тіркесімдерін сақтайды (панель мәзірінің атауы бойынша сәйкестендірілді)
+	Import as New Set	Жаңа жиын ретінде импорттау
+	Imported	Импортталды
+	Imported as “{set}”	“{set}” ретінде импортталды
+	Skipped	Өткізілді
+	Taken from other commands	Басқа командалардан ауыстырылды
+	Not changed	Өзгертілмеді
+	taken by {label}	{label} пайдаланады
+	taken by a later entry	кейінгі жазба пайдаланады
+	reserved by the system	жүйеге резервтелген
+	the scope is unknown	ауқым белгісіз
+	the set's shortcuts could not be added	жиынның тіркесімдерін қосу мүмкін болмады
+	the shortcuts could not be removed	тіркесімдерді алып тастау мүмкін болмады
+	Copy Report	Есепті көшіру
+@plural	{n} shortcut is assigned more than once|{n} shortcuts are assigned more than once	{n} тіркесім бірнеше рет тағайындалған|{n} тіркесім бірнеше рет тағайындалған
+@plural	{n} saved shortcut could not be used|{n} saved shortcuts could not be used	{n} сақталған тіркесімді пайдалану мүмкін болмады|{n} сақталған тіркесімді пайдалану мүмкін болмады
+@plural	{n} command will change|{n} commands will change	{n} команда өзгереді|{n} команда өзгереді
+@plural	{n} item without a shortcut|{n} items without a shortcut	{n} элементте тіркесім жоқ|{n} элементте тіркесім жоқ
+@plural	{n} item not matched|{n} items not matched	{n} элемент сәйкес келмеді|{n} элемент сәйкес келмеді
+@plural	{n} item could not be read|{n} items could not be read	{n} элементті оқу мүмкін болмады|{n} элементті оқу мүмкін болмады
+@plural	{n} key read approximately|{n} keys read approximately	{n} перне шамамен оқылды|{n} перне шамамен оқылды
+@plural	{n} entry cut at a limit|{n} entries cut at a limit	{n} жазба шектеуде кесілді|{n} жазба шектеуде кесілді
+@plural	{n} command changed|{n} commands changed	{n} команда өзгертілді|{n} команда өзгертілді
+@plural	{n} shortcut also works in another scope|{n} shortcuts also work in another scope	{n} тіркесім басқа ауқымда да жұмыс істейді|{n} тіркесім басқа ауқымда да жұмыс істейді
+@plural	{n} entry was ignored: too many commands|{n} entries were ignored: too many commands	{n} жазба еленбеді: командалар тым көп|{n} жазба еленбеді: командалар тым көп

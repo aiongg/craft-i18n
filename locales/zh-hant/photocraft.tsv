@@ -826,7 +826,6 @@ cameraData	F-Stop	光圈值
 	Filter for smart objects	篩選智慧型物件
 	Filter for type layers	篩選文字圖層
 	Filter Gallery…	濾鏡收藏館…
-	Filter:	篩選：
 	Find and Replace Text…	尋找並取代文字…
 	Find Edges	尋找邊緣
 	Find Layers	尋找圖層
@@ -1001,7 +1000,6 @@ cameraData	Focal Length (35 mm)	焦距（35 公釐等效）
 	Import Presets	匯入預設集
 	Import Shortcuts…	匯入快速鍵…
 	Import Swatches…	匯入色票…
-	Imported	已匯入
 @plural	Imported {n} brush from {group}|Imported {n} brushes from {group}	已從 {group} 匯入 {n} 個筆刷
 	Imported {n} shortcuts from {file}. Click OK to keep them.	已從 {file} 匯入 {n} 個快速鍵。按一下「確定」即可保留。
 @plural	Imported {n} swatch from {file}|Imported {n} swatches from {file}	已從 {file} 匯入 {n} 個色票
@@ -1290,7 +1288,6 @@ cameraData	Model	型號
 	New Layer Based Slice	新增以圖層為基礎的切片
 	New Layer With Mask	含遮色片的新增圖層
 	New selection	新增選取範圍
-	New Set…	新增組合…
 	New Shape Layer	新增形狀圖層
 	New Size	新尺寸
 	New Smart Object via Copy	以拷貝新增智慧型物件

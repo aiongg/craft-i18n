@@ -1231,7 +1231,6 @@ layers	Fill:	Riempimento:
 	Filter Gallery	Galleria filtri
 	Filter Gallery…	Galleria filtri…
 @id	filter.sharpen.sharpen	Contrasta
-	Filter:	Filtro:
 	Find and Replace Text	Trova e sostituisci testo
 	Find and Replace Text…	Trova e sostituisci testo…
 	Find Edges	Trova bordi
@@ -1639,7 +1638,6 @@ fontWeight	Italic	Corsivo
 	Keeps the current texture when switching presets.	Mantiene la texture corrente quando cambi predefinito.
 	Kernel	Kernel
 	Kerning: Metrics, Optical or a value in 1/1000 em (Alt+←/→ at the caret)	Crenatura: metrica, ottica o un valore in 1/1000 em (Alt+←/→ al cursore)
-	Keyboard	Tastiera
 	Keyboard Shortcuts and Menus	Scorciatoie da tastiera e menu
 	Keyboard shortcuts imported	Scorciatoie da tastiera importate
 	Knockout	Foratura
@@ -1991,7 +1989,6 @@ cameraData	Model	Modello
 	New Path	Nuovo tracciato
 	New Selection	Nuova selezione
 	New selection	Nuova selezione
-	New Set…	Nuovo set…
 	New Shape Layer	Nuovo livello forma
 	New Size	Nuova dimensione
 	New Smart Object via Copy	Nuovo oggetto avanzato tramite copia
@@ -2485,7 +2482,6 @@ fontWeight	Regular	Normale
 	Resample	Ricampiona
 	Reset	Ripristina
 	Reset Alignment	Reimposta allineamento
-	Reset All	Ripristina tutto
 	Reset All Locked Settings	Ripristina tutte le impostazioni bloccate
 	Reset All to Defaults	Ripristina tutto ai predefiniti
 	Reset All Tools	Ripristina tutti gli strumenti
@@ -2980,7 +2976,6 @@ curves	Smooth	Leviga
 	Subtract Mask from Selection	Sottrai maschera dalla selezione
 	Subtract Shapes at Overlap	Sottrai forme nella sovrapposizione
 	Suggestions:	Suggerimenti:
-	Summarize…	Riepiloga…
 	Summation	Somma
 	Supplemental Categories	Categorie supplementari
 	Surface Blur	Sfocatura superficie

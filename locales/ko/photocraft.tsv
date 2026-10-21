@@ -972,7 +972,6 @@ cameraData	F-Stop	조리개 값
 	Filter Gallery	필터 갤러리
 	Filter Gallery…	필터 갤러리…
 @id	filter.sharpen.sharpen	선명하게
-	Filter:	필터:
 	Find and Replace Text	텍스트 찾기 및 바꾸기
 	Find and Replace Text…	텍스트 찾기 및 바꾸기…
 	Find Edges	가장자리 찾기
@@ -1217,7 +1216,6 @@ cameraData	Focal Length (35 mm)	초점 거리(35mm 환산)
 	Import Presets	사전 설정 가져오기
 	Import Shortcuts…	단축키 가져오기…
 	Import Swatches…	색상 견본 가져오기…
-	Imported	가져옴
 	Imported {n} shortcuts from {file}. Click OK to keep them.	{file}에서 단축키 {n}개를 가져왔습니다. 유지하려면 확인을 클릭하세요.
 	Impressionist	인상파
 	In Black	입력 검정
@@ -1567,7 +1565,6 @@ cameraData	Model	모델
 	New Layer Based Slice	레이어 기반 분할 영역 만들기
 	New Layer With Mask	새 레이어(마스크 포함)
 	New selection	새 선택 영역
-	New Set…	새 세트…
 	New Shape Layer	새 모양 레이어
 	New Size	새 크기
 	New Smart Object via Copy	복사하여 새 스마트 오브젝트 만들기
@@ -2362,7 +2359,6 @@ curves	Smooth	매끄럽게
 	Subtract Front Shape	앞쪽 모양 빼기
 	Subtract Mask from Selection	선택 영역에서 마스크 빼기
 	Suggestions:	제안:
-	Summarize…	요약…
 	Summation	합계
 	Surface Blur	표면 흐림 효과
 	Surface Blur…	표면 흐림 효과…

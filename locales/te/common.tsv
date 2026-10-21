@@ -384,3 +384,166 @@
 	{n} h ago	{n} గం. క్రితం
 	{n} min ago	{n} నిమి. క్రితం
 	−Bin	−బైనరీ
+
+# Keyboard Shortcuts dialog (craft-keymap)
+	Keyboard Shortcuts	కీబోర్డ్ షార్ట్‌కట్‌లు
+	Reset All…	అన్నింటినీ రీసెట్ చేయి…
+	Restore every default shortcut in this set?	ఈ సెట్‌లోని అన్ని డిఫాల్ట్ షార్ట్‌కట్‌లను పునరుద్ధరించాలా?
+	Reset All	అన్నింటినీ రీసెట్ చేయి
+	Filter:	ఫిల్టర్:
+	Search:	శోధన:
+	Search by key	కీ ద్వారా శోధించు
+	All Commands	అన్ని కమాండ్‌లు
+	{menu} Menu	{menu} మెనూ
+	{panel} Panel	{panel} ప్యానెల్
+	Other	ఇతరాలు
+	Fixed Keys	స్థిర కీలు
+	With Shortcut	షార్ట్‌కట్ ఉన్నవి
+	Changed	మార్చినవి
+	Conflicts	వైరుధ్యాలు
+	No matching commands	సరిపోలే కమాండ్‌లు లేవు
+	(cycles)	(వరుసగా మారుతుంది)
+	{label} (cycles)	{label} (వరుసగా మారుతుంది)
+	{label} (Changed)	{label} (మార్చబడింది)
+	Commands	కమాండ్‌లు
+	Detail pane size	వివరాల పేన్ పరిమాణం
+	Select a command to see and change its shortcuts	షార్ట్‌కట్‌లను చూడటానికి, మార్చడానికి కమాండ్‌ను ఎంచుకోండి
+	Shortcut	షార్ట్‌కట్
+	{chord} (Default)	{chord} (డిఫాల్ట్)
+	{chord} ({scope})	{chord} ({scope})
+	{label} ({scope})	{label} ({scope})
+	Current shortcuts:	ప్రస్తుత షార్ట్‌కట్‌లు:
+	New shortcut:	కొత్త షార్ట్‌కట్:
+	New shortcut: {chord}	కొత్త షార్ట్‌కట్: {chord}
+	press keys	కీలను నొక్కండి
+	{chord} (press again for a double press)	{chord} (డబుల్ ప్రెస్ కోసం మళ్లీ నొక్కండి)
+	Type…	టైప్ చేయి…
+	Context:	సందర్భం:
+	Assign	కేటాయించు
+	Use Default	డిఫాల్ట్‌ను ఉపయోగించు
+	Default: {chord}	డిఫాల్ట్: {chord}
+	Currently assigned to:	ప్రస్తుతం కేటాయించినది:
+	Not assigned	కేటాయించలేదు
+	{label} ({scope}, both work)	{label} ({scope}, రెండూ పనిచేస్తాయి)
+	Add a shortcut to {label}	{label}కు షార్ట్‌కట్‌ను జోడించు
+	Remove {chord} from {label}	{label} నుండి {chord}ను తీసివేయి
+	Restore the default for {label}	{label} కోసం డిఫాల్ట్‌ను పునరుద్ధరించు
+	{label}: {chord}	{label}: {chord}
+	{label}: press keys	{label}: కీలను నొక్కండి
+	Now used by {label}	ఇప్పుడు {label} ఉపయోగిస్తోంది
+	{label}: {chord} (Now used by {holder})	{label}: {chord} (ఇప్పుడు {holder} ఉపయోగిస్తోంది)
+	the shortcut has no key	షార్ట్‌కట్‌లో కీ లేదు
+	unknown modifier {key}	తెలియని మాడిఫైయర్ {key}
+	modifier {key} given twice	మాడిఫైయర్ {key} రెండుసార్లు ఇవ్వబడింది
+	key sequences are not supported	కీ క్రమాలకు మద్దతు లేదు
+	the scope name is not valid	స్కోప్ పేరు చెల్లదు
+	Keyboard	కీబోర్డ్
+	Keyboard: US	కీబోర్డ్: US
+	Keyboard: US (macOS)	కీబోర్డ్: US (macOS)
+	Control	Control
+	Option	Option
+	Shift	Shift
+	Ctrl	Ctrl
+	Alt	Alt
+	Caps Lock	Caps Lock
+	Win	Win
+	Super	Super
+	Panel or context	ప్యానెల్ లేదా సందర్భం
+	Modifier on	మాడిఫైయర్ ఆన్‌లో ఉంది
+	{chord}: {label}	{chord}: {label}
+	Click a key to see its shortcuts	కీపై క్లిక్ చేస్తే దాని షార్ట్‌కట్‌లు కనిపిస్తాయి
+	Key: {key}	కీ: {key}
+	Assign to Selected	ఎంచుకున్నదానికి కేటాయించు
+	Assign {chord} to {label}	{chord}ను {label}కు కేటాయించు
+	Select a command first	ముందుగా కమాండ్‌ను ఎంచుకోండి
+	Nothing uses this key	ఈ కీని ఏదీ ఉపయోగించడం లేదు
+	⚠ {chord} is used by {label}	⚠ {chord}ను {label} ఉపయోగిస్తోంది
+	{chord} was removed from {label}	{label} నుండి {chord} తీసివేయబడింది
+	Also used by {label}	{label} కూడా ఉపయోగిస్తోంది
+	{chord} is reserved by the system	{chord} సిస్టమ్ కోసం రిజర్వ్ చేయబడింది
+	A command can have at most {n} shortcuts	ఒక కమాండ్‌కు గరిష్టంగా {n} షార్ట్‌కట్‌లు ఉండవచ్చు
+	The scope {scope} is unknown	స్కోప్ {scope} తెలియదు
+	Too many shortcuts are assigned	చాలా ఎక్కువ షార్ట్‌కట్‌లు కేటాయించబడ్డాయి
+	This command is unknown	ఈ కమాండ్ తెలియనిది
+	Take It	ఈ కమాండ్‌కు మార్చు
+	Take It and Go to Conflict	ఈ కమాండ్‌కు మార్చి వైరుధ్యానికి వెళ్లు
+	Keep Both	రెండింటినీ ఉంచు
+	Go to Conflict	వైరుధ్యానికి వెళ్లు
+	Cancel the new shortcut	కొత్త షార్ట్‌కట్‌ను రద్దు చేయి
+	{key}: no command has this name	{key}: ఈ పేరుతో కమాండ్ లేదు
+	{key}: “{text}” is not a shortcut ({error})	{key}: “{text}” షార్ట్‌కట్ కాదు ({error})
+	{key}: {text} is reserved by the system	{key}: {text} సిస్టమ్ కోసం రిజర్వ్ చేయబడింది
+	{key}: the scope in “{text}” is unknown	{key}: “{text}”లోని స్కోప్ తెలియదు
+	{key}: listed more than once	{key}: ఒకటి కంటే ఎక్కువసార్లు జాబితా చేయబడింది
+	{key}: part of the entry was dropped	{key}: ఎంట్రీలో కొంత భాగం వదిలివేయబడింది
+	Set:	సెట్:
+	(modified)	(సవరించబడింది)
+	New Set…	కొత్త సెట్…
+	Rename…	పేరు మార్చు…
+	Revert Set	సెట్‌ను సేవ్ చేసిన స్థితికి మార్చు
+	Import…	దిగుమతి చేయి…
+	Summarize…	సారాంశం రూపొందించు…
+	{title}: {set}	{title}: {set}
+	Based on:	ఆధారంగా:
+	Current shortcuts	ప్రస్తుత షార్ట్‌కట్‌లు
+	Save changes to “{set}”?	“{set}”లో మార్పులను సేవ్ చేయాలా?
+	Don't Save	సేవ్ చేయవద్దు
+	Delete the set “{set}”?	“{set}” సెట్‌ను తొలగించాలా?
+	Keyboard Shortcuts (JSON)	కీబోర్డ్ షార్ట్‌కట్‌లు (JSON)
+	The name is empty, too long or has control characters	పేరు ఖాళీగా ఉంది, చాలా పొడవుగా ఉంది లేదా కంట్రోల్ అక్షరాలు ఉన్నాయి
+	A set with this name exists	ఈ పేరుతో సెట్ ఇప్పటికే ఉంది
+	The set was not found	సెట్ కనుగొనబడలేదు
+	Built-in sets cannot be changed	అంతర్నిర్మిత సెట్‌లను మార్చలేరు
+	There are too many sets	చాలా ఎక్కువ సెట్‌లు ఉన్నాయి
+	This is not a shortcut set file	ఇది షార్ట్‌కట్ సెట్ ఫైల్ కాదు
+	This is not a craft-keymap file	ఇది craft-keymap ఫైల్ కాదు
+	This file is from a newer version (format {n})	ఈ ఫైల్ కొత్త వెర్షన్‌కు చెందినది (ఫార్మాట్ {n})
+	The file is too large	ఫైల్ చాలా పెద్దది
+	Import “{set}”	“{set}”ను దిగుమతి చేయి
+	Set name:	సెట్ పేరు:
+	Import	దిగుమతి చేయి
+	Cancel Import	దిగుమతిని రద్దు చేయి
+	line {n}	లైన్ {n}
+	Will change	మారేవి
+	Not matched	సరిపోలనివి
+	Unreadable	చదవలేనివి
+	Approximated	సుమారుగా
+	{title} ({n})	{title} ({n})
+	Suggestions ({n})	సూచనలు ({n})
+	numeric keypad key read as main key	న్యూమరిక్ కీప్యాడ్ కీ ప్రధాన కీగా చదవబడింది
+	Matched without change	మార్పు లేకుండా సరిపోలినవి
+	Command for {item}	{item} కోసం కమాండ్
+	Choose a command…	కమాండ్‌ను ఎంచుకోండి…
+	no command has this name	ఈ పేరుతో కమాండ్ లేదు
+	more than one command fits	ఒకటి కంటే ఎక్కువ కమాండ్‌లు సరిపోతాయి
+	in a context that is not imported	దిగుమతి కాని సందర్భంలో ఉంది
+	only a command of the other kind fits (tool or menu command)	ఇతర రకం కమాండ్ (సాధనం లేదా మెనూ కమాండ్) మాత్రమే సరిపోతుంది
+	empty shortcut	ఖాళీ షార్ట్‌కట్
+	the shortcut is too long	షార్ట్‌కట్ చాలా పొడవుగా ఉంది
+	unknown key {key}	తెలియని కీ {key}
+	unsupported modifier {key}	మద్దతు లేని మాడిఫైయర్ {key}
+	{label} keeps its shortcuts (matched by a panel menu name)	{label} తన షార్ట్‌కట్‌లను ఉంచుకుంటుంది (ప్యానెల్ మెనూ పేరుతో సరిపోలింది)
+	Import as New Set	కొత్త సెట్‌గా దిగుమతి చేయి
+	Imported	దిగుమతి అయింది
+	Imported as “{set}”	“{set}”గా దిగుమతి అయింది
+	Skipped	దాటవేయబడింది
+	Taken from other commands	ఇతర కమాండ్‌ల నుండి మార్చినవి
+	Not changed	మార్చబడలేదు
+	taken by {label}	{label} ఉపయోగిస్తోంది
+	taken by a later entry	తర్వాతి ఎంట్రీ ఉపయోగిస్తోంది
+	reserved by the system	సిస్టమ్ కోసం రిజర్వ్ చేయబడింది
+	the scope is unknown	స్కోప్ తెలియదు
+	the set's shortcuts could not be added	సెట్ షార్ట్‌కట్‌లను జోడించలేకపోయాము
+	the shortcuts could not be removed	షార్ట్‌కట్‌లను తీసివేయలేకపోయాము
+	Copy Report	నివేదికను కాపీ చేయి
+@plural	{n} shortcut is assigned more than once|{n} shortcuts are assigned more than once	{n} షార్ట్‌కట్ ఒకటి కంటే ఎక్కువసార్లు కేటాయించబడింది|{n} షార్ట్‌కట్‌లు ఒకటి కంటే ఎక్కువసార్లు కేటాయించబడ్డాయి
+@plural	{n} saved shortcut could not be used|{n} saved shortcuts could not be used	{n} సేవ్ చేసిన షార్ట్‌కట్‌ను ఉపయోగించలేకపోయాము|{n} సేవ్ చేసిన షార్ట్‌కట్‌లను ఉపయోగించలేకపోయాము
+@plural	{n} command will change|{n} commands will change	{n} కమాండ్ మారుతుంది|{n} కమాండ్‌లు మారతాయి
+@plural	{n} item without a shortcut|{n} items without a shortcut	షార్ట్‌కట్ లేని {n} అంశం|షార్ట్‌కట్ లేని {n} అంశాలు
+@plural	{n} item not matched|{n} items not matched	{n} అంశం సరిపోలలేదు|{n} అంశాలు సరిపోలలేదు
+@plural	{n} item could not be read|{n} items could not be read	{n} అంశాన్ని చదవలేకపోయాము|{n} అంశాలను చదవలేకపోయాము
+@plural	{n} key read approximately|{n} keys read approximately	{n} కీ సుమారుగా చదవబడింది|{n} కీలు సుమారుగా చదవబడ్డాయి
+@plural	{n} entry cut at a limit|{n} entries cut at a limit	{n} ఎంట్రీ పరిమితి వద్ద కత్తిరించబడింది|{n} ఎంట్రీలు పరిమితి వద్ద కత్తిరించబడ్డాయి
+@plural	{n} command changed|{n} commands changed	{n} కమాండ్ మార్చబడింది|{n} కమాండ్‌లు మార్చబడ్డాయి
+@plural	{n} shortcut also works in another scope|{n} shortcuts also work in another scope	{n} షార్ట్‌కట్ మరొక స్కోప్‌లో కూడా పనిచేస్తుంది|{n} షార్ట్‌కట్‌లు మరొక స్కోప్‌లో కూడా పనిచేస్తాయి
+@plural	{n} entry was ignored: too many commands|{n} entries were ignored: too many commands	{n} ఎంట్రీ విస్మరించబడింది: కమాండ్‌లు చాలా ఎక్కువ|{n} ఎంట్రీలు విస్మరించబడ్డాయి: కమాండ్‌లు చాలా ఎక్కువ

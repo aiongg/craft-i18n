@@ -759,7 +759,6 @@ axis	Both	Και τα δύο
 	Contextual Task Bar	Γραμμή εργασιών βάσει περιβάλλοντος
 	Continue in Background	Συνέχεια στο παρασκήνιο
 	Contrasty	Υψηλή αντίθεση
-	Control	Έλεγχος
 @msg	control must be fillStroke, coloring, drawMode or screenMode	Το στοιχείο ελέγχου πρέπει να είναι fillStroke, coloring, drawMode ή screenMode
 	Convert All Spot Colors to Process	Μετατροπή όλων των πλακάτων χρωμάτων σε χρώματα τετραχρωμίας
 	Convert All Strokes to Outlines	Μετατροπή όλων των περιγραμμάτων σε διαδρομές
@@ -802,7 +801,6 @@ axis	Both	Και τα δύο
 	Copy into the document's folder	Αντιγραφή στον φάκελο εγγράφου
 	Copy Links	Αντιγραφή συνδέσεων
 	Copy only fonts you own or are licensed to install.	Αντιγράψτε μόνο γραμματοσειρές που σας ανήκουν ή έχετε άδεια να εγκαταστήσετε.
-	Copy Report	Αντιγραφή αναφοράς
 	Copy Selected Style	Αντιγραφή επιλεγμένου στυλ
 	Copy to User Defined	Αντιγραφή σε ορισμένα από τον χρήστη
 	Copy Width Point	Αντιγραφή σημείου πλάτους
@@ -1483,7 +1481,6 @@ file-filter	Flattener presets	Προεπιλογές ισοπέδωσης
 	Glyph Scaling:	Κλιμάκωση γλυφών:
 	glyph {id}	γλύφος {id}
 	Go to Artboard	Μετάβαση στον πίνακα σχεδίασης
-	Go to Conflict	Μετάβαση σε διένεξη
 	Go To Link	Μετάβαση στη σύνδεση
 	GPL palettes keep solid colours only, as RGB.	Οι παλέτες GPL διατηρούν μόνο συμπαγή χρώματα σε RGB.
 	GPU Performance	Απόδοση GPU

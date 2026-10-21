@@ -2262,7 +2262,6 @@
 	Search in:	Rechercher dans :
 	Search presets	Rechercher des préréglages
 	Search templates	Rechercher des modèles
-	Search:	Rechercher :
 	second(s)	seconde(s)
 	Seconds	Secondes
 	seconds	secondes
@@ -3024,7 +3023,6 @@
 	{n} sessions have unsaved changes:	{n} sessions contiennent des modifications non enregistrées :
 	{n} Size	Taille de {n}
 	{n}. (empty)	{n}. (vide)
-	{panel} Panel	Panneau {panel}
 	{panel} — coming in a later milestone	{panel} — disponible dans un jalon ultérieur
 	{rate} fps Drop-Frame Timecode	Timecode drop frame {rate} fps
 	{rate} fps Non Drop-Frame Timecode	Timecode non-drop frame {rate} fps

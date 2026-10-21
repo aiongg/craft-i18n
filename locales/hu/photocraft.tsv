@@ -1190,7 +1190,6 @@ cameraData	F-Stop	Rekesz
 	Filter Gallery	Szűrőgaléria
 	Filter Gallery…	Szűrőgaléria…
 @id	filter.sharpen.sharpen	Egyszerű élesítés
-	Filter:	Szűrő:
 	Find and Replace Text	Szöveg keresése és cseréje
 	Find and Replace Text…	Szöveg keresése és cseréje…
 	Find Edges	Élkeresés
@@ -1582,7 +1581,6 @@ fontWeight	Italic	Dőlt
 	Keep view in sync	Nézetek szinkronban tartása
 	Keeps the current texture when switching presets.	Előbeállítás váltásakor megtartja a jelenlegi textúrát.
 	Kernel	Szűrőmag
-	Keyboard	Billentyűzet
 	Keyboard Shortcuts and Menus	Billentyűparancsok és menük
 	Keyboard shortcuts imported	Billentyűparancsok importálva
 	Kind	Fajta
@@ -1926,7 +1924,6 @@ cameraData	Model	Típus
 	New Path	Új útvonal
 	New Selection	Új kijelölés
 	New selection	Új kijelölés
-	New Set…	Új készlet…
 	New Shape Layer	Új alakzatréteg
 	New Size	Új méret
 	New Smart Object via Copy	Új intelligens objektum másolással

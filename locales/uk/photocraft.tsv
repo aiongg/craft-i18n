@@ -1126,7 +1126,6 @@ cameraData	F-Stop	Діафрагма
 	Filter Gallery	Галерея фільтрів
 	Filter Gallery…	Галерея фільтрів…
 @id	filter.sharpen.sharpen	Підвищити різкість
-	Filter:	Фільтр:
 	Find and Replace Text	Знайти та замінити текст
 	Find and Replace Text…	Знайти та замінити текст…
 	Find Edges	Знайти краї
@@ -1825,7 +1824,6 @@ cameraData	Model	Модель
 	New Path	Новий контур
 	New Selection	Нове виділення
 	New selection	Нове виділення
-	New Set…	Новий набір…
 	New Shape Layer	Новий шар фігури
 	New Size	Новий розмір
 	New Smart Object via Copy	Новий смартоб'єкт через копіювання
@@ -2719,7 +2717,6 @@ curves	Smooth	Згладити
 	Subtract Front Shape	Відняти передню фігуру
 	Subtract Mask from Selection	Відняти маску від виділення
 	Suggestions:	Пропозиції:
-	Summarize…	Зведення…
 	Summation	Сума
 	Superscript	Надрядковий
 	Supplemental Categories	Додаткові категорії

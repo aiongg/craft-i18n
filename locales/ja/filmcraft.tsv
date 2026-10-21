@@ -2833,7 +2833,6 @@
 	Uniform Spacing	等間隔
 	Universal Counting Leader…	ユニバーサルカウントリーダー…
 	Unlink	リンク解除
-	Unreadable	読み取れません
 	Unrendered: render to play back in real time	未レンダリング: リアルタイム再生にはレンダリングが必要です
 	Unrendered: should play back in real time	未レンダリング: リアルタイムで再生できるはずです
 	Unstack	スタックを解除
@@ -3068,7 +3067,6 @@
 	{n} sessions have unsaved changes:	{n} 件のセッションに未保存の変更があります:
 	{n} Size	{n} のサイズ
 	{n}. (empty)	{n}. (空き)
-	{panel} Panel	{panel} パネル
 	{panel} — coming in a later milestone	{panel} — 今後のマイルストーンで実装予定
 	{rate} fps Drop-Frame Timecode	{rate} fps ドロップフレームタイムコード
 	{rate} fps Non Drop-Frame Timecode	{rate} fps ノンドロップフレームタイムコード

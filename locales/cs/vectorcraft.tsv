@@ -801,7 +801,6 @@ axis	Both	Obě
 	Copy into the document's folder	Kopírovat do složky dokumentu
 	Copy Links	Kopírovat propojené soubory
 	Copy only fonts you own or are licensed to install.	Kopírujte jen písma, která vlastníte nebo máte licenci instalovat.
-	Copy Report	Kopírovat zprávu
 	Copy Selected Style	Kopírovat vybraný styl
 	Copy to User Defined	Kopírovat do uživatelských
 	Copy Width Point	Kopírovat bod šířky
@@ -4257,7 +4256,6 @@ effect	Vertical	Svislý
 @plural	{n} Object|{n} Objects	{n} objekt|{n} objekty|{n} objektů
 @plural	{n} part of the file wasn't read|{n} parts of the file weren't read	{n} část souboru nebyla přečtena|{n} části souboru nebyly přečteny|{n} částí souboru nebylo přečteno
 @plural	{n} PR|{n} PRs	{n} PR|{n} PR|{n} PR
-@plural	{n} shortcut is assigned more than once|{n} shortcuts are assigned more than once	{n} zkratka je přiřazena více než jednou|{n} zkratky jsou přiřazeny více než jednou|{n} zkratek je přiřazeno více než jednou
 @plural	{n} star|{n} stars	{n} hvězda|{n} hvězdy|{n} hvězd
 @plural	{n} stroke|{n} strokes	{n} tah|{n} tahy|{n} tahů
 	{pages} in all, {count} per copy	celkem {pages}, na kopii {count}

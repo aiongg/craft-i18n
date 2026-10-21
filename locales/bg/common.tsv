@@ -1146,3 +1146,153 @@ theme	Appearance	Външен вид
 @plural	{n} step|{n} steps	{n} стъпка|{n} стъпки
 	−Bin	−Bin
 	● Recording	● Запис
+
+# Keyboard Shortcuts dialog (craft-keymap)
+	Reset All…	Нулиране на всички…
+	Restore every default shortcut in this set?	Да се възстановят ли всички клавишни комбинации по подразбиране в този набор?
+	Reset All	Нулиране на всички
+	Filter:	Филтър:
+	Search:	Търсене:
+	Search by key	Търсене по клавиш
+	All Commands	Всички команди
+	{menu} Menu	Меню „{menu}“
+	{panel} Panel	Панел „{panel}“
+	Fixed Keys	Фиксирани клавиши
+	With Shortcut	С клавишна комбинация
+	Changed	Променено
+	Conflicts	Конфликти
+	No matching commands	Няма съвпадащи команди
+	(cycles)	(циклично)
+	{label} (cycles)	{label} (циклично)
+	{label} (Changed)	{label} (променено)
+	Commands	Команди
+	Detail pane size	Размер на панела с подробности
+	Select a command to see and change its shortcuts	Изберете команда, за да видите и промените нейните клавишни комбинации
+	{chord} (Default)	{chord} (по подразбиране)
+	{chord} ({scope})	{chord} ({scope})
+	{label} ({scope})	{label} ({scope})
+	Current shortcuts:	Текущи клавишни комбинации:
+	New shortcut:	Нова клавишна комбинация:
+	New shortcut: {chord}	Нова клавишна комбинация: {chord}
+	press keys	натиснете клавиши
+	{chord} (press again for a double press)	{chord} (натиснете отново за двойно натискане)
+	Context:	Контекст:
+	Default: {chord}	По подразбиране: {chord}
+	Currently assigned to:	Понастоящем зададена на:
+	Not assigned	Не е зададена
+	{label} ({scope}, both work)	{label} ({scope}, и двете работят)
+	Add a shortcut to {label}	Добавяне на клавишна комбинация към „{label}“
+	Remove {chord} from {label}	Премахване на {chord} от „{label}“
+	Restore the default for {label}	Възстановяване на комбинацията по подразбиране за „{label}“
+	{label}: {chord}	{label}: {chord}
+	{label}: press keys	{label}: натиснете клавиши
+	Now used by {label}	Вече се използва от „{label}“
+	{label}: {chord} (Now used by {holder})	{label}: {chord} (вече се използва от „{holder}“)
+	the shortcut has no key	клавишната комбинация няма клавиш
+	unknown modifier {key}	непознат модификатор {key}
+	modifier {key} given twice	модификаторът {key} е зададен два пъти
+	key sequences are not supported	последователности от клавиши не се поддържат
+	the scope name is not valid	името на обхвата не е валидно
+	Keyboard	Клавиатура
+	Keyboard: US	Клавиатура: US
+	Keyboard: US (macOS)	Клавиатура: US (macOS)
+	Control	Control
+	Option	Option
+	Caps Lock	Caps Lock
+	Win	Win
+	Super	Super
+	Panel or context	Панел или контекст
+	Modifier on	Включен модификатор
+	{chord}: {label}	{chord}: {label}
+	Click a key to see its shortcuts	Щракнете върху клавиш, за да видите комбинациите му
+	Key: {key}	Клавиш: {key}
+	Assign to Selected	Задаване на избраната
+	Assign {chord} to {label}	Задаване на {chord} на „{label}“
+	Select a command first	Първо изберете команда
+	Nothing uses this key	Никоя команда не използва този клавиш
+	⚠ {chord} is used by {label}	⚠ {chord} се използва от „{label}“
+	{chord} was removed from {label}	{chord} е премахната от „{label}“
+	Also used by {label}	Използва се и от „{label}“
+	{chord} is reserved by the system	{chord} е резервирана от системата
+	A command can have at most {n} shortcuts	Максимален брой клавишни комбинации за команда: {n}
+	The scope {scope} is unknown	Обхватът {scope} е непознат
+	Too many shortcuts are assigned	Зададени са твърде много клавишни комбинации
+	This command is unknown	Тази команда е непозната
+	Take It	Вземане
+	Take It and Go to Conflict	Вземане и преминаване към конфликта
+	Keep Both	Запазване на двете
+	Go to Conflict	Към конфликта
+	Cancel the new shortcut	Отказ от новата клавишна комбинация
+	{key}: no command has this name	{key}: няма команда с това име
+	{key}: “{text}” is not a shortcut ({error})	{key}: „{text}“ не е клавишна комбинация ({error})
+	{key}: {text} is reserved by the system	{key}: {text} е резервирана от системата
+	{key}: the scope in “{text}” is unknown	{key}: обхватът в „{text}“ е непознат
+	{key}: listed more than once	{key}: изброена е повече от веднъж
+	{key}: part of the entry was dropped	{key}: част от записа е пропусната
+	(modified)	(променен)
+	New Set…	Нов набор…
+	Revert Set	Връщане на набора
+	Summarize…	Обобщение…
+	{title}: {set}	{title}: {set}
+	Based on:	Базиран на:
+	Current shortcuts	Текущи клавишни комбинации
+	Save changes to “{set}”?	Да се запазят ли промените в „{set}“?
+	Delete the set “{set}”?	Да се изтрие ли наборът „{set}“?
+	Keyboard Shortcuts (JSON)	Клавишни комбинации (JSON)
+	The name is empty, too long or has control characters	Името е празно, твърде дълго или съдържа управляващи знаци
+	A set with this name exists	Набор с това име вече съществува
+	The set was not found	Наборът не е намерен
+	Built-in sets cannot be changed	Вградените набори не могат да се променят
+	There are too many sets	Има твърде много набори
+	This is not a shortcut set file	Това не е файл с набор от клавишни комбинации
+	This is not a craft-keymap file	Това не е файл на craft-keymap
+	This file is from a newer version (format {n})	Този файл е от по-нова версия (формат {n})
+	The file is too large	Файлът е твърде голям
+	Import “{set}”	Импортиране на „{set}“
+	Set name:	Име на набора:
+	Import	Импортиране
+	Cancel Import	Отказ от импортирането
+	line {n}	ред {n}
+	Will change	Ще се промени
+	Not matched	Несъпоставени
+	Unreadable	Нечетими
+	Approximated	Приблизителни
+	{title} ({n})	{title} ({n})
+	Suggestions ({n})	Предложения ({n})
+	numeric keypad key read as main key	клавиш от цифровата клавиатура, прочетен като основен
+	Matched without change	Съпоставени без промяна
+	Command for {item}	Команда за {item}
+	Choose a command…	Избор на команда…
+	no command has this name	няма команда с това име
+	more than one command fits	подхожда повече от една команда
+	in a context that is not imported	в контекст, който не се импортира
+	only a command of the other kind fits (tool or menu command)	подхожда само команда от другия вид (инструмент или команда от меню)
+	empty shortcut	празна клавишна комбинация
+	the shortcut is too long	клавишната комбинация е твърде дълга
+	unknown key {key}	непознат клавиш {key}
+	unsupported modifier {key}	неподдържан модификатор {key}
+	{label} keeps its shortcuts (matched by a panel menu name)	„{label}“ запазва своите клавишни комбинации (съпоставено по име на меню на панел)
+	Import as New Set	Импортиране като нов набор
+	Imported	Импортирани
+	Imported as “{set}”	Импортирани като „{set}“
+	Skipped	Пропуснати
+	Taken from other commands	Взети от други команди
+	Not changed	Непроменени
+	taken by {label}	взета от „{label}“
+	taken by a later entry	взета от по-късен запис
+	reserved by the system	резервирана от системата
+	the scope is unknown	обхватът е непознат
+	the set's shortcuts could not be added	клавишните комбинации на набора не можаха да бъдат добавени
+	the shortcuts could not be removed	клавишните комбинации не можаха да бъдат премахнати
+	Copy Report	Копиране на отчет
+@plural	{n} shortcut is assigned more than once|{n} shortcuts are assigned more than once	{n} клавишна комбинация е зададена повече от веднъж|{n} клавишни комбинации са зададени повече от веднъж
+@plural	{n} saved shortcut could not be used|{n} saved shortcuts could not be used	{n} запазена клавишна комбинация не можа да се използва|{n} запазени клавишни комбинации не можаха да се използват
+@plural	{n} command will change|{n} commands will change	{n} команда ще се промени|{n} команди ще се променят
+@plural	{n} item without a shortcut|{n} items without a shortcut	{n} елемент без клавишна комбинация|{n} елемента без клавишна комбинация
+@plural	{n} item not matched|{n} items not matched	{n} елемент не е съпоставен|{n} елемента не са съпоставени
+@plural	{n} item could not be read|{n} items could not be read	{n} елемент не можа да бъде прочетен|{n} елемента не можаха да бъдат прочетени
+@plural	{n} key read approximately|{n} keys read approximately	{n} клавиш е прочетен приблизително|{n} клавиша са прочетени приблизително
+@plural	{n} entry cut at a limit|{n} entries cut at a limit	{n} запис е отрязан от ограничение|{n} записа са отрязани от ограничение
+@plural	{n} command changed|{n} commands changed	{n} команда е променена|{n} команди са променени
+@plural	{n} shortcut also works in another scope|{n} shortcuts also work in another scope	{n} клавишна комбинация работи и в друг обхват|{n} клавишни комбинации работят и в друг обхват
+@plural	{n} entry was ignored: too many commands|{n} entries were ignored: too many commands	{n} запис е пренебрегнат: твърде много команди|{n} записа са пренебрегнати: твърде много команди

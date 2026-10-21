@@ -1342,8 +1342,6 @@
 	Key Color	Colore chiave
 	Key Frame Distance	Distanza fotogrammi chiave
 	Key:	Tasto:
-	Keyboard: US	Tastiera: USA
-	Keyboard: US (macOS)	Tastiera: USA (macOS)
 	Keying	Keying
 	Label Color Presets	Predefiniti colori etichette
 	Label Colors	Colori etichette
@@ -2281,7 +2279,6 @@
 	Search in:	Cerca in:
 	Search presets	Cerca predefiniti
 	Search templates	Cerca modelli
-	Search:	Cerca:
 	second(s)	secondi
 	Seconds	Secondi
 	seconds	secondi
@@ -3048,7 +3045,6 @@
 	{n} sessions have unsaved changes:	{n} sessioni hanno modifiche non salvate:
 	{n} Size	{n} Dimensione
 	{n}. (empty)	{n}. (vuoto)
-	{panel} Panel	Pannello {panel}
 	{panel} — coming in a later milestone	{panel} — in arrivo in una versione successiva
 	{rate} fps Drop-Frame Timecode	Timecode drop-frame {rate} fps
 	{rate} fps Non Drop-Frame Timecode	Timecode non drop-frame {rate} fps

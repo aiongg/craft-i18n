@@ -693,7 +693,6 @@ axis	Both	Cả hai
 	Contextual Task Bar	Thanh tác vụ theo ngữ cảnh
 	Continue in Background	Tiếp tục trong nền
 	Contrasty	Tương phản cao
-	Control	Điều khiển
 @msg	control must be fillStroke, coloring, drawMode or screenMode	control phải là fillStroke, coloring, drawMode hoặc screenMode
 	Convert All Spot Colors to Process	Chuyển tất cả màu đặc thành màu lai
 	Convert All Strokes to Outlines	Chuyển tất cả nét thành đường bao
@@ -732,7 +731,6 @@ axis	Both	Cả hai
 	Copy into the document's folder	Sao chép vào thư mục tài liệu
 	Copy Links	Sao chép liên kết
 	Copy only fonts you own or are licensed to install.	Chỉ sao chép phông chữ bạn sở hữu hoặc có giấy phép cài đặt.
-	Copy Report	Sao chép báo cáo
 	Copy Selected Style	Sao chép kiểu đã chọn
 	Copy to User Defined	Sao chép sang do người dùng xác định
 	Copy Width Point	Sao chép điểm chiều rộng

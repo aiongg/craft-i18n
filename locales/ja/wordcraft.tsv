@@ -107,7 +107,6 @@
 	Alignment	配置
 	All Borders	格子
 	All caps	すべて大文字
-	All Commands	すべてのコマンド
 	All Levels	すべてのレベル
 	All Markup	すべての変更履歴
 	All pages in the range	範囲内のすべてのページ
@@ -358,7 +357,6 @@
 	Combine	組み込み
 	Combine Documents	文書の組み込み
 	Combo Box Content Control	コンボ ボックス コンテンツ コントロール
-	Commands	コマンド
 	Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text.	PDF、印刷、画像では各ページの横にコメントと変更履歴を表示し、Web ページ、Markdown、テキストでは末尾にコメント一覧を付けます。
 	Comments Pane	コメント ウィンドウ
 	Communication	コミュニケーション
@@ -1040,7 +1038,6 @@
 	New Label	新しいラベル
 	New Label…	ラベル名…
 	New Paragraph	新しい段落
-	New shortcut:	新しいショートカット:
 	New Style…	新しいスタイル…
 	New Tab	新しいタブ
 	New Table Style	新しい表スタイル
@@ -1377,7 +1374,6 @@
 	Research	調査
 	Researcher	リサーチツール
 	Researcher needs an online service; WordCraft keeps your documents offline.	リサーチツールにはオンライン サービスが必要です。WordCraft では文書はオフラインのままです。
-	Reset All…	すべてリセット…
 	Reset Character Formatting	文字書式のリセット
 	Reset Crop	トリミングのリセット
 	Reset Graphic	グラフィックのリセット

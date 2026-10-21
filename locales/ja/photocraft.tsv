@@ -1114,7 +1114,6 @@ cameraData	F-Stop	絞り値
 	Filter for type layers	文字レイヤーで絞り込み
 	Filter Gallery	フィルターギャラリー
 	Filter Gallery…	フィルターギャラリー…
-	Filter:	フィルター:
 	Find and Replace Text	テキストを検索して置換
 	Find and Replace Text…	テキストを検索して置換…
 	Find Edges	輪郭検出
@@ -1397,7 +1396,6 @@ cameraData	Focal Length (35 mm)	焦点距離 (35 mm 換算)
 	Import Presets	プリセットを読み込み
 	Import Shortcuts…	ショートカットを読み込む…
 	Import Swatches…	スウォッチを読み込み…
-	Imported	読み込み済み
 @plural	Imported {n} brush from {group}|Imported {n} brushes from {group}	{group} からブラシ {n} 個を読み込みました
 	Imported {n} shortcuts from {file}. Click OK to keep them.	{file} から {n} 個のショートカットを読み込みました。OK をクリックすると保持されます。
 @plural	Imported {n} swatch from {file}|Imported {n} swatches from {file}	{file} からスウォッチ {n} 個を読み込みました
@@ -1811,7 +1809,6 @@ cameraData	Model	モデル
 	New Path	新規パス
 	New Selection	新規選択範囲
 	New selection	新規選択
-	New Set…	新規セット…
 	New Shape Layer	新規シェイプレイヤー
 	New Size	新しいサイズ
 	New Smart Object via Copy	コピーしたスマートオブジェクト

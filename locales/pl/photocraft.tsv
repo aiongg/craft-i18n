@@ -1119,7 +1119,6 @@ cameraData	F-Stop	Przysłona
 	Filter Gallery	Galeria filtrów
 	Filter Gallery…	Galeria filtrów…
 @id	filter.sharpen.sharpen	Wyostrz
-	Filter:	Filtr:
 	Find and Replace Text	Znajdź i zamień tekst
 	Find and Replace Text…	Znajdź i zamień tekst…
 	Find Edges	Znajdź krawędzie
@@ -1397,7 +1396,6 @@ cameraRaw	Hue	Odcień
 	Import Presets	Importuj ustawienia wstępne
 	Import Shortcuts…	Importuj skróty…
 	Import Swatches…	Importuj próbki…
-	Imported	Zaimportowano
 	Imported {n} shortcuts from {file}. Click OK to keep them.	Zaimportowano skrótów: {n} z pliku {file}. Kliknij OK, aby je zachować.
 	Impressionist	Impresjonistyczny
 	In	Początek
@@ -1802,7 +1800,6 @@ cameraData	Model	Model
 	New Path	Nowa ścieżka
 	New Selection	Nowe zaznaczenie
 	New selection	Nowe zaznaczenie
-	New Set…	Nowy zestaw…
 	New Shape Layer	Nowa warstwa kształtu
 	New Size	Nowy rozmiar
 	New Smart Object via Copy	Nowy obiekt inteligentny przez kopiowanie
@@ -2694,7 +2691,6 @@ curves	Smooth	Wygładź
 	Subtract Front Shape	Odejmij kształt z przodu
 	Subtract Mask from Selection	Odejmij maskę od zaznaczenia
 	Suggestions:	Sugestie:
-	Summarize…	Podsumuj…
 	Summation	Suma
 	Supplemental Categories	Dodatkowe kategorie
 	Surface Blur	Rozmycie powierzchniowe

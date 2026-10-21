@@ -1351,8 +1351,6 @@
 	Key:	Tecla:
 	Keyboard Shortcuts	Atajos de teclado
 	Keyboard Shortcuts…	Atajos de teclado…
-	Keyboard: US	Teclado: EE. UU.
-	Keyboard: US (macOS)	Teclado: EE. UU. (macOS)
 	Keying	Incrustación
 	Label Color Presets	Ajustes preestablecidos de color de etiqueta
 	Label Colors	Colores de etiqueta
@@ -2286,7 +2284,6 @@
 	Search in:	Buscar en:
 	Search presets	Buscar ajustes preestablecidos
 	Search templates	Buscar plantillas
-	Search:	Buscar:
 	second(s)	segundo(s)
 	Seconds	Segundos
 	seconds	segundos
@@ -3052,7 +3049,6 @@
 	{n} sessions have unsaved changes:	{n} sesiones tienen cambios sin guardar:
 	{n} Size	{n} Tamaño
 	{n}. (empty)	{n}. (vacío)
-	{panel} Panel	Panel {panel}
 	{panel} — coming in a later milestone	{panel}: llegará en una versión posterior
 	{rate} fps Drop-Frame Timecode	Código de tiempo con omisión de fotogramas a {rate} fps
 	{rate} fps Non Drop-Frame Timecode	Código de tiempo sin omisión de fotogramas a {rate} fps

@@ -1100,3 +1100,155 @@ theme	Appearance	Utseende
 @plural	{n} step|{n} steps	{n} steg|{n} steg
 	−Bin	−Bin
 	● Recording	● Inspelning
+
+# Keyboard Shortcuts dialog (craft-keymap)
+	Reset All…	Återställ alla…
+	Restore every default shortcut in this set?	Återställa alla standardkortkommandon i den här uppsättningen?
+	Reset All	Återställ alla
+	Filter:	Filter:
+	Search:	Sök:
+	Search by key	Sök efter tangent
+	All Commands	Alla kommandon
+	{menu} Menu	Menyn {menu}
+	{panel} Panel	Panelen {panel}
+	Fixed Keys	Fasta tangenter
+	With Shortcut	Med kortkommando
+	Changed	Ändrade
+	Conflicts	Konflikter
+	No matching commands	Inga matchande kommandon
+	(cycles)	(växlar runt)
+	{label} (cycles)	{label} (växlar runt)
+	{label} (Changed)	{label} (ändrad)
+	Commands	Kommandon
+	Detail pane size	Storlek på detaljrutan
+	Select a command to see and change its shortcuts	Välj ett kommando för att se och ändra dess kortkommandon
+	{chord} (Default)	{chord} (standard)
+	{chord} ({scope})	{chord} ({scope})
+	{label} ({scope})	{label} ({scope})
+	Application	Program
+	Current shortcuts:	Nuvarande kortkommandon:
+	New shortcut:	Nytt kortkommando:
+	New shortcut: {chord}	Nytt kortkommando: {chord}
+	press keys	tryck på tangenter
+	{chord} (press again for a double press)	{chord} (tryck igen för ett dubbeltryck)
+	Context:	Sammanhang:
+	Default: {chord}	Standard: {chord}
+	Currently assigned to:	Tilldelat just nu till:
+	Not assigned	Inte tilldelat
+	{label} ({scope}, both work)	{label} ({scope}, båda fungerar)
+	Add a shortcut to {label}	Lägg till ett kortkommando för {label}
+	Remove {chord} from {label}	Ta bort {chord} från {label}
+	Restore the default for {label}	Återställ standarden för {label}
+	{label}: {chord}	{label}: {chord}
+	{label}: press keys	{label}: tryck på tangenter
+	Now used by {label}	Används nu av {label}
+	{label}: {chord} (Now used by {holder})	{label}: {chord} (används nu av {holder})
+	the shortcut has no key	kortkommandot saknar tangent
+	unknown modifier {key}	okänd modifieringstangent {key}
+	modifier {key} given twice	modifieringstangenten {key} anges två gånger
+	key sequences are not supported	tangentsekvenser stöds inte
+	the scope name is not valid	omfångets namn är ogiltigt
+	Keyboard	Tangentbord
+	Keyboard: US	Tangentbord: US
+	Keyboard: US (macOS)	Tangentbord: US (macOS)
+	Control	Control
+	Option	Option
+	Caps Lock	Caps Lock
+	Win	Win
+	Super	Super
+	Panel or context	Panel eller sammanhang
+	Both	Båda
+	Modifier on	Modifieringstangent på
+	{chord}: {label}	{chord}: {label}
+	Click a key to see its shortcuts	Klicka på en tangent för att se dess kortkommandon
+	Key: {key}	Tangent: {key}
+	Assign to Selected	Tilldela till markerad
+	Assign {chord} to {label}	Tilldela {chord} till {label}
+	Select a command first	Välj ett kommando först
+	Nothing uses this key	Ingenting använder den här tangenten
+	⚠ {chord} is used by {label}	⚠ {chord} används av {label}
+	{chord} was removed from {label}	{chord} har tagits bort från {label}
+	Also used by {label}	Används också av {label}
+	{chord} is reserved by the system	{chord} är reserverat av systemet
+	A command can have at most {n} shortcuts	Ett kommando kan ha högst {n} kortkommandon
+	The scope {scope} is unknown	Omfånget {scope} är okänt
+	Too many shortcuts are assigned	För många kortkommandon är tilldelade
+	This command is unknown	Det här kommandot är okänt
+	Take It	Ta över
+	Take It and Go to Conflict	Ta över och gå till konflikten
+	Keep Both	Behåll båda
+	Go to Conflict	Gå till konflikten
+	Cancel the new shortcut	Avbryt det nya kortkommandot
+	Dismiss	Stäng
+	{key}: no command has this name	{key}: inget kommando har det här namnet
+	{key}: “{text}” is not a shortcut ({error})	{key}: ”{text}” är inte ett kortkommando ({error})
+	{key}: {text} is reserved by the system	{key}: {text} är reserverat av systemet
+	{key}: the scope in “{text}” is unknown	{key}: omfånget i ”{text}” är okänt
+	{key}: listed more than once	{key}: angivet mer än en gång
+	{key}: part of the entry was dropped	{key}: en del av posten har uteslutits
+	(modified)	(ändrad)
+	New Set…	Ny uppsättning…
+	Revert Set	Återgå till uppsättningen
+	Summarize…	Sammanfatta…
+	{title}: {set}	{title}: {set}
+	Based on:	Baserad på:
+	Current shortcuts	Nuvarande kortkommandon
+	Save changes to “{set}”?	Spara ändringar i ”{set}”?
+	Delete the set “{set}”?	Ta bort uppsättningen ”{set}”?
+	Keyboard Shortcuts (JSON)	Kortkommandon (JSON)
+	The name is empty, too long or has control characters	Namnet är tomt, för långt eller innehåller styrtecken
+	A set with this name exists	Det finns redan en uppsättning med det här namnet
+	The set was not found	Uppsättningen hittades inte
+	Built-in sets cannot be changed	Inbyggda uppsättningar kan inte ändras
+	There are too many sets	Det finns för många uppsättningar
+	This is not a shortcut set file	Det här är inte en fil med en kortkommandouppsättning
+	This is not a craft-keymap file	Det här är inte en craft-keymap-fil
+	This file is from a newer version (format {n})	Den här filen kommer från en nyare version (format {n})
+	The file is too large	Filen är för stor
+	Import “{set}”	Importera ”{set}”
+	Set name:	Uppsättningens namn:
+	Cancel Import	Avbryt importen
+	line {n}	rad {n}
+	Will change	Kommer att ändras
+	Not matched	Ingen matchning
+	Unreadable	Oläsbara
+	Approximated	Approximerade
+	{title} ({n})	{title} ({n})
+	Suggestions ({n})	Förslag ({n})
+	numeric keypad key read as main key	tangent på det numeriska tangentbordet lästes som huvudtangent
+	Matched without change	Matchade utan ändring
+	Command for {item}	Kommando för {item}
+	Choose a command…	Välj ett kommando…
+	no command has this name	inget kommando har det här namnet
+	more than one command fits	fler än ett kommando passar
+	in a context that is not imported	i ett sammanhang som inte importeras
+	only a command of the other kind fits (tool or menu command)	bara ett kommando av den andra sorten passar (verktygs- eller menykommando)
+	empty shortcut	tomt kortkommando
+	the shortcut is too long	kortkommandot är för långt
+	unknown key {key}	okänd tangent {key}
+	unsupported modifier {key}	modifieringstangent som inte stöds: {key}
+	{label} keeps its shortcuts (matched by a panel menu name)	{label} behåller sina kortkommandon (matchat via ett panelmenynamn)
+	Import as New Set	Importera som ny uppsättning
+	Imported	Importerade
+	Imported as “{set}”	Importerad som ”{set}”
+	Skipped	Hoppades över
+	Taken from other commands	Övertagna från andra kommandon
+	Not changed	Oförändrade
+	taken by {label}	används av {label}
+	taken by a later entry	används av en senare post
+	reserved by the system	reserverat av systemet
+	the scope is unknown	omfånget är okänt
+	the set's shortcuts could not be added	uppsättningens kortkommandon kunde inte läggas till
+	the shortcuts could not be removed	kortkommandona kunde inte tas bort
+	Copy Report	Kopiera rapport
+@plural	{n} shortcut is assigned more than once|{n} shortcuts are assigned more than once	{n} kortkommando är tilldelat mer än en gång|{n} kortkommandon är tilldelade mer än en gång
+@plural	{n} saved shortcut could not be used|{n} saved shortcuts could not be used	{n} sparat kortkommando kunde inte användas|{n} sparade kortkommandon kunde inte användas
+@plural	{n} command will change|{n} commands will change	{n} kommando kommer att ändras|{n} kommandon kommer att ändras
+@plural	{n} item without a shortcut|{n} items without a shortcut	{n} objekt utan kortkommando|{n} objekt utan kortkommando
+@plural	{n} item not matched|{n} items not matched	{n} objekt utan matchning|{n} objekt utan matchning
+@plural	{n} item could not be read|{n} items could not be read	{n} objekt kunde inte läsas|{n} objekt kunde inte läsas
+@plural	{n} key read approximately|{n} keys read approximately	{n} tangent lästes approximativt|{n} tangenter lästes approximativt
+@plural	{n} entry cut at a limit|{n} entries cut at a limit	{n} post avkortad vid en gräns|{n} poster avkortade vid en gräns
+@plural	{n} command changed|{n} commands changed	{n} kommando ändrat|{n} kommandon ändrade
+@plural	{n} shortcut also works in another scope|{n} shortcuts also work in another scope	{n} kortkommando fungerar även i ett annat omfång|{n} kortkommandon fungerar även i ett annat omfång
+@plural	{n} entry was ignored: too many commands|{n} entries were ignored: too many commands	{n} post ignorerades: för många kommandon|{n} poster ignorerades: för många kommandon

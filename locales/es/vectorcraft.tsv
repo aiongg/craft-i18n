@@ -749,7 +749,6 @@ axis	Both	Ambos
 	Contextual Task Bar	Barra de tareas contextual
 	Continue in Background	Continuar en segundo plano
 	Contrasty	Contrastado
-	Control	Control
 @msg	control must be fillStroke, coloring, drawMode or screenMode	control debe ser fillStroke, coloring, drawMode o screenMode
 	Convert All Spot Colors to Process	Convertir todas las tintas planas en cuatricromía
 	Convert All Strokes to Outlines	Convertir todos los trazos en contornos
@@ -792,7 +791,6 @@ axis	Both	Ambos
 	Copy into the document's folder	Copiar en la carpeta del documento
 	Copy Links	Copiar vínculos
 	Copy only fonts you own or are licensed to install.	Copia solo fuentes que te pertenezcan o cuya licencia te permita instalarlas.
-	Copy Report	Copiar informe
 	Copy Selected Style	Copiar estilo seleccionado
 	Copy to User Defined	Copiar en Definido por el usuario
 	Copy Width Point	Copiar punto de anchura
@@ -1469,7 +1467,6 @@ file-filter	Flattener presets	Preajustes del acoplador
 	Glyph Scaling:	Escala de glifos:
 	glyph {id}	glifo {id}
 	Go to Artboard	Ir a mesa de trabajo
-	Go to Conflict	Ir al conflicto
 	Go To Link	Ir al vínculo
 	GPL palettes keep solid colours only, as RGB.	Las paletas GPL solo conservan colores sólidos, en RGB.
 	GPU Performance	Rendimiento de GPU

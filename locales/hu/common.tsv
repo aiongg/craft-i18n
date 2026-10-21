@@ -1288,3 +1288,151 @@ theme	Appearance	Kinézet
 @plural	{n} step|{n} steps	{n} lépés|{n} lépés
 	−Bin	−Bin
 	● Recording	● Felvétel
+
+# Keyboard Shortcuts dialog (craft-keymap)
+	Reset All…	Összes visszaállítása…
+	Restore every default shortcut in this set?	Visszaállítod az összes alapértelmezett billentyűparancsot ebben a készletben?
+	Reset All	Összes visszaállítása
+	Filter:	Szűrő:
+	Search:	Keresés:
+	Search by key	Keresés billentyű szerint
+	All Commands	Minden parancs
+	{menu} Menu	{menu} menü
+	{panel} Panel	{panel} panel
+	Fixed Keys	Rögzített billentyűk
+	With Shortcut	Billentyűparanccsal
+	Changed	Módosított
+	Conflicts	Ütközések
+	(cycles)	(váltogat)
+	{label} (cycles)	{label} (váltogat)
+	{label} (Changed)	{label} (módosítva)
+	Commands	Parancsok
+	Detail pane size	Részletek panel mérete
+	Select a command to see and change its shortcuts	Válassz egy parancsot a billentyűparancsainak megtekintéséhez és módosításához
+	{chord} (Default)	{chord} (alapértelmezett)
+	{chord} ({scope})	{chord} ({scope})
+	{label} ({scope})	{label} ({scope})
+	Current shortcuts:	Jelenlegi billentyűparancsok:
+	New shortcut:	Új billentyűparancs:
+	New shortcut: {chord}	Új billentyűparancs: {chord}
+	press keys	nyomj meg billentyűket
+	{chord} (press again for a double press)	{chord} (dupla lenyomáshoz nyomd meg újra)
+	Context:	Környezet:
+	Default: {chord}	Alapértelmezett: {chord}
+	Currently assigned to:	Jelenleg hozzárendelve:
+	Not assigned	Nincs hozzárendelve
+	{label} ({scope}, both work)	{label} ({scope}, mindkettő működik)
+	Add a shortcut to {label}	Billentyűparancs hozzáadása: {label}
+	Remove {chord} from {label}	{chord} eltávolítása: {label}
+	Restore the default for {label}	Alapértelmezés visszaállítása: {label}
+	{label}: {chord}	{label}: {chord}
+	{label}: press keys	{label}: nyomj meg billentyűket
+	Now used by {label}	Mostantól használja: {label}
+	{label}: {chord} (Now used by {holder})	{label}: {chord} (mostantól használja: {holder})
+	the shortcut has no key	a billentyűparancsban nincs billentyű
+	unknown modifier {key}	ismeretlen módosítóbillentyű: {key}
+	modifier {key} given twice	a(z) {key} módosítóbillentyű kétszer szerepel
+	key sequences are not supported	a billentyűsorozatok nem támogatottak
+	the scope name is not valid	a hatókör neve érvénytelen
+	Keyboard	Billentyűzet
+	Keyboard: US	Billentyűzet: US
+	Keyboard: US (macOS)	Billentyűzet: US (macOS)
+	Control	Control
+	Option	Option
+	Caps Lock	Caps Lock
+	Win	Win
+	Super	Super
+	Panel or context	Panel vagy környezet
+	Modifier on	Módosítóbillentyű bekapcsolva
+	{chord}: {label}	{chord}: {label}
+	Click a key to see its shortcuts	Kattints egy billentyűre a billentyűparancsainak megtekintéséhez
+	Key: {key}	Billentyű: {key}
+	Assign to Selected	Hozzárendelés a kijelöltekhez
+	Assign {chord} to {label}	{chord} hozzárendelése: {label}
+	Select a command first	Előbb válassz egy parancsot
+	Nothing uses this key	Ezt a billentyűt semmi sem használja
+	⚠ {chord} is used by {label}	⚠ A(z) {chord} billentyűparancsot használja: {label}
+	{chord} was removed from {label}	{chord} el lett távolítva innen: {label}
+	Also used by {label}	Használja még: {label}
+	{chord} is reserved by the system	A(z) {chord} a rendszer számára fenntartott
+	A command can have at most {n} shortcuts	Egy parancshoz legfeljebb {n} billentyűparancs tartozhat
+	The scope {scope} is unknown	A(z) {scope} hatókör ismeretlen
+	Too many shortcuts are assigned	Túl sok billentyűparancs van hozzárendelve
+	This command is unknown	Ez a parancs ismeretlen
+	Take It	Átvétel
+	Take It and Go to Conflict	Átvétel és ugrás az ütközéshez
+	Keep Both	Mindkettő megtartása
+	Go to Conflict	Ugrás az ütközéshez
+	Cancel the new shortcut	Az új billentyűparancs elvetése
+	{key}: no command has this name	{key}: nincs ilyen nevű parancs
+	{key}: “{text}” is not a shortcut ({error})	{key}: a(z) „{text}” nem billentyűparancs ({error})
+	{key}: {text} is reserved by the system	{key}: a(z) {text} a rendszer számára fenntartott
+	{key}: the scope in “{text}” is unknown	{key}: a(z) „{text}” hatóköre ismeretlen
+	{key}: listed more than once	{key}: többször szerepel
+	{key}: part of the entry was dropped	{key}: a bejegyzés egy része kimaradt
+	(modified)	(módosítva)
+	New Set…	Új készlet…
+	Revert Set	Készlet visszaállítása
+	Summarize…	Összefoglalás…
+	{title}: {set}	{title}: {set}
+	Based on:	Alapja:
+	Current shortcuts	Jelenlegi billentyűparancsok
+	Save changes to “{set}”?	Mented a(z) „{set}” készlet módosításait?
+	Delete the set “{set}”?	Törlöd a(z) „{set}” készletet?
+	Keyboard Shortcuts (JSON)	Billentyűparancsok (JSON)
+	The name is empty, too long or has control characters	A név üres, túl hosszú, vagy vezérlőkaraktereket tartalmaz
+	A set with this name exists	Már létezik ilyen nevű készlet
+	The set was not found	A készlet nem található
+	Built-in sets cannot be changed	A beépített készletek nem módosíthatók
+	There are too many sets	Túl sok készlet van
+	This is not a shortcut set file	Ez nem billentyűparancs-készlet fájl
+	This is not a craft-keymap file	Ez nem craft-keymap fájl
+	This file is from a newer version (format {n})	Ez a fájl újabb verzióból származik ({n}. formátum)
+	The file is too large	A fájl túl nagy
+	Import “{set}”	„{set}” importálása
+	Set name:	Készlet neve:
+	Cancel Import	Importálás megszakítása
+	line {n}	{n}. sor
+	Will change	Módosulni fog
+	Not matched	Nem egyezik
+	Unreadable	Olvashatatlan
+	Approximated	Hozzávetőleges
+	{title} ({n})	{title} ({n})
+	Suggestions ({n})	Javaslatok ({n})
+	numeric keypad key read as main key	a számbillentyűzet billentyűje főbillentyűként lett beolvasva
+	Matched without change	Módosítás nélkül egyezik
+	Command for {item}	Parancs ehhez: {item}
+	Choose a command…	Válassz parancsot…
+	no command has this name	nincs ilyen nevű parancs
+	more than one command fits	több parancs is megfelel
+	in a context that is not imported	olyan környezetben, amely nem kerül importálásra
+	only a command of the other kind fits (tool or menu command)	csak a másik fajta parancs felel meg (eszköz- vagy menüparancs)
+	empty shortcut	üres billentyűparancs
+	the shortcut is too long	a billentyűparancs túl hosszú
+	unknown key {key}	ismeretlen billentyű: {key}
+	unsupported modifier {key}	nem támogatott módosítóbillentyű: {key}
+	{label} keeps its shortcuts (matched by a panel menu name)	{label} megtartja a billentyűparancsait (panelmenü neve alapján egyezett)
+	Import as New Set	Importálás új készletként
+	Imported	Importálva
+	Imported as “{set}”	Importálva „{set}” néven
+	Skipped	Kihagyva
+	Taken from other commands	Más parancsoktól átvéve
+	Not changed	Nem módosult
+	taken by {label}	használja: {label}
+	taken by a later entry	egy későbbi bejegyzés használja
+	reserved by the system	a rendszer számára fenntartott
+	the scope is unknown	a hatókör ismeretlen
+	the set's shortcuts could not be added	a készlet billentyűparancsait nem sikerült hozzáadni
+	the shortcuts could not be removed	a billentyűparancsokat nem sikerült eltávolítani
+	Copy Report	Jelentés másolása
+@plural	{n} shortcut is assigned more than once|{n} shortcuts are assigned more than once	{n} billentyűparancs több helyen van hozzárendelve|{n} billentyűparancs több helyen van hozzárendelve
+@plural	{n} saved shortcut could not be used|{n} saved shortcuts could not be used	{n} mentett billentyűparancs nem használható|{n} mentett billentyűparancs nem használható
+@plural	{n} command will change|{n} commands will change	{n} parancs módosulni fog|{n} parancs módosulni fog
+@plural	{n} item without a shortcut|{n} items without a shortcut	{n} elem billentyűparancs nélkül|{n} elem billentyűparancs nélkül
+@plural	{n} item not matched|{n} items not matched	{n} elem nem egyezik|{n} elem nem egyezik
+@plural	{n} item could not be read|{n} items could not be read	{n} elem nem olvasható be|{n} elem nem olvasható be
+@plural	{n} key read approximately|{n} keys read approximately	{n} billentyű közelítéssel beolvasva|{n} billentyű közelítéssel beolvasva
+@plural	{n} entry cut at a limit|{n} entries cut at a limit	{n} bejegyzés a korlátnál levágva|{n} bejegyzés a korlátnál levágva
+@plural	{n} command changed|{n} commands changed	{n} parancs módosítva|{n} parancs módosítva
+@plural	{n} shortcut also works in another scope|{n} shortcuts also work in another scope	{n} billentyűparancs más hatókörben is működik|{n} billentyűparancs más hatókörben is működik
+@plural	{n} entry was ignored: too many commands|{n} entries were ignored: too many commands	{n} bejegyzés figyelmen kívül lett hagyva: túl sok parancs|{n} bejegyzés figyelmen kívül lett hagyva: túl sok parancs

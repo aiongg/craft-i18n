@@ -1291,3 +1291,151 @@ theme	Appearance	Apariencia
 @plural	{n} step|{n} steps	{n} paso|{n} pasos
 	−Bin	−Bin
 	● Recording	● Grabando
+
+# Keyboard Shortcuts dialog (craft-keymap)
+	Reset All…	Restablecer todo…
+	Restore every default shortcut in this set?	¿Restaurar todos los atajos predeterminados de este conjunto?
+	Reset All	Restablecer todo
+	Filter:	Filtro:
+	Search:	Buscar:
+	Search by key	Buscar por tecla
+	All Commands	Todos los comandos
+	{menu} Menu	Menú {menu}
+	{panel} Panel	Panel {panel}
+	Fixed Keys	Teclas fijas
+	With Shortcut	Con atajo
+	Changed	Modificados
+	Conflicts	Conflictos
+	(cycles)	(alterna)
+	{label} (cycles)	{label} (alterna)
+	{label} (Changed)	{label} (modificado)
+	Commands	Comandos
+	Detail pane size	Tamaño del panel de detalles
+	Select a command to see and change its shortcuts	Selecciona un comando para ver y cambiar sus atajos
+	{chord} (Default)	{chord} (predeterminado)
+	{chord} ({scope})	{chord} ({scope})
+	{label} ({scope})	{label} ({scope})
+	Current shortcuts:	Atajos actuales:
+	New shortcut:	Nuevo atajo:
+	New shortcut: {chord}	Nuevo atajo: {chord}
+	press keys	pulsa las teclas
+	{chord} (press again for a double press)	{chord} (pulsa de nuevo para una doble pulsación)
+	Context:	Contexto:
+	Default: {chord}	Predeterminado: {chord}
+	Currently assigned to:	Asignado actualmente a:
+	Not assigned	Sin asignar
+	{label} ({scope}, both work)	{label} ({scope}, funcionan ambos)
+	Add a shortcut to {label}	Añadir un atajo a {label}
+	Remove {chord} from {label}	Quitar {chord} de {label}
+	Restore the default for {label}	Restaurar el atajo predeterminado de {label}
+	{label}: {chord}	{label}: {chord}
+	{label}: press keys	{label}: pulsa las teclas
+	Now used by {label}	Ahora lo usa {label}
+	{label}: {chord} (Now used by {holder})	{label}: {chord} (ahora lo usa {holder})
+	the shortcut has no key	el atajo no tiene tecla
+	unknown modifier {key}	modificador desconocido {key}
+	modifier {key} given twice	modificador {key} indicado dos veces
+	key sequences are not supported	no se admiten secuencias de teclas
+	the scope name is not valid	el nombre del contexto no es válido
+	Keyboard	Teclado
+	Keyboard: US	Teclado: EE. UU.
+	Keyboard: US (macOS)	Teclado: EE. UU. (macOS)
+	Control	Control
+	Option	Option
+	Caps Lock	Bloq Mayús
+	Win	Win
+	Super	Super
+	Panel or context	Panel o contexto
+	Modifier on	Modificador activo
+	{chord}: {label}	{chord}: {label}
+	Click a key to see its shortcuts	Haz clic en una tecla para ver sus atajos
+	Key: {key}	Tecla: {key}
+	Assign to Selected	Asignar a la selección
+	Assign {chord} to {label}	Asignar {chord} a {label}
+	Select a command first	Selecciona primero un comando
+	Nothing uses this key	Ningún comando usa esta tecla
+	⚠ {chord} is used by {label}	⚠ {chord} lo usa {label}
+	{chord} was removed from {label}	Se quitó {chord} de {label}
+	Also used by {label}	También lo usa {label}
+	{chord} is reserved by the system	{chord} está reservado por el sistema
+	A command can have at most {n} shortcuts	Un comando puede tener como máximo {n} atajos
+	The scope {scope} is unknown	El contexto {scope} es desconocido
+	Too many shortcuts are assigned	Hay demasiados atajos asignados
+	This command is unknown	Este comando es desconocido
+	Take It	Reasignar
+	Take It and Go to Conflict	Reasignar e ir al conflicto
+	Keep Both	Mantener ambos
+	Go to Conflict	Ir al conflicto
+	Cancel the new shortcut	Cancelar el nuevo atajo
+	{key}: no command has this name	{key}: ningún comando tiene este nombre
+	{key}: “{text}” is not a shortcut ({error})	{key}: “{text}” no es un atajo ({error})
+	{key}: {text} is reserved by the system	{key}: {text} está reservado por el sistema
+	{key}: the scope in “{text}” is unknown	{key}: el contexto de “{text}” es desconocido
+	{key}: listed more than once	{key}: aparece más de una vez
+	{key}: part of the entry was dropped	{key}: se descartó parte de la entrada
+	(modified)	(modificado)
+	New Set…	Nuevo conjunto…
+	Revert Set	Revertir conjunto
+	Summarize…	Resumir…
+	{title}: {set}	{title}: {set}
+	Based on:	Basado en:
+	Current shortcuts	Atajos actuales
+	Save changes to “{set}”?	¿Guardar los cambios de “{set}”?
+	Delete the set “{set}”?	¿Eliminar el conjunto “{set}”?
+	Keyboard Shortcuts (JSON)	Atajos de teclado (JSON)
+	The name is empty, too long or has control characters	El nombre está vacío, es demasiado largo o contiene caracteres de control
+	A set with this name exists	Ya existe un conjunto con este nombre
+	The set was not found	No se encontró el conjunto
+	Built-in sets cannot be changed	Los conjuntos integrados no se pueden modificar
+	There are too many sets	Hay demasiados conjuntos
+	This is not a shortcut set file	Este no es un archivo de conjunto de atajos
+	This is not a craft-keymap file	Este no es un archivo de craft-keymap
+	This file is from a newer version (format {n})	Este archivo es de una versión más reciente (formato {n})
+	The file is too large	El archivo es demasiado grande
+	Import “{set}”	Importar “{set}”
+	Set name:	Nombre del conjunto:
+	Cancel Import	Cancelar importación
+	line {n}	línea {n}
+	Will change	Se modificarán
+	Not matched	Sin coincidencia
+	Unreadable	Ilegibles
+	Approximated	Aproximados
+	{title} ({n})	{title} ({n})
+	Suggestions ({n})	Sugerencias ({n})
+	numeric keypad key read as main key	tecla del teclado numérico leída como tecla principal
+	Matched without change	Coinciden sin cambios
+	Command for {item}	Comando para {item}
+	Choose a command…	Elegir un comando…
+	no command has this name	ningún comando tiene este nombre
+	more than one command fits	encajan varios comandos
+	in a context that is not imported	en un contexto que no se importa
+	only a command of the other kind fits (tool or menu command)	solo encaja un comando del otro tipo (herramienta o comando de menú)
+	empty shortcut	atajo vacío
+	the shortcut is too long	el atajo es demasiado largo
+	unknown key {key}	tecla desconocida {key}
+	unsupported modifier {key}	modificador no admitido {key}
+	{label} keeps its shortcuts (matched by a panel menu name)	{label} conserva sus atajos (coincidencia por nombre de menú de panel)
+	Import as New Set	Importar como conjunto nuevo
+	Imported	Importados
+	Imported as “{set}”	Importados como “{set}”
+	Skipped	Omitidos
+	Taken from other commands	Tomados de otros comandos
+	Not changed	Sin cambios
+	taken by {label}	tomado por {label}
+	taken by a later entry	tomado por una entrada posterior
+	reserved by the system	reservado por el sistema
+	the scope is unknown	el contexto es desconocido
+	the set's shortcuts could not be added	no se pudieron añadir los atajos del conjunto
+	the shortcuts could not be removed	no se pudieron quitar los atajos
+	Copy Report	Copiar informe
+@plural	{n} shortcut is assigned more than once|{n} shortcuts are assigned more than once	{n} atajo está asignado más de una vez|{n} atajos están asignados más de una vez
+@plural	{n} saved shortcut could not be used|{n} saved shortcuts could not be used	No se pudo usar {n} atajo guardado|No se pudieron usar {n} atajos guardados
+@plural	{n} command will change|{n} commands will change	{n} comando se modificará|{n} comandos se modificarán
+@plural	{n} item without a shortcut|{n} items without a shortcut	{n} elemento sin atajo|{n} elementos sin atajo
+@plural	{n} item not matched|{n} items not matched	{n} elemento sin coincidencia|{n} elementos sin coincidencia
+@plural	{n} item could not be read|{n} items could not be read	No se pudo leer {n} elemento|No se pudieron leer {n} elementos
+@plural	{n} key read approximately|{n} keys read approximately	{n} tecla leída de forma aproximada|{n} teclas leídas de forma aproximada
+@plural	{n} entry cut at a limit|{n} entries cut at a limit	{n} entrada cortada en un límite|{n} entradas cortadas en un límite
+@plural	{n} command changed|{n} commands changed	{n} comando modificado|{n} comandos modificados
+@plural	{n} shortcut also works in another scope|{n} shortcuts also work in another scope	{n} atajo funciona también en otro contexto|{n} atajos funcionan también en otro contexto
+@plural	{n} entry was ignored: too many commands|{n} entries were ignored: too many commands	Se ignoró {n} entrada: demasiados comandos|Se ignoraron {n} entradas: demasiados comandos

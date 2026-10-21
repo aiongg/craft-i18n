@@ -1175,7 +1175,6 @@ cameraData	F-Stop	Abertura
 	Filter Gallery	Galeria de filtros
 	Filter Gallery…	Galeria de filtros…
 @id	filter.sharpen.sharpen	Aplicar nitidez
-	Filter:	Filtro:
 	Find and Replace Text	Localizar e substituir texto
 	Find and Replace Text…	Localizar e substituir texto…
 	Find Edges	Indicação de arestas
@@ -1564,7 +1563,6 @@ fontWeight	Italic	Itálico
 	Keep view in sync	Manter a visualização sincronizada
 	Keeps the current texture when switching presets.	Mantém a textura atual ao trocar de predefinição.
 	Kernel	Núcleo
-	Keyboard	Teclado
 	Keyboard Shortcuts and Menus	Atalhos de teclado e menus
 	Keyboard shortcuts imported	Atalhos de teclado importados
 	Knockout	Vazado
@@ -1902,7 +1900,6 @@ cameraData	Model	Modelo
 	New Path	Novo demarcador
 	New Selection	Nova seleção
 	New selection	Nova seleção
-	New Set…	Novo conjunto…
 	New Shape Layer	Nova camada de forma
 	New Size	Novo tamanho
 	New Smart Object via Copy	Novo objeto inteligente via cópia
@@ -2376,7 +2373,6 @@ fontWeight	Regular	Normal
 	Resample	Reamostrar
 	Reselect	Selecionar novamente
 	Reset Alignment	Redefinir alinhamento
-	Reset All	Redefinir tudo
 	Reset All Locked Settings	Redefinir todas as configurações bloqueadas
 	Reset All to Defaults	Redefinir tudo para os padrões
 	Reset All Tools	Redefinir todas as ferramentas
@@ -2851,7 +2847,6 @@ curves	Smooth	Suavizar
 	Subtract Front Shape	Subtrair forma frontal
 	Subtract Mask from Selection	Subtrair máscara da seleção
 	Suggestions:	Sugestões:
-	Summarize…	Resumir…
 	Summation	Somatório
 	Supplemental Categories	Categorias complementares
 	Surface Blur	Desfoque de superfície

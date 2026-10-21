@@ -781,7 +781,6 @@ axis	Both	Obie
 	Copy into the document's folder	Kopiuj do folderu dokumentu
 	Copy Links	Kopiuj łącza
 	Copy only fonts you own or are licensed to install.	Kopiuj tylko czcionki, które posiadasz lub masz licencję na ich instalację.
-	Copy Report	Kopiuj raport
 	Copy Selected Style	Kopiuj zaznaczony styl
 	Copy to User Defined	Kopiuj do zdefiniowanych przez użytkownika
 	Copy Width Point	Kopiuj punkt szerokości
@@ -1458,7 +1457,6 @@ file-filter	Flattener presets	Ustawienia spłaszczania
 	Glyph Scaling:	Skalowanie glifów:
 	glyph {id}	glif {id}
 	Go to Artboard	Przejdź do obszaru kompozycji
-	Go to Conflict	Przejdź do konfliktu
 	Go To Link	Przejdź do łącza
 	GPL palettes keep solid colours only, as RGB.	Palety GPL przechowują tylko kolory jednolite, jako RGB.
 	GPU Performance	Wydajność GPU
@@ -4165,7 +4163,6 @@ effect	Vertical	Pionowo
 @plural	{n} Object|{n} Objects	{n} obiekt|{n} obiekty|{n} obiektów
 @plural	{n} part of the file wasn't read|{n} parts of the file weren't read	{n} część pliku nie została odczytana|{n} części pliku nie zostały odczytane|{n} części pliku nie zostało odczytanych
 @plural	{n} PR|{n} PRs	{n} PR|{n} PR-y|{n} PR-ów
-@plural	{n} shortcut is assigned more than once|{n} shortcuts are assigned more than once	{n} skrót jest przypisany więcej niż raz|{n} skróty są przypisane więcej niż raz|{n} skrótów jest przypisanych więcej niż raz
 @plural	{n} star|{n} stars	{n} gwiazda|{n} gwiazdy|{n} gwiazd
 @plural	{n} stroke|{n} strokes	{n} obrys|{n} obrysy|{n} obrysów
 	{pages} in all, {count} per copy	Razem: {pages}, na kopię: {count}

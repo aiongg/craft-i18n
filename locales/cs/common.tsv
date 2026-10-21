@@ -1280,3 +1280,151 @@ theme	Appearance	Motiv
 @plural	{n} step|{n} steps	{n} krok|{n} kroky|{n} kroků
 	−Bin	−Bin
 	● Recording	● Záznam
+
+# Keyboard Shortcuts dialog (craft-keymap)
+	Reset All…	Obnovit vše…
+	Restore every default shortcut in this set?	Obnovit všechny výchozí zkratky v této sadě?
+	Reset All	Obnovit vše
+	Filter:	Filtr:
+	Search:	Hledat:
+	Search by key	Hledat podle klávesy
+	All Commands	Všechny příkazy
+	{menu} Menu	Nabídka {menu}
+	{panel} Panel	Panel {panel}
+	Fixed Keys	Pevné klávesy
+	With Shortcut	Se zkratkou
+	Changed	Změněno
+	Conflicts	Konflikty
+	(cycles)	(přepíná)
+	{label} (cycles)	{label} (přepíná)
+	{label} (Changed)	{label} (změněno)
+	Commands	Příkazy
+	Detail pane size	Velikost podrobného panelu
+	Select a command to see and change its shortcuts	Vyberte příkaz, aby se zobrazily jeho zkratky a šlo je měnit
+	{chord} (Default)	{chord} (výchozí)
+	{chord} ({scope})	{chord} ({scope})
+	{label} ({scope})	{label} ({scope})
+	Current shortcuts:	Aktuální zkratky:
+	New shortcut:	Nová zkratka:
+	New shortcut: {chord}	Nová zkratka: {chord}
+	press keys	stiskněte klávesy
+	{chord} (press again for a double press)	{chord} (stiskněte znovu pro dvojí stisk)
+	Context:	Kontext:
+	Default: {chord}	Výchozí: {chord}
+	Currently assigned to:	Aktuálně přiřazeno:
+	Not assigned	Nepřiřazeno
+	{label} ({scope}, both work)	{label} ({scope}, fungují obě)
+	Add a shortcut to {label}	Přidat zkratku k příkazu {label}
+	Remove {chord} from {label}	Odebrat {chord} z příkazu {label}
+	Restore the default for {label}	Obnovit výchozí zkratku příkazu {label}
+	{label}: {chord}	{label}: {chord}
+	{label}: press keys	{label}: stiskněte klávesy
+	Now used by {label}	Nyní používáno příkazem {label}
+	{label}: {chord} (Now used by {holder})	{label}: {chord} (nyní používáno příkazem {holder})
+	the shortcut has no key	zkratka neobsahuje klávesu
+	unknown modifier {key}	neznámý modifikátor {key}
+	modifier {key} given twice	modifikátor {key} je uveden dvakrát
+	key sequences are not supported	posloupnosti kláves nejsou podporovány
+	the scope name is not valid	název rozsahu není platný
+	Keyboard	Klávesnice
+	Keyboard: US	Klávesnice: US
+	Keyboard: US (macOS)	Klávesnice: US (macOS)
+	Control	Control
+	Option	Option
+	Caps Lock	Caps Lock
+	Win	Win
+	Super	Super
+	Panel or context	Panel nebo kontext
+	Modifier on	Zapnutý modifikátor
+	{chord}: {label}	{chord}: {label}
+	Click a key to see its shortcuts	Kliknutím na klávesu zobrazíte její zkratky
+	Key: {key}	Klávesa: {key}
+	Assign to Selected	Přiřadit vybranému
+	Assign {chord} to {label}	Přiřadit {chord} příkazu {label}
+	Select a command first	Nejprve vyberte příkaz
+	Nothing uses this key	Tuto klávesu nic nepoužívá
+	⚠ {chord} is used by {label}	⚠ {chord} je již používáno příkazem {label}
+	{chord} was removed from {label}	{chord} bylo odebráno z příkazu {label}
+	Also used by {label}	Používáno také příkazem {label}
+	{chord} is reserved by the system	{chord} je vyhrazeno systémem
+	A command can have at most {n} shortcuts	Příkaz může mít nejvýše {n} zkratek
+	The scope {scope} is unknown	Rozsah {scope} je neznámý
+	Too many shortcuts are assigned	Je přiřazeno příliš mnoho zkratek
+	This command is unknown	Tento příkaz je neznámý
+	Take It	Převzít
+	Take It and Go to Conflict	Převzít a přejít na konflikt
+	Keep Both	Ponechat obě
+	Go to Conflict	Přejít na konflikt
+	Cancel the new shortcut	Zrušit novou zkratku
+	{key}: no command has this name	{key}: žádný příkaz nemá tento název
+	{key}: “{text}” is not a shortcut ({error})	{key}: „{text}“ není zkratka ({error})
+	{key}: {text} is reserved by the system	{key}: {text} je vyhrazeno systémem
+	{key}: the scope in “{text}” is unknown	{key}: rozsah v „{text}“ je neznámý
+	{key}: listed more than once	{key}: uvedeno více než jednou
+	{key}: part of the entry was dropped	{key}: část záznamu byla vynechána
+	(modified)	(upraveno)
+	New Set…	Nová sada…
+	Revert Set	Vrátit sadu
+	Summarize…	Shrnout…
+	{title}: {set}	{title}: {set}
+	Based on:	Založeno na:
+	Current shortcuts	Aktuální zkratky
+	Save changes to “{set}”?	Uložit změny v sadě „{set}“?
+	Delete the set “{set}”?	Smazat sadu „{set}“?
+	Keyboard Shortcuts (JSON)	Klávesové zkratky (JSON)
+	The name is empty, too long or has control characters	Název je prázdný, příliš dlouhý nebo obsahuje řídicí znaky
+	A set with this name exists	Sada s tímto názvem již existuje
+	The set was not found	Sada nebyla nalezena
+	Built-in sets cannot be changed	Vestavěné sady nelze měnit
+	There are too many sets	Sad je příliš mnoho
+	This is not a shortcut set file	Toto není soubor sady zkratek
+	This is not a craft-keymap file	Toto není soubor craft-keymap
+	This file is from a newer version (format {n})	Tento soubor pochází z novější verze (formát {n})
+	The file is too large	Soubor je příliš velký
+	Import “{set}”	Importovat „{set}“
+	Set name:	Název sady:
+	Cancel Import	Zrušit import
+	line {n}	řádek {n}
+	Will change	Změní se
+	Not matched	Nespárováno
+	Unreadable	Nečitelné
+	Approximated	Přibližné
+	{title} ({n})	{title} ({n})
+	Suggestions ({n})	Návrhy ({n})
+	numeric keypad key read as main key	klávesa numerické klávesnice načtena jako hlavní
+	Matched without change	Spárováno beze změny
+	Command for {item}	Příkaz pro {item}
+	Choose a command…	Vybrat příkaz…
+	no command has this name	žádný příkaz nemá tento název
+	more than one command fits	vyhovuje více než jeden příkaz
+	in a context that is not imported	v kontextu, který se neimportuje
+	only a command of the other kind fits (tool or menu command)	vyhovuje jen příkaz jiného druhu (nástroj nebo příkaz nabídky)
+	empty shortcut	prázdná zkratka
+	the shortcut is too long	zkratka je příliš dlouhá
+	unknown key {key}	neznámá klávesa {key}
+	unsupported modifier {key}	nepodporovaný modifikátor {key}
+	{label} keeps its shortcuts (matched by a panel menu name)	{label} si ponechává své zkratky (spárováno podle názvu v nabídce panelu)
+	Import as New Set	Importovat jako novou sadu
+	Imported	Importováno
+	Imported as “{set}”	Importováno jako „{set}“
+	Skipped	Přeskočeno
+	Taken from other commands	Převzato z jiných příkazů
+	Not changed	Beze změny
+	taken by {label}	obsazeno příkazem {label}
+	taken by a later entry	obsazeno pozdějším záznamem
+	reserved by the system	vyhrazeno systémem
+	the scope is unknown	rozsah je neznámý
+	the set's shortcuts could not be added	zkratky sady se nepodařilo přidat
+	the shortcuts could not be removed	zkratky se nepodařilo odebrat
+	Copy Report	Kopírovat zprávu
+@plural	{n} shortcut is assigned more than once|{n} shortcuts are assigned more than once	{n} zkratka je přiřazena více než jednou|{n} zkratky jsou přiřazeny více než jednou|{n} zkratek je přiřazeno více než jednou
+@plural	{n} saved shortcut could not be used|{n} saved shortcuts could not be used	Nepodařilo se použít {n} uloženou zkratku|Nepodařilo se použít {n} uložené zkratky|Nepodařilo se použít {n} uložených zkratek
+@plural	{n} command will change|{n} commands will change	Změní se {n} příkaz|Změní se {n} příkazy|Změní se {n} příkazů
+@plural	{n} item without a shortcut|{n} items without a shortcut	{n} položka bez zkratky|{n} položky bez zkratky|{n} položek bez zkratky
+@plural	{n} item not matched|{n} items not matched	{n} položka nebyla spárována|{n} položky nebyly spárovány|{n} položek nebylo spárováno
+@plural	{n} item could not be read|{n} items could not be read	Nepodařilo se přečíst {n} položku|Nepodařilo se přečíst {n} položky|Nepodařilo se přečíst {n} položek
+@plural	{n} key read approximately|{n} keys read approximately	{n} klávesa načtena přibližně|{n} klávesy načteny přibližně|{n} kláves načteno přibližně
+@plural	{n} entry cut at a limit|{n} entries cut at a limit	{n} záznam oříznut na limitu|{n} záznamy oříznuty na limitu|{n} záznamů oříznuto na limitu
+@plural	{n} command changed|{n} commands changed	Změněn {n} příkaz|Změněny {n} příkazy|Změněno {n} příkazů
+@plural	{n} shortcut also works in another scope|{n} shortcuts also work in another scope	{n} zkratka funguje i v jiném rozsahu|{n} zkratky fungují i v jiném rozsahu|{n} zkratek funguje i v jiném rozsahu
+@plural	{n} entry was ignored: too many commands|{n} entries were ignored: too many commands	{n} záznam byl ignorován: příliš mnoho příkazů|{n} záznamy byly ignorovány: příliš mnoho příkazů|{n} záznamů bylo ignorováno: příliš mnoho příkazů

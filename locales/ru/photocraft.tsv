@@ -920,7 +920,6 @@ cameraData	F-Stop	Диафрагма
 	Filter for smart objects	Фильтр смарт-объектов
 	Filter for type layers	Фильтр текстовых слоёв
 	Filter Gallery…	Галерея фильтров…
-	Filter:	Фильтр:
 	Find and Replace Text…	Найти и заменить текст…
 	Find Edges	Выделение краёв
 	Find Layers	Найти слои
@@ -1464,7 +1463,6 @@ cameraData	Model	Модель
 	New Path	Новый контур
 	New Selection	Новое выделение
 	New selection	Новое выделение
-	New Set…	Новый набор…
 	New Shape Layer	Новый слой-фигура
 	New Size	Новый размер
 	New Smart Object via Copy	Новый смарт-объект копированием
@@ -2193,7 +2191,6 @@ curves	Smooth	Сгладить
 	Subtract Front Shape	Вычесть переднюю фигуру
 	Subtract Mask from Selection	Вычесть маску из выделения
 	Suggestions:	Варианты:
-	Summarize…	Сводка…
 	Summation	Суммирование
 	Supplemental Categories	Дополнительные категории
 	Surface Blur…	Размытие по поверхности…

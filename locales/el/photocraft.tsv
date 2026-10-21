@@ -1090,7 +1090,6 @@ cameraData	F-Stop	Διάφραγμα
 	Filter for type layers	Φιλτράρισμα επιπέδων κειμένου
 	Filter Gallery	Συλλογή φίλτρων
 	Filter Gallery…	Συλλογή φίλτρων…
-	Filter:	Φίλτρο:
 	Find and Replace Text	Εύρεση και αντικατάσταση κειμένου
 	Find and Replace Text…	Εύρεση και αντικατάσταση κειμένου…
 	Find Edges	Εντοπισμός ακμών
@@ -1449,7 +1448,6 @@ fontWeight	Italic	Πλάγια
 	Keep view in sync	Διατήρηση συγχρονισμένης προβολής
 	Keeps the current texture when switching presets.	Διατηρεί την τρέχουσα υφή κατά την αλλαγή προεπιλογών.
 	Kernel	Πυρήνας
-	Keyboard	Πληκτρολόγιο
 	Keyboard Shortcuts and Menus	Συντομεύσεις πληκτρολογίου και μενού
 	Keyboard shortcuts imported	Οι συντομεύσεις πληκτρολογίου εισήχθησαν
 	Knockout	Διάτρηση
@@ -1758,7 +1756,6 @@ cameraData	Model	Μοντέλο
 	New Path	Νέα διαδρομή
 	New Selection	Νέα επιλογή
 	New selection	Νέα επιλογή
-	New Set…	Νέο σύνολο…
 	New Shape Layer	Νέο επίπεδο σχήματος
 	New Size	Νέο μέγεθος
 	New Smart Object via Copy	Νέο έξυπνο αντικείμενο μέσω αντιγραφής
@@ -2192,7 +2189,6 @@ fontWeight	Regular	Κανονικά
 	Report an Issue	Αναφορά προβλήματος
 	Resample	Επαναδειγματοληψία
 	Reset Alignment	Επαναφορά στοίχισης
-	Reset All	Επαναφορά όλων
 	Reset All Locked Settings	Επαναφορά όλων των κλειδωμένων ρυθμίσεων
 	Reset All to Defaults	Επαναφορά όλων στις προεπιλογές
 	Reset All Tools	Επαναφορά όλων των εργαλείων
@@ -2634,7 +2630,6 @@ curves	Smooth	Εξομάλυνση
 	Subtract Front Shape	Αφαίρεση μπροστινού σχήματος
 	Subtract Mask from Selection	Αφαίρεση μάσκας από την επιλογή
 	Suggestions:	Προτάσεις:
-	Summarize…	Σύνοψη…
 	Summation	Άθροισμα
 	Supplemental Categories	Συμπληρωματικές κατηγορίες
 	Surface Blur	Θόλωση επιφάνειας

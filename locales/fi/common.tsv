@@ -904,3 +904,157 @@ theme	Appearance	Ulkoasu
 @plural	{n} Layer|{n} Layers	{n} taso|{n} tasoa
 @plural	{n} step|{n} steps	{n} vaihe|{n} vaihetta
 	● Recording	● Tallennetaan
+
+# Keyboard Shortcuts dialog (craft-keymap)
+	Reset All…	Palauta kaikki…
+	Restore every default shortcut in this set?	Palautetaanko kaikki oletuspikanäppäimet tässä joukossa?
+	Reset All	Palauta kaikki
+	Filter:	Suodatin:
+	Search:	Haku:
+	Search by key	Hae näppäimen mukaan
+	All Commands	Kaikki komennot
+	{menu} Menu	Valikko {menu}
+	{panel} Panel	Paneeli {panel}
+	Fixed Keys	Kiinteät näppäimet
+	With Shortcut	Pikanäppäimellä
+	Changed	Muutetut
+	Conflicts	Ristiriidat
+	No matching commands	Ei täsmääviä komentoja
+	(cycles)	(kiertää työkalut)
+	{label} (cycles)	{label} (kiertää työkalut)
+	{label} (Changed)	{label} (muutettu)
+	Commands	Komennot
+	Detail pane size	Tietoruudun koko
+	Select a command to see and change its shortcuts	Valitse komento nähdäksesi ja muuttaaksesi sen pikanäppäimiä
+	{chord} (Default)	{chord} (oletus)
+	{chord} ({scope})	{chord} ({scope})
+	{label} ({scope})	{label} ({scope})
+	Application	Sovellus
+	Current shortcuts:	Nykyiset pikanäppäimet:
+	New shortcut:	Uusi pikanäppäin:
+	New shortcut: {chord}	Uusi pikanäppäin: {chord}
+	press keys	paina näppäimiä
+	{chord} (press again for a double press)	{chord} (paina uudelleen kaksoispainallusta varten)
+	Context:	Asiayhteys:
+	Default: {chord}	Oletus: {chord}
+	Currently assigned to:	Tällä hetkellä määritetty komennolle:
+	Not assigned	Ei määritetty
+	{label} ({scope}, both work)	{label} ({scope}, molemmat toimivat)
+	Add a shortcut to {label}	Lisää pikanäppäin komennolle {label}
+	Remove {chord} from {label}	Poista {chord} komennolta {label}
+	Restore the default for {label}	Palauta komennon {label} oletus
+	{label}: {chord}	{label}: {chord}
+	{label}: press keys	{label}: paina näppäimiä
+	Now used by {label}	Nyt käytössä: {label}
+	{label}: {chord} (Now used by {holder})	{label}: {chord} (nyt käytössä: {holder})
+	the shortcut has no key	pikanäppäimessä ei ole näppäintä
+	unknown modifier {key}	tuntematon muuntonäppäin {key}
+	modifier {key} given twice	muuntonäppäin {key} annettu kahdesti
+	key sequences are not supported	näppäinsarjoja ei tueta
+	the scope name is not valid	laajuuden nimi ei kelpaa
+	Keyboard	Näppäimistö
+	Keyboard: US	Näppäimistö: US
+	Keyboard: US (macOS)	Näppäimistö: US (macOS)
+	Control	Control
+	Option	Option
+	Caps Lock	Caps Lock
+	Win	Win
+	Super	Super
+	Panel or context	Paneeli tai asiayhteys
+	Both	Molemmat
+	Modifier on	Muuntonäppäin päällä
+	{chord}: {label}	{chord}: {label}
+	Click a key to see its shortcuts	Napsauta näppäintä nähdäksesi sen pikanäppäimet
+	Key: {key}	Näppäin: {key}
+	Assign to Selected	Määritä valitulle
+	Assign {chord} to {label}	Määritä {chord} komennolle {label}
+	Select a command first	Valitse ensin komento
+	Nothing uses this key	Mikään ei käytä tätä näppäintä
+	⚠ {chord} is used by {label}	⚠ {chord} on käytössä: {label}
+	{chord} was removed from {label}	{chord} poistettiin komennolta {label}
+	Also used by {label}	Myös käytössä: {label}
+	{chord} is reserved by the system	{chord} on järjestelmän varaama
+	A command can have at most {n} shortcuts	Komennolla voi olla enintään {n} pikanäppäintä
+	The scope {scope} is unknown	Laajuus {scope} on tuntematon
+	Too many shortcuts are assigned	Pikanäppäimiä on määritetty liian monta
+	This command is unknown	Tämä komento on tuntematon
+	Take It	Ota haltuun
+	Take It and Go to Conflict	Ota haltuun ja siirry ristiriitaan
+	Keep Both	Säilytä molemmat
+	Go to Conflict	Siirry ristiriitaan
+	Cancel the new shortcut	Peruuta uusi pikanäppäin
+	Dismiss	Sulje
+	{key}: no command has this name	{key}: millään komennolla ei ole tätä nimeä
+	{key}: “{text}” is not a shortcut ({error})	{key}: ”{text}” ei ole pikanäppäin ({error})
+	{key}: {text} is reserved by the system	{key}: {text} on järjestelmän varaama
+	{key}: the scope in “{text}” is unknown	{key}: laajuus kohteessa ”{text}” on tuntematon
+	{key}: listed more than once	{key}: mainittu useammin kuin kerran
+	{key}: part of the entry was dropped	{key}: osa merkinnästä jätettiin pois
+	(modified)	(muokattu)
+	New Set…	Uusi joukko…
+	Rename…	Nimeä uudelleen…
+	Revert Set	Palauta joukko
+	Summarize…	Tee yhteenveto…
+	{title}: {set}	{title}: {set}
+	Based on:	Pohjana:
+	Current shortcuts	Nykyiset pikanäppäimet
+	Save changes to “{set}”?	Tallennetaanko joukkoon ”{set}” tehdyt muutokset?
+	Delete the set “{set}”?	Poistetaanko joukko ”{set}”?
+	Keyboard Shortcuts (JSON)	Pikanäppäimet (JSON)
+	The name is empty, too long or has control characters	Nimi on tyhjä, liian pitkä tai sisältää ohjausmerkkejä
+	A set with this name exists	Tämänniminen joukko on jo olemassa
+	The set was not found	Joukkoa ei löytynyt
+	Built-in sets cannot be changed	Sisäänrakennettuja joukkoja ei voi muuttaa
+	There are too many sets	Joukkoja on liian monta
+	This is not a shortcut set file	Tämä ei ole pikanäppäinjoukkotiedosto
+	This is not a craft-keymap file	Tämä ei ole craft-keymap-tiedosto
+	This file is from a newer version (format {n})	Tämä tiedosto on uudemmasta versiosta (muoto {n})
+	The file is too large	Tiedosto on liian suuri
+	Import “{set}”	Tuo ”{set}”
+	Set name:	Joukon nimi:
+	Import	Tuo
+	Cancel Import	Peruuta tuonti
+	line {n}	rivi {n}
+	Will change	Muuttuu
+	Not matched	Ei täsmännyt
+	Unreadable	Lukukelvoton
+	Approximated	Likimääräinen
+	{title} ({n})	{title} ({n})
+	Suggestions ({n})	Ehdotukset ({n})
+	numeric keypad key read as main key	numeronäppäimistön näppäin luettiin päänäppäimeksi
+	Matched without change	Täsmäsi ilman muutosta
+	Command for {item}	Komento kohteelle {item}
+	Choose a command…	Valitse komento…
+	no command has this name	millään komennolla ei ole tätä nimeä
+	more than one command fits	useampi kuin yksi komento sopii
+	in a context that is not imported	asiayhteydessä, jota ei tuoda
+	only a command of the other kind fits (tool or menu command)	vain toisen tyyppinen komento sopii (työkalu- tai valikkokomento)
+	empty shortcut	tyhjä pikanäppäin
+	the shortcut is too long	pikanäppäin on liian pitkä
+	unknown key {key}	tuntematon näppäin {key}
+	unsupported modifier {key}	muuntonäppäintä {key} ei tueta
+	{label} keeps its shortcuts (matched by a panel menu name)	{label} säilyttää pikanäppäimensä (täsmäsi paneelivalikon nimellä)
+	Import as New Set	Tuo uutena joukkona
+	Imported	Tuotu
+	Imported as “{set}”	Tuotu joukkona ”{set}”
+	Skipped	Ohitettu
+	Taken from other commands	Otettu muilta komennoilta
+	Not changed	Ei muutettu
+	taken by {label}	käytössä: {label}
+	taken by a later entry	myöhemmän merkinnän käytössä
+	reserved by the system	järjestelmän varaama
+	the scope is unknown	laajuus on tuntematon
+	the set's shortcuts could not be added	joukon pikanäppäimiä ei voitu lisätä
+	the shortcuts could not be removed	pikanäppäimiä ei voitu poistaa
+	Copy Report	Kopioi raportti
+@plural	{n} shortcut is assigned more than once|{n} shortcuts are assigned more than once	{n} pikanäppäin on määritetty useammin kuin kerran|{n} pikanäppäintä on määritetty useammin kuin kerran
+@plural	{n} saved shortcut could not be used|{n} saved shortcuts could not be used	{n} tallennettua pikanäppäintä ei voitu käyttää|{n} tallennettua pikanäppäintä ei voitu käyttää
+@plural	{n} command will change|{n} commands will change	{n} komento muuttuu|{n} komentoa muuttuu
+@plural	{n} item without a shortcut|{n} items without a shortcut	{n} kohde ilman pikanäppäintä|{n} kohdetta ilman pikanäppäintä
+@plural	{n} item not matched|{n} items not matched	{n} kohde ei täsmännyt|{n} kohdetta ei täsmännyt
+@plural	{n} item could not be read|{n} items could not be read	{n} kohdetta ei voitu lukea|{n} kohdetta ei voitu lukea
+@plural	{n} key read approximately|{n} keys read approximately	{n} näppäin luettu likimääräisesti|{n} näppäintä luettu likimääräisesti
+@plural	{n} entry cut at a limit|{n} entries cut at a limit	{n} merkintä katkaistu rajalla|{n} merkintää katkaistu rajalla
+@plural	{n} command changed|{n} commands changed	{n} komento muutettu|{n} komentoa muutettu
+@plural	{n} shortcut also works in another scope|{n} shortcuts also work in another scope	{n} pikanäppäin toimii myös toisessa laajuudessa|{n} pikanäppäintä toimii myös toisessa laajuudessa
+@plural	{n} entry was ignored: too many commands|{n} entries were ignored: too many commands	{n} merkintä ohitettiin: liian monta komentoa|{n} merkintää ohitettiin: liian monta komentoa

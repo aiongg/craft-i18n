@@ -123,7 +123,6 @@
 	All Borders	Tüm Kenarlıklar
 	All Caps	Tümü Büyük Harf
 	All caps	Tümü büyük harf
-	All Commands	Tüm Komutlar
 	All Levels	Tüm düzeyler
 	All Markup	Tüm İşaretler
 	All pages in the range	Aralıktaki tüm sayfalar
@@ -395,7 +394,6 @@
 	Column:	Sütun:
 	Combine Documents	Belgeleri Birleştir
 	Combo Box Content Control	Açılan Kutu İçerik Denetimi
-	Commands	Komutlar
 	Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text.	PDF'lerde, baskılarda ve görüntülerde her sayfanın yanında açıklamalar ve izlenen değişiklikler; web sayfalarının, Markdown ve metnin sonunda açıklama listesi.
 	Comments Pane	Yorumlar Bölmesi
 	Common Accent Objects	Sık Kullanılan Vurgulu Nesneler
@@ -1201,7 +1199,6 @@
 	New Label	Yeni Etiket
 	New Label…	Yeni Etiket…
 	New Paragraph	Yeni Paragraf
-	New shortcut:	Yeni kısayol:
 	New Tab	Yeni Sekme
 	New Table Style	Yeni Tablo Stili
 	New Table Style…	Yeni Tablo Stili…
@@ -1561,7 +1558,6 @@
 	Research	Araştırma
 	Researcher	Araştırmacı
 	Researcher needs an online service; WordCraft keeps your documents offline.	Araştırmacı çevrimiçi bir hizmet gerektirir; WordCraft belgelerinizi çevrimdışı tutar.
-	Reset All…	Tümünü Sıfırla…
 	Reset Character Formatting	Karakter Biçimlendirmesini Sıfırla
 	Reset Crop	Kırpmayı Sıfırla
 	Reset Graphic	Grafiği Sıfırla

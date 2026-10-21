@@ -1343,8 +1343,6 @@
 	Key Color	Cor-chave
 	Key Frame Distance	Distância entre quadros-chave
 	Key:	Tecla:
-	Keyboard: US	Teclado: EUA
-	Keyboard: US (macOS)	Teclado: EUA (macOS)
 	Keying	Chaveamento
 	Label Colors	Cores dos rótulos
 	Label Defaults	Rótulos padrão
@@ -2272,7 +2270,6 @@
 	Search in:	Pesquisar em:
 	Search presets	Pesquisar predefinições
 	Search templates	Pesquisar modelos
-	Search:	Pesquisar:
 	second(s)	segundo(s)
 	Seconds	Segundos
 	seconds	segundos
@@ -3027,7 +3024,6 @@
 	{n} sessions have unsaved changes:	{n} sessões têm alterações não salvas:
 	{n} Size	{n} Tamanho
 	{n}. (empty)	{n}. (vazio)
-	{panel} Panel	Painel {panel}
 	{panel} — coming in a later milestone	{panel}: disponível em uma versão futura
 	{rate} fps Drop-Frame Timecode	Timecode drop-frame a {rate} fps
 	{rate} fps Non Drop-Frame Timecode	Timecode non-drop-frame a {rate} fps

@@ -1206,3 +1206,151 @@
 @plural	{n} step|{n} steps	{n} 個步驟
 	−Bin	移除二進位
 	● Recording	● 錄製中
+
+# Keyboard Shortcuts dialog (craft-keymap)
+	Reset All…	全部重設…
+	Restore every default shortcut in this set?	要將此組合中的所有快速鍵還原為預設值嗎？
+	Reset All	全部重設
+	Filter:	篩選：
+	Search:	搜尋：
+	Search by key	依按鍵搜尋
+	All Commands	所有指令
+	{menu} Menu	{menu}選單
+	{panel} Panel	{panel}面板
+	Fixed Keys	固定按鍵
+	With Shortcut	有快速鍵
+	Changed	已變更
+	Conflicts	衝突
+	(cycles)	（循環切換）
+	{label} (cycles)	{label}（循環切換）
+	{label} (Changed)	{label}（已變更）
+	Commands	指令
+	Detail pane size	詳細資訊窗格大小
+	Select a command to see and change its shortcuts	選取指令即可檢視和變更其快速鍵
+	{chord} (Default)	{chord}（預設）
+	{chord} ({scope})	{chord}（{scope}）
+	{label} ({scope})	{label}（{scope}）
+	Current shortcuts:	目前的快速鍵：
+	New shortcut:	新快速鍵：
+	New shortcut: {chord}	新快速鍵：{chord}
+	press keys	請按下按鍵
+	{chord} (press again for a double press)	{chord}（再按一次表示連按兩下）
+	Context:	情境：
+	Default: {chord}	預設：{chord}
+	Currently assigned to:	目前指定給：
+	Not assigned	未指定
+	{label} ({scope}, both work)	{label}（{scope}，兩者皆有效）
+	Add a shortcut to {label}	為「{label}」新增快速鍵
+	Remove {chord} from {label}	從「{label}」移除 {chord}
+	Restore the default for {label}	還原「{label}」的預設值
+	{label}: {chord}	{label}：{chord}
+	{label}: press keys	{label}：請按下按鍵
+	Now used by {label}	目前由「{label}」使用
+	{label}: {chord} (Now used by {holder})	{label}：{chord}（目前由「{holder}」使用）
+	the shortcut has no key	快速鍵中沒有按鍵
+	unknown modifier {key}	未知的修飾鍵 {key}
+	modifier {key} given twice	修飾鍵 {key} 出現了兩次
+	key sequences are not supported	不支援按鍵序列
+	the scope name is not valid	範圍名稱無效
+	Keyboard	鍵盤
+	Keyboard: US	鍵盤：US
+	Keyboard: US (macOS)	鍵盤：US (macOS)
+	Control	Control
+	Option	Option
+	Caps Lock	Caps Lock
+	Win	Win
+	Super	Super
+	Panel or context	面板或情境
+	Modifier on	修飾鍵已開啟
+	{chord}: {label}	{chord}：{label}
+	Click a key to see its shortcuts	按一下按鍵即可檢視其快速鍵
+	Key: {key}	按鍵：{key}
+	Assign to Selected	指定給所選指令
+	Assign {chord} to {label}	將 {chord} 指定給「{label}」
+	Select a command first	請先選取指令
+	Nothing uses this key	沒有指令使用此按鍵
+	⚠ {chord} is used by {label}	⚠ {chord} 已被「{label}」使用
+	{chord} was removed from {label}	已從「{label}」移除 {chord}
+	Also used by {label}	也被「{label}」使用
+	{chord} is reserved by the system	{chord} 為系統保留
+	A command can have at most {n} shortcuts	一個指令最多可有 {n} 個快速鍵
+	The scope {scope} is unknown	範圍 {scope} 未知
+	Too many shortcuts are assigned	指定的快速鍵過多
+	This command is unknown	此指令未知
+	Take It	移到此指令
+	Take It and Go to Conflict	移到此指令並前往衝突
+	Keep Both	兩者都保留
+	Go to Conflict	前往衝突
+	Cancel the new shortcut	取消新快速鍵
+	{key}: no command has this name	{key}：沒有名稱相符的指令
+	{key}: “{text}” is not a shortcut ({error})	{key}：「{text}」不是快速鍵（{error}）
+	{key}: {text} is reserved by the system	{key}：{text} 為系統保留
+	{key}: the scope in “{text}” is unknown	{key}：「{text}」中的範圍未知
+	{key}: listed more than once	{key}：重複列出
+	{key}: part of the entry was dropped	{key}：項目的一部分已被捨棄
+	(modified)	（已修改）
+	New Set…	新增組合…
+	Revert Set	回復組合
+	Summarize…	產生摘要…
+	{title}: {set}	{title}：{set}
+	Based on:	依據：
+	Current shortcuts	目前的快速鍵
+	Save changes to “{set}”?	要儲存對「{set}」的變更嗎？
+	Delete the set “{set}”?	要刪除組合「{set}」嗎？
+	Keyboard Shortcuts (JSON)	鍵盤快速鍵 (JSON)
+	The name is empty, too long or has control characters	名稱為空白、過長或含有控制字元
+	A set with this name exists	已有同名的組合
+	The set was not found	找不到該組合
+	Built-in sets cannot be changed	內建組合無法變更
+	There are too many sets	組合過多
+	This is not a shortcut set file	這不是快速鍵組合檔案
+	This is not a craft-keymap file	這不是 craft-keymap 檔案
+	This file is from a newer version (format {n})	此檔案來自較新的版本（格式 {n}）
+	The file is too large	檔案過大
+	Import “{set}”	匯入「{set}」
+	Set name:	組合名稱：
+	Cancel Import	取消匯入
+	line {n}	第 {n} 行
+	Will change	將變更
+	Not matched	未相符
+	Unreadable	無法讀取
+	Approximated	近似相符
+	{title} ({n})	{title}（{n}）
+	Suggestions ({n})	建議（{n}）
+	numeric keypad key read as main key	數字小鍵盤上的按鍵被讀作主鍵盤按鍵
+	Matched without change	無需變更即相符
+	Command for {item}	{item} 對應的指令
+	Choose a command…	選擇指令…
+	no command has this name	沒有名稱相符的指令
+	more than one command fits	有多個指令符合
+	in a context that is not imported	所在情境不會被匯入
+	only a command of the other kind fits (tool or menu command)	只有另一類指令（工具或選單指令）符合
+	empty shortcut	快速鍵為空白
+	the shortcut is too long	快速鍵過長
+	unknown key {key}	未知的按鍵 {key}
+	unsupported modifier {key}	不支援的修飾鍵 {key}
+	{label} keeps its shortcuts (matched by a panel menu name)	「{label}」保留其快速鍵（依面板選單名稱相符）
+	Import as New Set	匯入為新組合
+	Imported	已匯入
+	Imported as “{set}”	已匯入為「{set}」
+	Skipped	已跳過
+	Taken from other commands	從其他指令移入
+	Not changed	未變更
+	taken by {label}	被「{label}」佔用
+	taken by a later entry	被後面的項目佔用
+	reserved by the system	系統保留
+	the scope is unknown	範圍未知
+	the set's shortcuts could not be added	無法新增該組合的快速鍵
+	the shortcuts could not be removed	無法移除這些快速鍵
+	Copy Report	複製報告
+@plural	{n} shortcut is assigned more than once|{n} shortcuts are assigned more than once	有 {n} 個快速鍵被重複指定
+@plural	{n} saved shortcut could not be used|{n} saved shortcuts could not be used	有 {n} 個已儲存的快速鍵無法使用
+@plural	{n} command will change|{n} commands will change	有 {n} 個指令將變更
+@plural	{n} item without a shortcut|{n} items without a shortcut	有 {n} 個項目沒有快速鍵
+@plural	{n} item not matched|{n} items not matched	有 {n} 個項目未相符
+@plural	{n} item could not be read|{n} items could not be read	有 {n} 個項目無法讀取
+@plural	{n} key read approximately|{n} keys read approximately	有 {n} 個按鍵以近似方式讀取
+@plural	{n} entry cut at a limit|{n} entries cut at a limit	有 {n} 個項目因超出限制被截斷
+@plural	{n} command changed|{n} commands changed	有 {n} 個指令已變更
+@plural	{n} shortcut also works in another scope|{n} shortcuts also work in another scope	有 {n} 個快速鍵在其他範圍中也有效
+@plural	{n} entry was ignored: too many commands|{n} entries were ignored: too many commands	有 {n} 個項目因指令過多被忽略

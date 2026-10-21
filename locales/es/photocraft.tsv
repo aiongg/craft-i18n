@@ -1175,7 +1175,6 @@ cameraData	F-Stop	Número f
 	Filter Gallery	Galería de filtros
 	Filter Gallery…	Galería de filtros…
 @id	filter.sharpen.sharpen	Enfocar
-	Filter:	Filtro:
 	Find and Replace Text	Buscar y reemplazar texto
 	Find and Replace Text…	Buscar y reemplazar texto…
 	Find Edges	Hallar bordes
@@ -1565,7 +1564,6 @@ fontWeight	Italic	Cursiva
 	Keep view in sync	Mantener la vista sincronizada
 	Keeps the current texture when switching presets.	Mantiene la textura actual al cambiar de ajuste preestablecido.
 	Kernel	Núcleo
-	Keyboard	Teclado
 	Keyboard Shortcuts and Menus	Métodos abreviados de teclado y menús
 	Keyboard shortcuts imported	Métodos abreviados de teclado importados
 	Knockout	Extraer
@@ -1901,7 +1899,6 @@ cameraData	Model	Modelo
 	New Path	Nuevo trazado
 	New Selection	Selección nueva
 	New selection	Selección nueva
-	New Set…	Nuevo conjunto…
 	New Shape Layer	Nueva capa de forma
 	New Size	Tamaño nuevo
 	New Smart Object via Copy	Nuevo objeto inteligente mediante copia
@@ -2382,7 +2379,6 @@ fontWeight	Regular	Normal
 	Resample	Remuestrear
 	Reset	Restaurar
 	Reset Alignment	Restablecer la alineación
-	Reset All	Restablecer todo
 	Reset All Locked Settings	Restaurar todos los ajustes bloqueados
 	Reset All to Defaults	Restablecer todo a los valores predeterminados
 	Reset All Tools	Restablecer todas las herramientas
@@ -2857,7 +2853,6 @@ curves	Smooth	Suavizar
 	Subtract Mask from Selection	Restar máscara de la selección
 	Subtract Shapes at Overlap	Restar formas superpuestas
 	Suggestions:	Sugerencias:
-	Summarize…	Resumir…
 	Summation	Sumatoria
 	Supplemental Categories	Categorías suplementarias
 	Surface Blur	Desenfoque de superficie

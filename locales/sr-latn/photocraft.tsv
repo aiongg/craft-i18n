@@ -1188,7 +1188,6 @@ layers	Fill:	Popuna:
 	Filter Gallery	Galerija filtera
 	Filter Gallery…	Galerija filtera…
 @id	filter.sharpen.sharpen	Izoštri
-	Filter:	Filter:
 	Find and Replace Text	Pronađi i zameni tekst
 	Find and Replace Text…	Pronađi i zameni tekst…
 	Find Edges	Pronađi ivice
@@ -1476,7 +1475,6 @@ cameraRaw	Hue	Nijansa
 	Import Settings	Uvezi podešavanja
 	Import Shortcuts…	Uvezi prečice…
 	Import Swatches…	Uvezi uzorke boja…
-	Imported	Uvezeno
 @plural	Imported {n} brush from {file}|Imported {n} brushes from {file}	Uvezena je {n} četkica iz {file}|Uvezene su {n} četkice iz {file}|Uvezeno je {n} četkica iz {file}
 @plural	Imported {n} brush from {group}|Imported {n} brushes from {group}	Uvezena je {n} četkica iz {group}|Uvezene su {n} četkice iz {group}|Uvezeno je {n} četkica iz {group}
 @plural	Imported {n} gradient from {file}|Imported {n} gradients from {file}	Uvezen je {n} gradijent iz {file}|Uvezena su {n} gradijenta iz {file}|Uvezeno je {n} gradijenata iz {file}
@@ -1576,7 +1574,6 @@ fontWeight	Italic	Kurziv
 	Keeps the current texture when switching presets.	Zadržava tekuću teksturu pri promeni šablona.
 	Kernel	Jezgro
 	Kerning: Metrics, Optical or a value in 1/1000 em (Alt+←/→ at the caret)	Kerning: metrički, optički ili vrednost u 1/1000 em (Alt+←/→ kod kursora)
-	Keyboard	Tastatura
 	Keyboard Shortcuts and Menus	Prečice na tastaturi i meniji
 	Keyboard shortcuts imported	Prečice na tastaturi su uvezene
 	Knockout	Izbijanje
@@ -1924,7 +1921,6 @@ cameraData	Model	Model
 	New Path	Nova putanja
 	New Selection	Nova selekcija
 	New selection	Nova selekcija
-	New Set…	Novi skup…
 	New Shape Layer	Novi sloj oblika
 	New Size	Nova veličina
 	New Smart Object via Copy	Novi pametni objekat kopiranjem
@@ -2404,7 +2400,6 @@ fontWeight	Regular	Obično
 	Report an Issue	Prijavi problem
 	Resample	Ponovo uzorkuj
 	Reset Alignment	Resetuj poravnanje
-	Reset All	Resetuj sve
 	Reset All Locked Settings	Vrati sva zaključana podešavanja
 	Reset All to Defaults	Vrati sve na podrazumevano
 	Reset All Tools	Resetuj sve alatke

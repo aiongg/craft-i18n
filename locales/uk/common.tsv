@@ -1266,3 +1266,151 @@
 @plural	{n} step|{n} steps	{n} крок|{n} кроки|{n} кроків
 	−Bin	−Bin
 	● Recording	● Запис
+
+# Keyboard Shortcuts dialog (craft-keymap)
+	Reset All…	Скинути все…
+	Restore every default shortcut in this set?	Відновити всі типові сполучення клавіш у цьому наборі?
+	Reset All	Скинути все
+	Filter:	Фільтр:
+	Search:	Пошук:
+	Search by key	Пошук за клавішею
+	All Commands	Усі команди
+	{menu} Menu	Меню «{menu}»
+	{panel} Panel	Панель «{panel}»
+	Fixed Keys	Фіксовані клавіші
+	With Shortcut	Зі сполученням
+	Changed	Змінено
+	Conflicts	Конфлікти
+	(cycles)	(циклічно)
+	{label} (cycles)	{label} (циклічно)
+	{label} (Changed)	{label} (змінено)
+	Commands	Команди
+	Detail pane size	Розмір області відомостей
+	Select a command to see and change its shortcuts	Виберіть команду, щоб побачити та змінити її сполучення клавіш
+	{chord} (Default)	{chord} (за замовчуванням)
+	{chord} ({scope})	{chord} ({scope})
+	{label} ({scope})	{label} ({scope})
+	Current shortcuts:	Поточні сполучення:
+	New shortcut:	Нове сполучення:
+	New shortcut: {chord}	Нове сполучення: {chord}
+	press keys	натисніть клавіші
+	{chord} (press again for a double press)	{chord} (натисніть ще раз для подвійного натискання)
+	Context:	Контекст:
+	Default: {chord}	За замовчуванням: {chord}
+	Currently assigned to:	Наразі призначено:
+	Not assigned	Не призначено
+	{label} ({scope}, both work)	{label} ({scope}, діють обидва)
+	Add a shortcut to {label}	Додати сполучення для «{label}»
+	Remove {chord} from {label}	Прибрати {chord} у «{label}»
+	Restore the default for {label}	Відновити сполучення за замовчуванням для «{label}»
+	{label}: {chord}	{label}: {chord}
+	{label}: press keys	{label}: натисніть клавіші
+	Now used by {label}	Тепер використовується командою «{label}»
+	{label}: {chord} (Now used by {holder})	{label}: {chord} (тепер використовується командою «{holder}»)
+	the shortcut has no key	у сполученні немає клавіші
+	unknown modifier {key}	невідомий модифікатор {key}
+	modifier {key} given twice	модифікатор {key} указано двічі
+	key sequences are not supported	послідовності клавіш не підтримуються
+	the scope name is not valid	недійсна назва області
+	Keyboard	Клавіатура
+	Keyboard: US	Клавіатура: US
+	Keyboard: US (macOS)	Клавіатура: US (macOS)
+	Control	Control
+	Option	Option
+	Caps Lock	Caps Lock
+	Win	Win
+	Super	Super
+	Panel or context	Панель або контекст
+	Modifier on	Модифікатор увімкнено
+	{chord}: {label}	{chord}: {label}
+	Click a key to see its shortcuts	Натисніть клавішу, щоб побачити її сполучення
+	Key: {key}	Клавіша: {key}
+	Assign to Selected	Призначити вибраній
+	Assign {chord} to {label}	Призначити {chord} команді «{label}»
+	Select a command first	Спершу виберіть команду
+	Nothing uses this key	Ця клавіша ніде не використовується
+	⚠ {chord} is used by {label}	⚠ {chord} уже використовується командою «{label}»
+	{chord} was removed from {label}	{chord} прибрано у команди «{label}»
+	Also used by {label}	Також використовується командою «{label}»
+	{chord} is reserved by the system	{chord} зарезервовано системою
+	A command can have at most {n} shortcuts	Команда може мати щонайбільше {n} сполучень
+	The scope {scope} is unknown	Невідома область: {scope}
+	Too many shortcuts are assigned	Призначено забагато сполучень
+	This command is unknown	Ця команда невідома
+	Take It	Забрати
+	Take It and Go to Conflict	Забрати й перейти до конфлікту
+	Keep Both	Залишити обидва
+	Go to Conflict	Перейти до конфлікту
+	Cancel the new shortcut	Скасувати нове сполучення
+	{key}: no command has this name	{key}: немає команди з такою назвою
+	{key}: “{text}” is not a shortcut ({error})	{key}: «{text}» не є сполученням клавіш ({error})
+	{key}: {text} is reserved by the system	{key}: {text} зарезервовано системою
+	{key}: the scope in “{text}” is unknown	{key}: невідома область у «{text}»
+	{key}: listed more than once	{key}: указано більше одного разу
+	{key}: part of the entry was dropped	{key}: частину запису відкинуто
+	(modified)	(змінений)
+	New Set…	Новий набір…
+	Revert Set	Повернути набір
+	Summarize…	Зведення…
+	{title}: {set}	{title}: {set}
+	Based on:	На основі:
+	Current shortcuts	Поточні сполучення
+	Save changes to “{set}”?	Зберегти зміни в «{set}»?
+	Delete the set “{set}”?	Видалити набір «{set}»?
+	Keyboard Shortcuts (JSON)	Сполучення клавіш (JSON)
+	The name is empty, too long or has control characters	Назва порожня, задовга або містить керівні символи
+	A set with this name exists	Набір із такою назвою вже існує
+	The set was not found	Набір не знайдено
+	Built-in sets cannot be changed	Вбудовані набори змінювати не можна
+	There are too many sets	Забагато наборів
+	This is not a shortcut set file	Це не файл набору сполучень клавіш
+	This is not a craft-keymap file	Це не файл craft-keymap
+	This file is from a newer version (format {n})	Цей файл створено в новішій версії (формат {n})
+	The file is too large	Файл завеликий
+	Import “{set}”	Імпорт «{set}»
+	Set name:	Назва набору:
+	Cancel Import	Скасувати імпорт
+	line {n}	рядок {n}
+	Will change	Буде змінено
+	Not matched	Не зіставлено
+	Unreadable	Не прочитано
+	Approximated	Приблизно
+	{title} ({n})	{title} ({n})
+	Suggestions ({n})	Пропозиції ({n})
+	numeric keypad key read as main key	клавішу цифрової клавіатури прочитано як основну
+	Matched without change	Зіставлено без змін
+	Command for {item}	Команда для {item}
+	Choose a command…	Вибрати команду…
+	no command has this name	немає команди з такою назвою
+	more than one command fits	підходить більше однієї команди
+	in a context that is not imported	у контексті, який не імпортується
+	only a command of the other kind fits (tool or menu command)	підходить лише команда іншого виду (інструмент або команда меню)
+	empty shortcut	порожнє сполучення
+	the shortcut is too long	сполучення задовге
+	unknown key {key}	невідома клавіша {key}
+	unsupported modifier {key}	непідтримуваний модифікатор {key}
+	{label} keeps its shortcuts (matched by a panel menu name)	{label} зберігає свої сполучення (зіставлено за назвою меню панелі)
+	Import as New Set	Імпортувати як новий набір
+	Imported	Імпортовано
+	Imported as “{set}”	Імпортовано як «{set}»
+	Skipped	Пропущено
+	Taken from other commands	Взято в інших команд
+	Not changed	Не змінено
+	taken by {label}	зайнято командою «{label}»
+	taken by a later entry	зайнято пізнішим записом
+	reserved by the system	зарезервовано системою
+	the scope is unknown	область невідома
+	the set's shortcuts could not be added	не вдалося додати сполучення набору
+	the shortcuts could not be removed	не вдалося прибрати сполучення
+	Copy Report	Копіювати звіт
+@plural	{n} shortcut is assigned more than once|{n} shortcuts are assigned more than once	{n} сполучення призначено більш ніж один раз|{n} сполучення призначено більш ніж один раз|{n} сполучень призначено більш ніж один раз
+@plural	{n} saved shortcut could not be used|{n} saved shortcuts could not be used	{n} збережене сполучення не вдалося використати|{n} збережені сполучення не вдалося використати|{n} збережених сполучень не вдалося використати
+@plural	{n} command will change|{n} commands will change	{n} команду буде змінено|{n} команди буде змінено|{n} команд буде змінено
+@plural	{n} item without a shortcut|{n} items without a shortcut	{n} елемент без сполучення|{n} елементи без сполучення|{n} елементів без сполучення
+@plural	{n} item not matched|{n} items not matched	{n} елемент не зіставлено|{n} елементи не зіставлено|{n} елементів не зіставлено
+@plural	{n} item could not be read|{n} items could not be read	{n} елемент не вдалося прочитати|{n} елементи не вдалося прочитати|{n} елементів не вдалося прочитати
+@plural	{n} key read approximately|{n} keys read approximately	{n} клавішу прочитано приблизно|{n} клавіші прочитано приблизно|{n} клавіш прочитано приблизно
+@plural	{n} entry cut at a limit|{n} entries cut at a limit	{n} запис обрізано за обмеженням|{n} записи обрізано за обмеженням|{n} записів обрізано за обмеженням
+@plural	{n} command changed|{n} commands changed	{n} команду змінено|{n} команди змінено|{n} команд змінено
+@plural	{n} shortcut also works in another scope|{n} shortcuts also work in another scope	{n} сполучення також діє в іншій області|{n} сполучення також діють в іншій області|{n} сполучень також діють в іншій області
+@plural	{n} entry was ignored: too many commands|{n} entries were ignored: too many commands	{n} запис проігноровано: забагато команд|{n} записи проігноровано: забагато команд|{n} записів проігноровано: забагато команд

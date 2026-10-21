@@ -798,7 +798,6 @@ axis	Both	Molemmat
 	Copy into the document's folder	Kopioi asiakirjan kansioon
 	Copy Links	Kopioi linkit
 	Copy only fonts you own or are licensed to install.	Kopioi vain fontteja, jotka omistat tai joiden asentamiseen sinulla on lisenssi.
-	Copy Report	Kopioi raportti
 	Copy Selected Style	Kopioi valittu tyyli
 	Copy to User Defined	Kopioi käyttäjän määrittämiin
 	Copy Width Point	Kopioi leveyspiste
@@ -1475,7 +1474,6 @@ file-filter	Flattener presets	Litistyksen esiasetukset
 	Glyph Scaling:	Merkkien skaalaus:
 	glyph {id}	merkki {id}
 	Go to Artboard	Siirry piirtoalustaan
-	Go to Conflict	Siirry ristiriitaan
 	Go To Link	Siirry linkkiin
 	GPL palettes keep solid colours only, as RGB.	GPL-paletit säilyttävät vain tasavärit RGB-muodossa.
 	GPU Performance	GPU-suorituskyky
@@ -4235,7 +4233,6 @@ effect	Vertical	Pysty
 @plural	{n} Object|{n} Objects	{n} objekti|{n} objektia
 @plural	{n} part of the file wasn't read|{n} parts of the file weren't read	{n} tiedoston osa jäi lukematta|{n} tiedoston osaa jäi lukematta
 @plural	{n} PR|{n} PRs	{n} PR|{n} PR:ää
-@plural	{n} shortcut is assigned more than once|{n} shortcuts are assigned more than once	{n} pikanäppäin on määritetty useammin kuin kerran|{n} pikanäppäintä on määritetty useammin kuin kerran
 @plural	{n} star|{n} stars	{n} tähti|{n} tähteä
 @plural	{n} stroke|{n} strokes	{n} viiva|{n} viivaa
 	{pages} in all, {count} per copy	{pages} yhteensä, {count} kopiota kohden

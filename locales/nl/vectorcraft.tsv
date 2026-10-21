@@ -826,7 +826,6 @@ swatch	Copper	Koper
 	Copy into the document's folder	Kopiëren naar de map van het document
 	Copy Links	Koppelingen kopiëren
 	Copy only fonts you own or are licensed to install.	Kopieer alleen lettertypen die je bezit of waarvoor je een licentie hebt om ze te installeren.
-	Copy Report	Rapport kopiëren
 	Copy Selected Style	Geselecteerde stijl kopiëren
 	Copy to User Defined	Kopiëren naar Gebruikergedefinieerd
 	Copy Width Point	Breedtepunt kopiëren
@@ -1511,7 +1510,6 @@ file-filter	Flattener presets	Afvlakvoorinstellingen
 	Glyph Scaling:	Glyphschaal:
 	glyph {id}	glyph {id}
 	Go to Artboard	Ga naar tekengebied
-	Go to Conflict	Naar conflict gaan
 	Go To Link	Naar koppeling gaan
 	GPL palettes keep solid colours only, as RGB.	GPL-paletten bevatten alleen effen kleuren, als RGB.
 	GPU Performance	GPU-prestaties

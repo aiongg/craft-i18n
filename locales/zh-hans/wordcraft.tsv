@@ -105,7 +105,6 @@
 	Alignment:	对齐方式：
 	All Borders	所有框线
 	All caps	全部大写
-	All Commands	所有命令
 	All Levels	所有级别
 	All Markup	所有标记
 	All pages in the range	范围内的所有页面
@@ -345,7 +344,6 @@
 	Columns:	栏数：
 	Combine Documents	合并文档
 	Combo Box Content Control	组合框内容控件
-	Commands	命令
 	Comment	批注
 	Comments	批注
 	Comments beside each page and tracked changes in PDFs, prints and images; a comment list at the end of web pages, Markdown and text.	在 PDF、打印和图像中于每页旁显示批注和修订；在网页、Markdown 和文本末尾附上批注列表。
@@ -1017,7 +1015,6 @@
 	New Label	新建标签
 	New Label…	新建标签…
 	New Paragraph	新段落
-	New shortcut:	新快捷键：
 	New Tab	新建选项卡
 	New Table Style	新建表格样式
 	New Table Style…	新建表格样式…
@@ -1352,7 +1349,6 @@
 	Researcher	研究工具
 	Researcher needs an online service; WordCraft keeps your documents offline.	研究工具需要在线服务；WordCraft 会将你的文档保留在本地。
 	Reset	重设
-	Reset All…	全部重置…
 	Reset Character Formatting	重置字符格式
 	Reset Crop	重设裁剪
 	Reset Graphic	重设图形

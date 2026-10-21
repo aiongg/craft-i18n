@@ -406,3 +406,165 @@ theme	Appearance	Išvaizda
 	{n} h ago	Prieš {n} val.
 	{n} min ago	Prieš {n} min.
 	−Bin	−Dvej.
+
+# Keyboard Shortcuts dialog (craft-keymap)
+	Keyboard Shortcuts	Spartieji klavišai
+	Reset All…	Atkurti viską…
+	Restore every default shortcut in this set?	Atkurti visus numatytuosius šio rinkinio sparčiuosius klavišus?
+	Reset All	Atkurti viską
+	Filter:	Filtras:
+	Search:	Ieškoti:
+	Search by key	Ieškoti pagal klavišą
+	All Commands	Visos komandos
+	{menu} Menu	Meniu {menu}
+	{panel} Panel	Skydelis {panel}
+	Other	Kita
+	Fixed Keys	Fiksuoti klavišai
+	With Shortcut	Su spartuoju klavišu
+	Changed	Pakeista
+	Conflicts	Konfliktai
+	No matching commands	Nėra tinkamų komandų
+	(cycles)	(kaitaliojama)
+	{label} (cycles)	{label} (kaitaliojama)
+	{label} (Changed)	{label} (pakeista)
+	Commands	Komandos
+	Detail pane size	Išsamios informacijos srities dydis
+	Select a command to see and change its shortcuts	Pasirinkite komandą, kad pamatytumėte ir pakeistumėte jos sparčiuosius klavišus
+	Shortcut	Spartusis klavišas
+	{chord} (Default)	{chord} (numatytasis)
+	{chord} ({scope})	{chord} ({scope})
+	{label} ({scope})	{label} ({scope})
+	Current shortcuts:	Dabartiniai sparčieji klavišai:
+	New shortcut:	Naujas spartusis klavišas:
+	New shortcut: {chord}	Naujas spartusis klavišas: {chord}
+	press keys	paspauskite klavišus
+	{chord} (press again for a double press)	{chord} (paspauskite dar kartą, kad būtų dvigubas paspaudimas)
+	Type…	Įvesti…
+	Context:	Kontekstas:
+	Assign	Priskirti
+	Use Default	Naudoti numatytąjį
+	Default: {chord}	Numatytasis: {chord}
+	Currently assigned to:	Šiuo metu priskirta:
+	Not assigned	Nepriskirta
+	{label} ({scope}, both work)	{label} ({scope}, veikia abu)
+	Add a shortcut to {label}	Pridėti spartųjį klavišą komandai {label}
+	Remove {chord} from {label}	Pašalinti {chord} iš {label}
+	Restore the default for {label}	Atkurti numatytąjį {label} klavišą
+	{label}: {chord}	{label}: {chord}
+	{label}: press keys	{label}: paspauskite klavišus
+	Now used by {label}	Dabar naudoja {label}
+	{label}: {chord} (Now used by {holder})	{label}: {chord} (dabar naudoja {holder})
+	the shortcut has no key	spartusis klavišas neturi klavišo
+	unknown modifier {key}	nežinomas modifikatorius {key}
+	modifier {key} given twice	modifikatorius {key} nurodytas du kartus
+	key sequences are not supported	klavišų sekos nepalaikomos
+	the scope name is not valid	srities pavadinimas netinkamas
+	Keyboard	Klaviatūra
+	Keyboard: US	Klaviatūra: US
+	Keyboard: US (macOS)	Klaviatūra: US (macOS)
+	Control	Control
+	Option	Option
+	Shift	Shift
+	Ctrl	Ctrl
+	Alt	Alt
+	Caps Lock	Caps Lock
+	Win	Win
+	Super	Super
+	Panel or context	Skydelis arba kontekstas
+	Modifier on	Modifikatorius įjungtas
+	{chord}: {label}	{chord}: {label}
+	Click a key to see its shortcuts	Spustelėkite klavišą, kad pamatytumėte jo sparčiuosius klavišus
+	Key: {key}	Klavišas: {key}
+	Assign to Selected	Priskirti pasirinktai
+	Assign {chord} to {label}	Priskirti {chord} komandai {label}
+	Select a command first	Pirmiausia pasirinkite komandą
+	Nothing uses this key	Šio klavišo niekas nenaudoja
+	⚠ {chord} is used by {label}	⚠ {chord} naudoja {label}
+	{chord} was removed from {label}	{chord} pašalintas iš {label}
+	Also used by {label}	Taip pat naudoja {label}
+	{chord} is reserved by the system	{chord} rezervuotas sistemai
+	A command can have at most {n} shortcuts	Komanda gali turėti ne daugiau kaip {n} sparčiųjų klavišų
+	The scope {scope} is unknown	Sritis {scope} nežinoma
+	Too many shortcuts are assigned	Priskirta per daug sparčiųjų klavišų
+	This command is unknown	Ši komanda nežinoma
+	Take It	Perimti
+	Take It and Go to Conflict	Perimti ir pereiti prie konflikto
+	Keep Both	Palikti abu
+	Go to Conflict	Pereiti prie konflikto
+	Cancel the new shortcut	Atsisakyti naujo sparčiojo klavišo
+	{key}: no command has this name	{key}: nėra komandos tokiu pavadinimu
+	{key}: “{text}” is not a shortcut ({error})	{key}: „{text}“ nėra spartusis klavišas ({error})
+	{key}: {text} is reserved by the system	{key}: {text} rezervuotas sistemai
+	{key}: the scope in “{text}” is unknown	{key}: „{text}“ sritis nežinoma
+	{key}: listed more than once	{key}: nurodytas daugiau nei vieną kartą
+	{key}: part of the entry was dropped	{key}: dalis įrašo praleista
+	Set:	Rinkinys:
+	(modified)	(pakeistas)
+	New Set…	Naujas rinkinys…
+	Rename…	Pervadinti…
+	Revert Set	Grąžinti įrašytą rinkinį
+	Import…	Importuoti…
+	Summarize…	Sudaryti suvestinę…
+	{title}: {set}	{title}: {set}
+	Based on:	Pagrįsta:
+	Current shortcuts	Dabartiniai sparčieji klavišai
+	Save changes to “{set}”?	Įrašyti „{set}“ pakeitimus?
+	Don't Save	Neįrašyti
+	Delete the set “{set}”?	Naikinti rinkinį „{set}“?
+	Keyboard Shortcuts (JSON)	Spartieji klavišai (JSON)
+	The name is empty, too long or has control characters	Pavadinimas tuščias, per ilgas arba jame yra valdymo simbolių
+	A set with this name exists	Rinkinys tokiu pavadinimu jau yra
+	The set was not found	Rinkinys nerastas
+	Built-in sets cannot be changed	Integruotų rinkinių keisti negalima
+	There are too many sets	Rinkinių per daug
+	This is not a shortcut set file	Tai nėra sparčiųjų klavišų rinkinio failas
+	This is not a craft-keymap file	Tai nėra craft-keymap failas
+	This file is from a newer version (format {n})	Šis failas iš naujesnės versijos (formatas {n})
+	The file is too large	Failas per didelis
+	Import “{set}”	Importuoti „{set}“
+	Set name:	Rinkinio pavadinimas:
+	Cancel Import	Atšaukti importavimą
+	line {n}	{n} eilutė
+	Will change	Pasikeis
+	Not matched	Nesutapo
+	Unreadable	Neperskaitoma
+	Approximated	Apytiksliai
+	{title} ({n})	{title} ({n})
+	Suggestions ({n})	Pasiūlymai ({n})
+	numeric keypad key read as main key	skaitinės klaviatūros klavišas perskaitytas kaip pagrindinis
+	Matched without change	Sutapo be pakeitimų
+	Command for {item}	Komanda elementui {item}
+	Choose a command…	Pasirinkti komandą…
+	no command has this name	nėra komandos tokiu pavadinimu
+	more than one command fits	tinka daugiau nei viena komanda
+	in a context that is not imported	kontekste, kuris neimportuojamas
+	only a command of the other kind fits (tool or menu command)	tinka tik kito tipo komanda (įrankis arba meniu komanda)
+	empty shortcut	tuščias spartusis klavišas
+	the shortcut is too long	spartusis klavišas per ilgas
+	unknown key {key}	nežinomas klavišas {key}
+	unsupported modifier {key}	nepalaikomas modifikatorius {key}
+	{label} keeps its shortcuts (matched by a panel menu name)	{label} išlaiko savo sparčiuosius klavišus (sutapo pagal skydelio meniu pavadinimą)
+	Import as New Set	Importuoti kaip naują rinkinį
+	Imported	Importuota
+	Imported as “{set}”	Importuota kaip „{set}“
+	Skipped	Praleista
+	Taken from other commands	Perimta iš kitų komandų
+	Not changed	Nepakeista
+	taken by {label}	perėmė {label}
+	taken by a later entry	perėmė vėlesnis įrašas
+	reserved by the system	rezervuota sistemai
+	the scope is unknown	sritis nežinoma
+	the set's shortcuts could not be added	nepavyko pridėti rinkinio sparčiųjų klavišų
+	the shortcuts could not be removed	nepavyko pašalinti sparčiųjų klavišų
+	Copy Report	Kopijuoti ataskaitą
+@plural	{n} shortcut is assigned more than once|{n} shortcuts are assigned more than once	{n} spartusis klavišas priskirtas daugiau nei vieną kartą|{n} sparčieji klavišai priskirti daugiau nei vieną kartą|{n} sparčiųjų klavišų priskirta daugiau nei vieną kartą
+@plural	{n} saved shortcut could not be used|{n} saved shortcuts could not be used	{n} įrašytas spartusis klavišas negali būti naudojamas|{n} įrašyti sparčieji klavišai negali būti naudojami|{n} įrašytų sparčiųjų klavišų negalima naudoti
+@plural	{n} command will change|{n} commands will change	Pasikeis {n} komanda|Pasikeis {n} komandos|Pasikeis {n} komandų
+@plural	{n} item without a shortcut|{n} items without a shortcut	{n} elementas be sparčiojo klavišo|{n} elementai be sparčiojo klavišo|{n} elementų be sparčiojo klavišo
+@plural	{n} item not matched|{n} items not matched	{n} elementas nesutapo|{n} elementai nesutapo|{n} elementų nesutapo
+@plural	{n} item could not be read|{n} items could not be read	Nepavyko perskaityti {n} elemento|Nepavyko perskaityti {n} elementų|Nepavyko perskaityti {n} elementų
+@plural	{n} key read approximately|{n} keys read approximately	{n} klavišas perskaitytas apytiksliai|{n} klavišai perskaityti apytiksliai|{n} klavišų perskaityta apytiksliai
+@plural	{n} entry cut at a limit|{n} entries cut at a limit	{n} įrašas nukirstas ties riba|{n} įrašai nukirsti ties riba|{n} įrašų nukirsta ties riba
+@plural	{n} command changed|{n} commands changed	Pakeista {n} komanda|Pakeistos {n} komandos|Pakeista {n} komandų
+@plural	{n} shortcut also works in another scope|{n} shortcuts also work in another scope	{n} spartusis klavišas veikia ir kitoje srityje|{n} sparčieji klavišai veikia ir kitoje srityje|{n} sparčiųjų klavišų veikia ir kitoje srityje
+@plural	{n} entry was ignored: too many commands|{n} entries were ignored: too many commands	Ignoruotas {n} įrašas: per daug komandų|Ignoruoti {n} įrašai: per daug komandų|Ignoruota {n} įrašų: per daug komandų
